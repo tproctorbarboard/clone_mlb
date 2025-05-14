@@ -1,0 +1,1972 @@
+[
+  {
+    "title": "Brewers vs. Guardians Highlights",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-recap",
+        "displayName": "game recap"
+      },
+      {
+        "type": "mlbtax",
+        "value": "mlb_recap",
+        "displayName": "Game Recap"
+      },
+      {
+        "type": "subject",
+        "value": "MLBCOM_GAME_RECAP",
+        "displayName": "MLBCOM_GAME_RECAP"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "apple-news",
+        "displayName": "Apple News"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "3-yahoo-ads-feed",
+        "displayName": "3-Yahoo Ads Feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "tune-in-daily",
+        "displayName": "TuneIn daily"
+      },
+      {
+        "type": "taxonomy",
+        "value": "roku-vod",
+        "displayName": "Roku VOD"
+      },
+      {
+        "type": "taxonomy",
+        "value": "alexa",
+        "displayName": "alexa"
+      },
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      }
+    ]
+  },
+  {
+    "title": "Condensed Game: MIL@CLE - 5/12/25",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "condensed-game",
+        "displayName": "condensed game"
+      },
+      {
+        "type": "mlbtax",
+        "value": "condensed_game",
+        "displayName": "Condensed Game"
+      },
+      {
+        "type": "subject",
+        "value": "MLBCOM_CONDENSED_GAME",
+        "displayName": "MLBCOM_CONDENSED_GAME"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "alexa",
+        "displayName": "alexa"
+      }
+    ]
+  },
+  {
+    "title": "Gabriel Arias' bases-clearing double",
+    "player_ids": [
+      "672356"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "player",
+        "value": "playerid-672356",
+        "displayName": "Gabriel Arias"
+      },
+      {
+        "type": "player_id",
+        "value": "672356",
+        "displayName": "Gabriel Arias"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "hitting",
+        "displayName": "hitting"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "yahoo-in-game",
+        "displayName": "Yahoo In-Game"
+      },
+      {
+        "type": "taxonomy",
+        "value": "2-yahoo-mlb-ads-feed",
+        "displayName": "2-Yahoo MLB Ads Feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "send-to-news-mlb-feed",
+        "displayName": "Send To News MLB feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "apple-news",
+        "displayName": "Apple News"
+      },
+      {
+        "type": "taxonomy",
+        "value": "star-of-the-game",
+        "displayName": "Player of the Game"
+      }
+    ]
+  },
+  {
+    "title": "Ram\u00edrez extends on-base streak, steals 2nd and 3rd",
+    "player_ids": [
+      "608070"
+    ],
+    "keywords": [
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "player",
+        "value": "playerid-608070",
+        "displayName": "Jos\u00e9 Ram\u00edrez"
+      },
+      {
+        "type": "player_id",
+        "value": "608070",
+        "displayName": "Jos\u00e9 Ram\u00edrez"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "hitting",
+        "displayName": "hitting"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight-reel-offense",
+        "displayName": "highlight reel offense"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      }
+    ]
+  },
+  {
+    "title": "Sal Frelick's diving catch",
+    "player_ids": [
+      "686217"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "taxonomy",
+        "value": "defense",
+        "displayName": "defense"
+      },
+      {
+        "type": "taxonomy",
+        "value": "omg",
+        "displayName": "omg"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "player",
+        "value": "playerid-686217",
+        "displayName": "Sal Frelick"
+      },
+      {
+        "type": "player_id",
+        "value": "686217",
+        "displayName": "Sal Frelick"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "yahoo-in-game",
+        "displayName": "Yahoo In-Game"
+      },
+      {
+        "type": "taxonomy",
+        "value": "2-yahoo-mlb-ads-feed",
+        "displayName": "2-Yahoo MLB Ads Feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "send-to-news-mlb-feed",
+        "displayName": "Send To News MLB feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "apple-news",
+        "displayName": "Apple News"
+      }
+    ]
+  },
+  {
+    "title": "Jos\u00e9 Ram\u00edrez steals 255th career base",
+    "player_ids": [
+      "608070"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "player",
+        "value": "playerid-608070",
+        "displayName": "Jos\u00e9 Ram\u00edrez"
+      },
+      {
+        "type": "player_id",
+        "value": "608070",
+        "displayName": "Jos\u00e9 Ram\u00edrez"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "stolen-base",
+        "displayName": "stolen base"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "apple-news",
+        "displayName": "Apple News"
+      }
+    ]
+  },
+  {
+    "title": "Freddy Peralta's 1,000th career strikeout",
+    "player_ids": [
+      "642547"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "player",
+        "value": "playerid-642547",
+        "displayName": "Freddy Peralta"
+      },
+      {
+        "type": "player_id",
+        "value": "642547",
+        "displayName": "Freddy Peralta"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "pitching",
+        "displayName": "pitching"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "milestone",
+        "displayName": "milestone"
+      },
+      {
+        "type": "taxonomy",
+        "value": "yahoo-in-game",
+        "displayName": "Yahoo In-Game"
+      },
+      {
+        "type": "taxonomy",
+        "value": "2-yahoo-mlb-ads-feed",
+        "displayName": "2-Yahoo MLB Ads Feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "send-to-news-mlb-feed",
+        "displayName": "Send To News MLB feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "apple-news",
+        "displayName": "Apple News"
+      }
+    ]
+  },
+  {
+    "title": "Kyle Manzardo's RBI single",
+    "player_ids": [
+      "700932"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "player",
+        "value": "playerid-700932",
+        "displayName": "Kyle Manzardo"
+      },
+      {
+        "type": "player_id",
+        "value": "700932",
+        "displayName": "Kyle Manzardo"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "taxonomy",
+        "value": "hitting",
+        "displayName": "hitting"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "sporty-cc",
+        "displayName": "Sporty CC"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      }
+    ]
+  },
+  {
+    "title": "Brice Turang's slick glove flip",
+    "player_ids": [
+      "668930"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "player",
+        "value": "playerid-668930",
+        "displayName": "Brice Turang"
+      },
+      {
+        "type": "player_id",
+        "value": "668930",
+        "displayName": "Brice Turang"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "defense",
+        "displayName": "defense"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      }
+    ]
+  },
+  {
+    "title": "Hunter Gaddis seals the 5-0 win",
+    "player_ids": [
+      "683769"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "player",
+        "value": "playerid-683769",
+        "displayName": "Hunter Gaddis"
+      },
+      {
+        "type": "player_id",
+        "value": "683769",
+        "displayName": "Hunter Gaddis"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "taxonomy",
+        "value": "pitching",
+        "displayName": "pitching"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      }
+    ]
+  },
+  {
+    "title": "Carlos Santana's RBI walk",
+    "player_ids": [
+      "467793"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "player",
+        "value": "playerid-467793",
+        "displayName": "Carlos Santana"
+      },
+      {
+        "type": "player_id",
+        "value": "467793",
+        "displayName": "Carlos Santana"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "taxonomy",
+        "value": "hitting",
+        "displayName": "hitting"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "sporty-cc",
+        "displayName": "Sporty CC"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      }
+    ]
+  },
+  {
+    "title": "Jakob Junis escapes a bases-loaded jam",
+    "player_ids": [
+      "596001"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "player",
+        "value": "playerid-596001",
+        "displayName": "Jakob Junis"
+      },
+      {
+        "type": "player_id",
+        "value": "596001",
+        "displayName": "Jakob Junis"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "taxonomy",
+        "value": "pitching",
+        "displayName": "pitching"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "yahoo-in-game",
+        "displayName": "Yahoo In-Game"
+      },
+      {
+        "type": "taxonomy",
+        "value": "2-yahoo-mlb-ads-feed",
+        "displayName": "2-Yahoo MLB Ads Feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "send-to-news-mlb-feed",
+        "displayName": "Send To News MLB feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      }
+    ]
+  },
+  {
+    "title": "Steven Kwan extends on-base streak to 11 games",
+    "player_ids": [
+      "680757"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "player",
+        "value": "playerid-680757",
+        "displayName": "Steven Kwan"
+      },
+      {
+        "type": "player_id",
+        "value": "680757",
+        "displayName": "Steven Kwan"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "sporty-cc",
+        "displayName": "Sporty CC"
+      },
+      {
+        "type": "taxonomy",
+        "value": "hitting",
+        "displayName": "hitting"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      }
+    ]
+  },
+  {
+    "title": "Ben Lively fans Jake Bauers",
+    "player_ids": [
+      "594902"
+    ],
+    "keywords": [
+      {
+        "type": "season",
+        "value": "season-2025",
+        "displayName": "Season 2025"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "player",
+        "value": "playerid-594902",
+        "displayName": "Ben Lively"
+      },
+      {
+        "type": "player_id",
+        "value": "594902",
+        "displayName": "Ben Lively"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "pitching",
+        "displayName": "pitching"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-story-highlight",
+        "displayName": "Game story highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "sporty-cc",
+        "displayName": "Sporty CC"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      }
+    ]
+  },
+  {
+    "title": "Ben Lively departs with right forearm inflammation",
+    "player_ids": [
+      "594902"
+    ],
+    "keywords": [
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "player",
+        "value": "playerid-594902",
+        "displayName": "Ben Lively"
+      },
+      {
+        "type": "player_id",
+        "value": "594902",
+        "displayName": "Ben Lively"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "game-action-tracking",
+        "displayName": "game action tracking"
+      },
+      {
+        "type": "taxonomy",
+        "value": "injury",
+        "displayName": "injury"
+      },
+      {
+        "type": "taxonomy",
+        "value": "no-pre-roll",
+        "displayName": "no pre-roll"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      }
+    ]
+  },
+  {
+    "title": "Jos\u00e9 Ram\u00edrez on his stolen bases, 5-0 win",
+    "player_ids": [
+      "608070"
+    ],
+    "keywords": [
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "player",
+        "value": "playerid-608070",
+        "displayName": "Jos\u00e9 Ram\u00edrez"
+      },
+      {
+        "type": "player_id",
+        "value": "608070",
+        "displayName": "Jos\u00e9 Ram\u00edrez"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "highlight",
+        "displayName": "highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-highlight",
+        "displayName": "in-game highlight"
+      },
+      {
+        "type": "taxonomy",
+        "value": "interview",
+        "displayName": "interview"
+      },
+      {
+        "type": "taxonomy",
+        "value": "international-feed",
+        "displayName": "International Partner feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "eclat-feed",
+        "displayName": "Eclat feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "fan-duel",
+        "displayName": "Fan Duel"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      }
+    ]
+  },
+  {
+    "title": "Stephen Vogt talks Junis, J-Ram, more in win",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "manager-postgame",
+        "displayName": "manager postgame"
+      },
+      {
+        "type": "taxonomy",
+        "value": "send-to-news-mlb-feed",
+        "displayName": "Send To News MLB feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "tune-in-daily",
+        "displayName": "TuneIn daily"
+      },
+      {
+        "type": "taxonomy",
+        "value": "press-conference",
+        "displayName": "press conference"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      }
+    ]
+  },
+  {
+    "title": "Pat Murphy discusses Chourio, state of Brewers",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "taxonomy",
+        "value": "vod",
+        "displayName": "vod"
+      },
+      {
+        "type": "taxonomy",
+        "value": "manager-postgame",
+        "displayName": "manager postgame"
+      },
+      {
+        "type": "taxonomy",
+        "value": "press-conference",
+        "displayName": "press conference"
+      },
+      {
+        "type": "taxonomy",
+        "value": "imagen-feed",
+        "displayName": "Imagen feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "send-to-news-mlb-feed",
+        "displayName": "Send To News MLB feed"
+      },
+      {
+        "type": "taxonomy",
+        "value": "tune-in-daily",
+        "displayName": "TuneIn daily"
+      }
+    ]
+  },
+  {
+    "title": "Breaking down Freddy Peralta's pitches",
+    "player_ids": [
+      "642547"
+    ],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-data-visualization",
+        "displayName": "In-game data visualization"
+      },
+      {
+        "type": "player",
+        "value": "playerid-642547",
+        "displayName": "Freddy Peralta"
+      },
+      {
+        "type": "player_id",
+        "value": "642547",
+        "displayName": "Freddy Peralta"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      }
+    ]
+  },
+  {
+    "title": "Freddy Peralta's outing against the Guardians",
+    "player_ids": [
+      "642547"
+    ],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "taxonomy",
+        "value": "in-game-data-visualization",
+        "displayName": "In-game data visualization"
+      },
+      {
+        "type": "player",
+        "value": "playerid-642547",
+        "displayName": "Freddy Peralta"
+      },
+      {
+        "type": "player_id",
+        "value": "642547",
+        "displayName": "Freddy Peralta"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      }
+    ]
+  },
+  {
+    "title": "Starting lineups for Brewers at Guardians - May 12, 2025",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      }
+    ]
+  },
+  {
+    "title": "Bench availability for Milwaukee, May 12 vs Guardians",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      }
+    ]
+  },
+  {
+    "title": "Fielding alignment for Milwaukee, May 12 vs Guardians",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      }
+    ]
+  },
+  {
+    "title": "Bench availability for Cleveland, May 12 vs Brewers",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      }
+    ]
+  },
+  {
+    "title": "Fielding alignment for Cleveland, May 12 vs Brewers",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      }
+    ]
+  },
+  {
+    "title": "Bullpen availability for Cleveland, May 12 vs Brewers",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-114",
+        "displayName": "Cleveland Guardians"
+      },
+      {
+        "type": "team_id",
+        "value": "114",
+        "displayName": "Cleveland Guardians"
+      }
+    ]
+  },
+  {
+    "title": "Bullpen availability for Milwaukee, May 12 vs Guardians",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "team",
+        "value": "teamid-158",
+        "displayName": "Milwaukee Brewers"
+      },
+      {
+        "type": "team_id",
+        "value": "158",
+        "displayName": "Milwaukee Brewers"
+      }
+    ]
+  },
+  {
+    "title": "Probable pitchers for Brewers at Guardians - May 12, 2025",
+    "player_ids": [],
+    "keywords": [
+      {
+        "type": "taxonomy",
+        "value": "data-visualization",
+        "displayName": "data visualization"
+      },
+      {
+        "type": "game",
+        "value": "gamepk-777960",
+        "displayName": "2025/05/12 mil@cle"
+      },
+      {
+        "type": "game_pk",
+        "value": "777960",
+        "displayName": "2025/05/12 mil@cle"
+      }
+    ]
+  }
+]

@@ -1,0 +1,554 @@
+[DEBUG] Generating trivia for: Jarren Duran (ID: 680776), Event: field_out
+[DEBUG] Stats for Jarren Duran (ID: 680776): {'gamesPlayed': 43, 'groundOuts': 46, 'airOuts': 52, 'runs': 23, 'doubles': 10, 'triples': 4, 'homeRuns': 2, 'strikeOuts': 44, 'baseOnBalls': 10, 'intentionalWalks': 0, 'hits': 48, 'hitByPitch': 3, 'avg': '.254', 'atBats': 189, 'obp': '.300', 'slg': '.381', 'ops': '.681', 'caughtStealing': 3, 'stolenBases': 11, 'stolenBasePercentage': '.786', 'groundIntoDoublePlay': 1, 'numberOfPitches': 719, 'plateAppearances': 203, 'totalBases': 72, 'rbi': 22, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.319', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '94.50'}
+
+[PLAY DESCRIPTION] Jarren Duran pops out to third baseman Jose Miranda in foul territory.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Rafael Devers (ID: 646240), Event: field_out
+[DEBUG] Stats for Rafael Devers (ID: 646240): {'gamesPlayed': 44, 'groundOuts': 34, 'airOuts': 37, 'runs': 25, 'doubles': 12, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 33, 'intentionalWalks': 3, 'hits': 45, 'hitByPitch': 1, 'avg': '.274', 'atBats': 164, 'obp': '.395', 'slg': '.476', 'ops': '.871', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 870, 'plateAppearances': 200, 'totalBases': 78, 'rbi': 31, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.349', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.43'}
+
+[PLAY DESCRIPTION] Rafael Devers grounds out sharply to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Tyler O'Neill (ID: 641933), Event: double
+[DEBUG] Stats for Tyler O'Neill (ID: 641933): {'gamesPlayed': 22, 'groundOuts': 14, 'airOuts': 23, 'runs': 9, 'doubles': 3, 'triples': 1, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 8, 'intentionalWalks': 1, 'hits': 15, 'hitByPitch': 2, 'avg': '.208', 'atBats': 72, 'obp': '.298', 'slg': '.361', 'ops': '.659', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 334, 'plateAppearances': 84, 'totalBases': 26, 'rbi': 10, 'leftOnBase': 28, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.260', 'groundOutsToAirouts': '0.61', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Tyler O'Neill doubles (3) on a ground ball to left fielder Willi Castro.
+[TRIVIA EVENT TYPE] double
+[DEBUG] Generating trivia for: Wilyer Abreu (ID: 677800), Event: single
+[DEBUG] Stats for Wilyer Abreu (ID: 677800): {'gamesPlayed': 42, 'groundOuts': 18, 'airOuts': 54, 'runs': 24, 'doubles': 7, 'triples': 0, 'homeRuns': 11, 'strikeOuts': 33, 'baseOnBalls': 22, 'intentionalWalks': 4, 'hits': 41, 'hitByPitch': 0, 'avg': '.281', 'atBats': 146, 'obp': '.375', 'slg': '.555', 'ops': '.930', 'caughtStealing': 2, 'stolenBases': 4, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 2, 'numberOfPitches': 640, 'plateAppearances': 168, 'totalBases': 81, 'rbi': 27, 'leftOnBase': 70, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.294', 'groundOutsToAirouts': '0.33', 'catchersInterference': 0, 'atBatsPerHomeRun': '13.27'}
+
+[PLAY DESCRIPTION] Wilyer Abreu singles on a ground ball to left fielder Willi Castro. Tyler O'Neill scores.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Connor Wong (ID: 657136), Event: single
+[DEBUG] Stats for Connor Wong (ID: 657136): {'gamesPlayed': 14, 'groundOuts': 13, 'airOuts': 9, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 13, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.146', 'atBats': 41, 'obp': '.239', 'slg': '.146', 'ops': '.385', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 194, 'plateAppearances': 46, 'totalBases': 6, 'rbi': 0, 'leftOnBase': 31, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.214', 'groundOutsToAirouts': '1.44', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Connor Wong singles on a fly ball to center fielder Austin Martin. Wilyer Abreu to 3rd.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Dominic Smith (ID: 642086), Event: field_out
+[DEBUG] Stats for Dominic Smith (ID: 642086): {}
+
+[PLAY DESCRIPTION] Dominic Smith grounds out softly, third baseman Jose Miranda to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Ryan Jeffers (ID: 680777), Event: field_out
+[DEBUG] Stats for Ryan Jeffers (ID: 680777): {'gamesPlayed': 31, 'groundOuts': 24, 'airOuts': 33, 'runs': 9, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 12, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 2, 'avg': '.248', 'atBats': 105, 'obp': '.336', 'slg': '.381', 'ops': '.717', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 487, 'plateAppearances': 119, 'totalBases': 40, 'rbi': 16, 'leftOnBase': 38, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.296', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '52.50'}
+
+[PLAY DESCRIPTION] Ryan Jeffers flies out to center fielder Jarren Duran.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Jose Miranda (ID: 669304), Event: hit_by_pitch
+[DEBUG] Stats for Jose Miranda (ID: 669304): {'gamesPlayed': 12, 'groundOuts': 10, 'airOuts': 7, 'runs': 2, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.167', 'atBats': 36, 'obp': '.167', 'slg': '.250', 'ops': '.417', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 127, 'plateAppearances': 36, 'totalBases': 9, 'rbi': 5, 'leftOnBase': 25, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.227', 'groundOutsToAirouts': '1.43', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Jose Miranda hit by pitch.
+[TRIVIA EVENT TYPE] hit_by_pitch
+[DEBUG] Generating trivia for: Willi Castro (ID: 650489), Event: single
+[DEBUG] Stats for Willi Castro (ID: 650489): {'gamesPlayed': 24, 'groundOuts': 16, 'airOuts': 29, 'runs': 11, 'doubles': 6, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 22, 'baseOnBalls': 5, 'intentionalWalks': 1, 'hits': 19, 'hitByPitch': 3, 'avg': '.221', 'atBats': 86, 'obp': '.287', 'slg': '.326', 'ops': '.613', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 372, 'plateAppearances': 94, 'totalBases': 28, 'rbi': 5, 'leftOnBase': 33, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.286', 'groundOutsToAirouts': '0.55', 'catchersInterference': 0, 'atBatsPerHomeRun': '86.00'}
+
+[PLAY DESCRIPTION] Willi Castro singles on a sharp ground ball to left fielder Tyler O'Neill. Jose Miranda to 2nd.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Carlos Correa (ID: 621043), Event: field_out
+[DEBUG] Stats for Carlos Correa (ID: 621043): {'gamesPlayed': 40, 'groundOuts': 49, 'airOuts': 35, 'runs': 13, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 28, 'baseOnBalls': 8, 'intentionalWalks': 0, 'hits': 33, 'hitByPitch': 0, 'avg': '.229', 'atBats': 144, 'obp': '.268', 'slg': '.326', 'ops': '.594', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 6, 'numberOfPitches': 579, 'plateAppearances': 153, 'totalBases': 47, 'rbi': 13, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.270', 'groundOutsToAirouts': '1.40', 'catchersInterference': 0, 'atBatsPerHomeRun': '72.00'}
+
+[PLAY DESCRIPTION] Carlos Correa grounds out, third baseman Rafael Devers to first baseman Garrett Cooper. Jose Miranda scores. Willi Castro to 3rd.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Max Kepler (ID: 596146), Event: strikeout
+[DEBUG] Stats for Max Kepler (ID: 596146): {'gamesPlayed': 38, 'groundOuts': 34, 'airOuts': 40, 'runs': 19, 'doubles': 8, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 28, 'baseOnBalls': 15, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 2, 'avg': '.229', 'atBats': 131, 'obp': '.315', 'slg': '.405', 'ops': '.720', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 572, 'plateAppearances': 149, 'totalBases': 53, 'rbi': 14, 'leftOnBase': 61, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.253', 'groundOutsToAirouts': '0.85', 'catchersInterference': 0, 'atBatsPerHomeRun': '26.20'}
+
+[PLAY DESCRIPTION] Max Kepler called out on strikes.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Garrett Cooper (ID: 643265), Event: strikeout
+[DEBUG] Stats for Garrett Cooper (ID: 643265): {}
+
+[PLAY DESCRIPTION] Garrett Cooper strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: David Hamilton (ID: 666152), Event: field_out
+[DEBUG] Stats for David Hamilton (ID: 666152): {'gamesPlayed': 21, 'groundOuts': 12, 'airOuts': 18, 'runs': 8, 'doubles': 1, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 14, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 11, 'hitByPitch': 1, 'avg': '.204', 'atBats': 54, 'obp': '.246', 'slg': '.333', 'ops': '.579', 'caughtStealing': 0, 'stolenBases': 5, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 186, 'plateAppearances': 58, 'totalBases': 18, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.237', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '27.00'}
+
+[PLAY DESCRIPTION] David Hamilton grounds out, first baseman Carlos Santana to pitcher Pablo López.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Ceddanne Rafaela (ID: 678882), Event: field_out
+[DEBUG] Stats for Ceddanne Rafaela (ID: 678882): {'gamesPlayed': 39, 'groundOuts': 40, 'airOuts': 38, 'runs': 23, 'doubles': 7, 'triples': 2, 'homeRuns': 2, 'strikeOuts': 25, 'baseOnBalls': 9, 'intentionalWalks': 0, 'hits': 32, 'hitByPitch': 2, 'avg': '.242', 'atBats': 132, 'obp': '.299', 'slg': '.371', 'ops': '.670', 'caughtStealing': 0, 'stolenBases': 7, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 517, 'plateAppearances': 146, 'totalBases': 49, 'rbi': 17, 'leftOnBase': 49, 'sacBunts': 2, 'sacFlies': 1, 'babip': '.283', 'groundOutsToAirouts': '1.05', 'catchersInterference': 0, 'atBatsPerHomeRun': '66.00'}
+
+[PLAY DESCRIPTION] Ceddanne Rafaela pops out to first baseman Carlos Santana in foul territory.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Carlos Santana (ID: 467793), Event: field_out
+[DEBUG] Stats for Carlos Santana (ID: 467793): {'gamesPlayed': 40, 'groundOuts': 38, 'airOuts': 44, 'runs': 20, 'doubles': 3, 'triples': 0, 'homeRuns': 4, 'strikeOuts': 31, 'baseOnBalls': 21, 'intentionalWalks': 1, 'hits': 31, 'hitByPitch': 3, 'avg': '.220', 'atBats': 141, 'obp': '.327', 'slg': '.326', 'ops': '.653', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 698, 'plateAppearances': 168, 'totalBases': 46, 'rbi': 19, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 3, 'babip': '.248', 'groundOutsToAirouts': '0.86', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.25'}
+
+[PLAY DESCRIPTION] Carlos Santana grounds out, second baseman David Hamilton to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Christian Vázquez (ID: 543877), Event: field_out
+[DEBUG] Stats for Christian Vázquez (ID: 543877): {'gamesPlayed': 21, 'groundOuts': 13, 'airOuts': 20, 'runs': 4, 'doubles': 4, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 9, 'hitByPitch': 0, 'avg': '.170', 'atBats': 53, 'obp': '.262', 'slg': '.245', 'ops': '.507', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 257, 'plateAppearances': 61, 'totalBases': 13, 'rbi': 2, 'leftOnBase': 27, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.214', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Christian Vázquez lines out to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Austin Martin (ID: 668885), Event: strikeout
+[DEBUG] Stats for Austin Martin (ID: 668885): {}
+
+[PLAY DESCRIPTION] Austin Martin strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Jarren Duran (ID: 680776), Event: walk
+[DEBUG] Stats for Jarren Duran (ID: 680776): {'gamesPlayed': 43, 'groundOuts': 46, 'airOuts': 52, 'runs': 23, 'doubles': 10, 'triples': 4, 'homeRuns': 2, 'strikeOuts': 44, 'baseOnBalls': 10, 'intentionalWalks': 0, 'hits': 48, 'hitByPitch': 3, 'avg': '.254', 'atBats': 189, 'obp': '.300', 'slg': '.381', 'ops': '.681', 'caughtStealing': 3, 'stolenBases': 11, 'stolenBasePercentage': '.786', 'groundIntoDoublePlay': 1, 'numberOfPitches': 719, 'plateAppearances': 203, 'totalBases': 72, 'rbi': 22, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.319', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '94.50'}
+
+[PLAY DESCRIPTION] Jarren Duran walks.
+[TRIVIA EVENT TYPE] walk
+[DEBUG] Generating trivia for: Rafael Devers (ID: 646240), Event: grounded_into_double_play
+[DEBUG] Stats for Rafael Devers (ID: 646240): {'gamesPlayed': 44, 'groundOuts': 34, 'airOuts': 37, 'runs': 25, 'doubles': 12, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 33, 'intentionalWalks': 3, 'hits': 45, 'hitByPitch': 1, 'avg': '.274', 'atBats': 164, 'obp': '.395', 'slg': '.476', 'ops': '.871', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 870, 'plateAppearances': 200, 'totalBases': 78, 'rbi': 31, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.349', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.43'}
+
+[PLAY DESCRIPTION] Rafael Devers grounds into a double play, first baseman Carlos Santana to shortstop Carlos Correa to first baseman Carlos Santana. Jarren Duran out at 2nd. Rafael Devers out at 1st.
+[TRIVIA EVENT TYPE] grounded_into_double_play
+[DEBUG] Generating trivia for: Tyler O'Neill (ID: 641933), Event: strikeout
+[DEBUG] Stats for Tyler O'Neill (ID: 641933): {'gamesPlayed': 22, 'groundOuts': 14, 'airOuts': 23, 'runs': 9, 'doubles': 3, 'triples': 1, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 8, 'intentionalWalks': 1, 'hits': 15, 'hitByPitch': 2, 'avg': '.208', 'atBats': 72, 'obp': '.298', 'slg': '.361', 'ops': '.659', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 334, 'plateAppearances': 84, 'totalBases': 26, 'rbi': 10, 'leftOnBase': 28, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.260', 'groundOutsToAirouts': '0.61', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Tyler O'Neill strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Edouard Julien (ID: 666397), Event: field_out
+[DEBUG] Stats for Edouard Julien (ID: 666397): {'gamesPlayed': 29, 'groundOuts': 26, 'airOuts': 19, 'runs': 8, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 29, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 1, 'avg': '.198', 'atBats': 91, 'obp': '.288', 'slg': '.319', 'ops': '.607', 'caughtStealing': 2, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 444, 'plateAppearances': 104, 'totalBases': 29, 'rbi': 8, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.262', 'groundOutsToAirouts': '1.37', 'catchersInterference': 0, 'atBatsPerHomeRun': '45.50'}
+
+[PLAY DESCRIPTION] Edouard Julien grounds out, second baseman David Hamilton to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Ryan Jeffers (ID: 680777), Event: strikeout
+[DEBUG] Stats for Ryan Jeffers (ID: 680777): {'gamesPlayed': 31, 'groundOuts': 24, 'airOuts': 33, 'runs': 9, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 12, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 2, 'avg': '.248', 'atBats': 105, 'obp': '.336', 'slg': '.381', 'ops': '.717', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 487, 'plateAppearances': 119, 'totalBases': 40, 'rbi': 16, 'leftOnBase': 38, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.296', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '52.50'}
+
+[PLAY DESCRIPTION] Ryan Jeffers strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Jose Miranda (ID: 669304), Event: single
+[DEBUG] Stats for Jose Miranda (ID: 669304): {'gamesPlayed': 12, 'groundOuts': 10, 'airOuts': 7, 'runs': 2, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.167', 'atBats': 36, 'obp': '.167', 'slg': '.250', 'ops': '.417', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 127, 'plateAppearances': 36, 'totalBases': 9, 'rbi': 5, 'leftOnBase': 25, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.227', 'groundOutsToAirouts': '1.43', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Jose Miranda singles on a fly ball to shortstop Ceddanne Rafaela.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Willi Castro (ID: 650489), Event: strikeout
+[DEBUG] Stats for Willi Castro (ID: 650489): {'gamesPlayed': 24, 'groundOuts': 16, 'airOuts': 29, 'runs': 11, 'doubles': 6, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 22, 'baseOnBalls': 5, 'intentionalWalks': 1, 'hits': 19, 'hitByPitch': 3, 'avg': '.221', 'atBats': 86, 'obp': '.287', 'slg': '.326', 'ops': '.613', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 372, 'plateAppearances': 94, 'totalBases': 28, 'rbi': 5, 'leftOnBase': 33, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.286', 'groundOutsToAirouts': '0.55', 'catchersInterference': 0, 'atBatsPerHomeRun': '86.00'}
+
+[PLAY DESCRIPTION] Willi Castro strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Wilyer Abreu (ID: 677800), Event: strikeout
+[DEBUG] Stats for Wilyer Abreu (ID: 677800): {'gamesPlayed': 42, 'groundOuts': 18, 'airOuts': 54, 'runs': 24, 'doubles': 7, 'triples': 0, 'homeRuns': 11, 'strikeOuts': 33, 'baseOnBalls': 22, 'intentionalWalks': 4, 'hits': 41, 'hitByPitch': 0, 'avg': '.281', 'atBats': 146, 'obp': '.375', 'slg': '.555', 'ops': '.930', 'caughtStealing': 2, 'stolenBases': 4, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 2, 'numberOfPitches': 640, 'plateAppearances': 168, 'totalBases': 81, 'rbi': 27, 'leftOnBase': 70, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.294', 'groundOutsToAirouts': '0.33', 'catchersInterference': 0, 'atBatsPerHomeRun': '13.27'}
+
+[PLAY DESCRIPTION] Wilyer Abreu strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Connor Wong (ID: 657136), Event: strikeout
+[DEBUG] Stats for Connor Wong (ID: 657136): {'gamesPlayed': 14, 'groundOuts': 13, 'airOuts': 9, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 13, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.146', 'atBats': 41, 'obp': '.239', 'slg': '.146', 'ops': '.385', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 194, 'plateAppearances': 46, 'totalBases': 6, 'rbi': 0, 'leftOnBase': 31, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.214', 'groundOutsToAirouts': '1.44', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Connor Wong strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Dominic Smith (ID: 642086), Event: single
+[DEBUG] Stats for Dominic Smith (ID: 642086): {}
+
+[PLAY DESCRIPTION] Dominic Smith singles on a line drive to right fielder Max Kepler.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Garrett Cooper (ID: 643265), Event: field_out
+[DEBUG] Stats for Garrett Cooper (ID: 643265): {}
+
+[PLAY DESCRIPTION] Garrett Cooper grounds out, third baseman Jose Miranda to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Carlos Correa (ID: 621043), Event: strikeout
+[DEBUG] Stats for Carlos Correa (ID: 621043): {'gamesPlayed': 40, 'groundOuts': 49, 'airOuts': 35, 'runs': 13, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 28, 'baseOnBalls': 8, 'intentionalWalks': 0, 'hits': 33, 'hitByPitch': 0, 'avg': '.229', 'atBats': 144, 'obp': '.268', 'slg': '.326', 'ops': '.594', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 6, 'numberOfPitches': 579, 'plateAppearances': 153, 'totalBases': 47, 'rbi': 13, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.270', 'groundOutsToAirouts': '1.40', 'catchersInterference': 0, 'atBatsPerHomeRun': '72.00'}
+
+[PLAY DESCRIPTION] Carlos Correa strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Max Kepler (ID: 596146), Event: home_run
+[DEBUG] Stats for Max Kepler (ID: 596146): {'gamesPlayed': 38, 'groundOuts': 34, 'airOuts': 40, 'runs': 19, 'doubles': 8, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 28, 'baseOnBalls': 15, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 2, 'avg': '.229', 'atBats': 131, 'obp': '.315', 'slg': '.405', 'ops': '.720', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 572, 'plateAppearances': 149, 'totalBases': 53, 'rbi': 14, 'leftOnBase': 61, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.253', 'groundOutsToAirouts': '0.85', 'catchersInterference': 0, 'atBatsPerHomeRun': '26.20'}
+
+[PLAY DESCRIPTION] Max Kepler homers (2) on a fly ball to right center field.
+[TRIVIA EVENT TYPE] home_run
+[DEBUG] Generating trivia for: Carlos Santana (ID: 467793), Event: field_out
+[DEBUG] Stats for Carlos Santana (ID: 467793): {'gamesPlayed': 40, 'groundOuts': 38, 'airOuts': 44, 'runs': 20, 'doubles': 3, 'triples': 0, 'homeRuns': 4, 'strikeOuts': 31, 'baseOnBalls': 21, 'intentionalWalks': 1, 'hits': 31, 'hitByPitch': 3, 'avg': '.220', 'atBats': 141, 'obp': '.327', 'slg': '.326', 'ops': '.653', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 698, 'plateAppearances': 168, 'totalBases': 46, 'rbi': 19, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 3, 'babip': '.248', 'groundOutsToAirouts': '0.86', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.25'}
+
+[PLAY DESCRIPTION] Carlos Santana flies out to right fielder Wilyer Abreu.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Christian Vázquez (ID: 543877), Event: field_out
+[DEBUG] Stats for Christian Vázquez (ID: 543877): {'gamesPlayed': 21, 'groundOuts': 13, 'airOuts': 20, 'runs': 4, 'doubles': 4, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 9, 'hitByPitch': 0, 'avg': '.170', 'atBats': 53, 'obp': '.262', 'slg': '.245', 'ops': '.507', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 257, 'plateAppearances': 61, 'totalBases': 13, 'rbi': 2, 'leftOnBase': 27, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.214', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Christian Vázquez flies out to right fielder Wilyer Abreu.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: David Hamilton (ID: 666152), Event: single
+[DEBUG] Stats for David Hamilton (ID: 666152): {'gamesPlayed': 21, 'groundOuts': 12, 'airOuts': 18, 'runs': 8, 'doubles': 1, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 14, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 11, 'hitByPitch': 1, 'avg': '.204', 'atBats': 54, 'obp': '.246', 'slg': '.333', 'ops': '.579', 'caughtStealing': 0, 'stolenBases': 5, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 186, 'plateAppearances': 58, 'totalBases': 18, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.237', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '27.00'}
+
+[PLAY DESCRIPTION] David Hamilton singles on a fly ball to center fielder Austin Martin.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Ceddanne Rafaela (ID: 678882), Event: strikeout
+[DEBUG] Stats for Ceddanne Rafaela (ID: 678882): {'gamesPlayed': 39, 'groundOuts': 40, 'airOuts': 38, 'runs': 23, 'doubles': 7, 'triples': 2, 'homeRuns': 2, 'strikeOuts': 25, 'baseOnBalls': 9, 'intentionalWalks': 0, 'hits': 32, 'hitByPitch': 2, 'avg': '.242', 'atBats': 132, 'obp': '.299', 'slg': '.371', 'ops': '.670', 'caughtStealing': 0, 'stolenBases': 7, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 517, 'plateAppearances': 146, 'totalBases': 49, 'rbi': 17, 'leftOnBase': 49, 'sacBunts': 2, 'sacFlies': 1, 'babip': '.283', 'groundOutsToAirouts': '1.05', 'catchersInterference': 0, 'atBatsPerHomeRun': '66.00'}
+
+[PLAY DESCRIPTION] Ceddanne Rafaela strikes out on a foul tip.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Jarren Duran (ID: 680776), Event: field_out
+[DEBUG] Stats for Jarren Duran (ID: 680776): {'gamesPlayed': 43, 'groundOuts': 46, 'airOuts': 52, 'runs': 23, 'doubles': 10, 'triples': 4, 'homeRuns': 2, 'strikeOuts': 44, 'baseOnBalls': 10, 'intentionalWalks': 0, 'hits': 48, 'hitByPitch': 3, 'avg': '.254', 'atBats': 189, 'obp': '.300', 'slg': '.381', 'ops': '.681', 'caughtStealing': 3, 'stolenBases': 11, 'stolenBasePercentage': '.786', 'groundIntoDoublePlay': 1, 'numberOfPitches': 719, 'plateAppearances': 203, 'totalBases': 72, 'rbi': 22, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.319', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '94.50'}
+
+[PLAY DESCRIPTION] Jarren Duran grounds out, second baseman Edouard Julien to first baseman Carlos Santana. David Hamilton to 3rd.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Rafael Devers (ID: 646240), Event: strikeout
+[DEBUG] Stats for Rafael Devers (ID: 646240): {'gamesPlayed': 44, 'groundOuts': 34, 'airOuts': 37, 'runs': 25, 'doubles': 12, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 33, 'intentionalWalks': 3, 'hits': 45, 'hitByPitch': 1, 'avg': '.274', 'atBats': 164, 'obp': '.395', 'slg': '.476', 'ops': '.871', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 870, 'plateAppearances': 200, 'totalBases': 78, 'rbi': 31, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.349', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.43'}
+
+[PLAY DESCRIPTION] Rafael Devers strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Austin Martin (ID: 668885), Event: single
+[DEBUG] Stats for Austin Martin (ID: 668885): {}
+
+[PLAY DESCRIPTION] Austin Martin singles on a fly ball to left fielder Tyler O'Neill.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Edouard Julien (ID: 666397), Event: strikeout
+[DEBUG] Stats for Edouard Julien (ID: 666397): {'gamesPlayed': 29, 'groundOuts': 26, 'airOuts': 19, 'runs': 8, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 29, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 1, 'avg': '.198', 'atBats': 91, 'obp': '.288', 'slg': '.319', 'ops': '.607', 'caughtStealing': 2, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 444, 'plateAppearances': 104, 'totalBases': 29, 'rbi': 8, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.262', 'groundOutsToAirouts': '1.37', 'catchersInterference': 0, 'atBatsPerHomeRun': '45.50'}
+
+[PLAY DESCRIPTION] Edouard Julien strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Ryan Jeffers (ID: 680777), Event: field_out
+[DEBUG] Stats for Ryan Jeffers (ID: 680777): {'gamesPlayed': 31, 'groundOuts': 24, 'airOuts': 33, 'runs': 9, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 12, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 2, 'avg': '.248', 'atBats': 105, 'obp': '.336', 'slg': '.381', 'ops': '.717', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 487, 'plateAppearances': 119, 'totalBases': 40, 'rbi': 16, 'leftOnBase': 38, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.296', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '52.50'}
+
+[PLAY DESCRIPTION] Ryan Jeffers pops out to second baseman David Hamilton.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Jose Miranda (ID: 669304), Event: field_out
+[DEBUG] Stats for Jose Miranda (ID: 669304): {'gamesPlayed': 12, 'groundOuts': 10, 'airOuts': 7, 'runs': 2, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.167', 'atBats': 36, 'obp': '.167', 'slg': '.250', 'ops': '.417', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 127, 'plateAppearances': 36, 'totalBases': 9, 'rbi': 5, 'leftOnBase': 25, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.227', 'groundOutsToAirouts': '1.43', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Jose Miranda grounds out, third baseman Rafael Devers to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Tyler O'Neill (ID: 641933), Event: strikeout
+[DEBUG] Stats for Tyler O'Neill (ID: 641933): {'gamesPlayed': 22, 'groundOuts': 14, 'airOuts': 23, 'runs': 9, 'doubles': 3, 'triples': 1, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 8, 'intentionalWalks': 1, 'hits': 15, 'hitByPitch': 2, 'avg': '.208', 'atBats': 72, 'obp': '.298', 'slg': '.361', 'ops': '.659', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 334, 'plateAppearances': 84, 'totalBases': 26, 'rbi': 10, 'leftOnBase': 28, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.260', 'groundOutsToAirouts': '0.61', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Tyler O'Neill strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Wilyer Abreu (ID: 677800), Event: strikeout
+[DEBUG] Stats for Wilyer Abreu (ID: 677800): {'gamesPlayed': 42, 'groundOuts': 18, 'airOuts': 54, 'runs': 24, 'doubles': 7, 'triples': 0, 'homeRuns': 11, 'strikeOuts': 33, 'baseOnBalls': 22, 'intentionalWalks': 4, 'hits': 41, 'hitByPitch': 0, 'avg': '.281', 'atBats': 146, 'obp': '.375', 'slg': '.555', 'ops': '.930', 'caughtStealing': 2, 'stolenBases': 4, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 2, 'numberOfPitches': 640, 'plateAppearances': 168, 'totalBases': 81, 'rbi': 27, 'leftOnBase': 70, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.294', 'groundOutsToAirouts': '0.33', 'catchersInterference': 0, 'atBatsPerHomeRun': '13.27'}
+
+[PLAY DESCRIPTION] Wilyer Abreu strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Connor Wong (ID: 657136), Event: field_out
+[DEBUG] Stats for Connor Wong (ID: 657136): {'gamesPlayed': 14, 'groundOuts': 13, 'airOuts': 9, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 13, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.146', 'atBats': 41, 'obp': '.239', 'slg': '.146', 'ops': '.385', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 194, 'plateAppearances': 46, 'totalBases': 6, 'rbi': 0, 'leftOnBase': 31, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.214', 'groundOutsToAirouts': '1.44', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Connor Wong grounds out sharply, shortstop Carlos Correa to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Willi Castro (ID: 650489), Event: single
+[DEBUG] Stats for Willi Castro (ID: 650489): {'gamesPlayed': 24, 'groundOuts': 16, 'airOuts': 29, 'runs': 11, 'doubles': 6, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 22, 'baseOnBalls': 5, 'intentionalWalks': 1, 'hits': 19, 'hitByPitch': 3, 'avg': '.221', 'atBats': 86, 'obp': '.287', 'slg': '.326', 'ops': '.613', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 372, 'plateAppearances': 94, 'totalBases': 28, 'rbi': 5, 'leftOnBase': 33, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.286', 'groundOutsToAirouts': '0.55', 'catchersInterference': 0, 'atBatsPerHomeRun': '86.00'}
+
+[PLAY DESCRIPTION] Willi Castro singles on a ground ball to center fielder Jarren Duran.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Carlos Correa (ID: 621043), Event: sac_fly
+[DEBUG] Stats for Carlos Correa (ID: 621043): {'gamesPlayed': 40, 'groundOuts': 49, 'airOuts': 35, 'runs': 13, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 28, 'baseOnBalls': 8, 'intentionalWalks': 0, 'hits': 33, 'hitByPitch': 0, 'avg': '.229', 'atBats': 144, 'obp': '.268', 'slg': '.326', 'ops': '.594', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 6, 'numberOfPitches': 579, 'plateAppearances': 153, 'totalBases': 47, 'rbi': 13, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.270', 'groundOutsToAirouts': '1.40', 'catchersInterference': 0, 'atBatsPerHomeRun': '72.00'}
+
+[PLAY DESCRIPTION] Carlos Correa out on a sacrifice fly to center fielder Jarren Duran. Willi Castro scores.
+[TRIVIA EVENT TYPE] sac_fly
+[DEBUG] Generating trivia for: Max Kepler (ID: 596146), Event: single
+[DEBUG] Stats for Max Kepler (ID: 596146): {'gamesPlayed': 38, 'groundOuts': 34, 'airOuts': 40, 'runs': 19, 'doubles': 8, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 28, 'baseOnBalls': 15, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 2, 'avg': '.229', 'atBats': 131, 'obp': '.315', 'slg': '.405', 'ops': '.720', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 572, 'plateAppearances': 149, 'totalBases': 53, 'rbi': 14, 'leftOnBase': 61, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.253', 'groundOutsToAirouts': '0.85', 'catchersInterference': 0, 'atBatsPerHomeRun': '26.20'}
+
+[PLAY DESCRIPTION] Max Kepler singles on a ground ball to left fielder Tyler O'Neill.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Carlos Santana (ID: 467793), Event: strikeout
+[DEBUG] Stats for Carlos Santana (ID: 467793): {'gamesPlayed': 40, 'groundOuts': 38, 'airOuts': 44, 'runs': 20, 'doubles': 3, 'triples': 0, 'homeRuns': 4, 'strikeOuts': 31, 'baseOnBalls': 21, 'intentionalWalks': 1, 'hits': 31, 'hitByPitch': 3, 'avg': '.220', 'atBats': 141, 'obp': '.327', 'slg': '.326', 'ops': '.653', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 698, 'plateAppearances': 168, 'totalBases': 46, 'rbi': 19, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 3, 'babip': '.248', 'groundOutsToAirouts': '0.86', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.25'}
+
+[PLAY DESCRIPTION] Carlos Santana strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Christian Vázquez (ID: 543877), Event: single
+[DEBUG] Stats for Christian Vázquez (ID: 543877): {'gamesPlayed': 21, 'groundOuts': 13, 'airOuts': 20, 'runs': 4, 'doubles': 4, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 9, 'hitByPitch': 0, 'avg': '.170', 'atBats': 53, 'obp': '.262', 'slg': '.245', 'ops': '.507', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 257, 'plateAppearances': 61, 'totalBases': 13, 'rbi': 2, 'leftOnBase': 27, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.214', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Christian Vázquez singles on a line drive to left fielder Tyler O'Neill. Max Kepler to 2nd.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Alex Kirilloff (ID: 666135), Event: field_out
+[DEBUG] Stats for Alex Kirilloff (ID: 666135): {}
+
+[PLAY DESCRIPTION] Alex Kirilloff grounds out, first baseman Garrett Cooper to pitcher Justin Slaten.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Dominic Smith (ID: 642086), Event: single
+[DEBUG] Stats for Dominic Smith (ID: 642086): {}
+
+[PLAY DESCRIPTION] Dominic Smith singles on a sharp fly ball to right fielder Max Kepler. Dominic Smith out at 2nd on the throw, right fielder Max Kepler to shortstop Carlos Correa.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Garrett Cooper (ID: 643265), Event: walk
+[DEBUG] Stats for Garrett Cooper (ID: 643265): {}
+
+[PLAY DESCRIPTION] Garrett Cooper walks.
+[TRIVIA EVENT TYPE] walk
+[DEBUG] Generating trivia for: David Hamilton (ID: 666152), Event: field_out
+[DEBUG] Stats for David Hamilton (ID: 666152): {'gamesPlayed': 21, 'groundOuts': 12, 'airOuts': 18, 'runs': 8, 'doubles': 1, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 14, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 11, 'hitByPitch': 1, 'avg': '.204', 'atBats': 54, 'obp': '.246', 'slg': '.333', 'ops': '.579', 'caughtStealing': 0, 'stolenBases': 5, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 186, 'plateAppearances': 58, 'totalBases': 18, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.237', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '27.00'}
+
+[PLAY DESCRIPTION] David Hamilton lines out to center fielder Willi Castro.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Ceddanne Rafaela (ID: 678882), Event: single
+[DEBUG] Stats for Ceddanne Rafaela (ID: 678882): {'gamesPlayed': 39, 'groundOuts': 40, 'airOuts': 38, 'runs': 23, 'doubles': 7, 'triples': 2, 'homeRuns': 2, 'strikeOuts': 25, 'baseOnBalls': 9, 'intentionalWalks': 0, 'hits': 32, 'hitByPitch': 2, 'avg': '.242', 'atBats': 132, 'obp': '.299', 'slg': '.371', 'ops': '.670', 'caughtStealing': 0, 'stolenBases': 7, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 517, 'plateAppearances': 146, 'totalBases': 49, 'rbi': 17, 'leftOnBase': 49, 'sacBunts': 2, 'sacFlies': 1, 'babip': '.283', 'groundOutsToAirouts': '1.05', 'catchersInterference': 0, 'atBatsPerHomeRun': '66.00'}
+
+[PLAY DESCRIPTION] Ceddanne Rafaela singles on a fly ball to right fielder Max Kepler. Garrett Cooper to 3rd.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Rob Refsnyder (ID: 608701), Event: walk
+[DEBUG] Stats for Rob Refsnyder (ID: 608701): {'gamesPlayed': 13, 'groundOuts': 8, 'airOuts': 7, 'runs': 6, 'doubles': 3, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 11, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 12, 'hitByPitch': 0, 'avg': '.324', 'atBats': 37, 'obp': '.350', 'slg': '.568', 'ops': '.918', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 157, 'plateAppearances': 40, 'totalBases': 21, 'rbi': 5, 'leftOnBase': 18, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.400', 'groundOutsToAirouts': '1.14', 'catchersInterference': 0, 'atBatsPerHomeRun': '18.50'}
+
+[PLAY DESCRIPTION] Rob Refsnyder walks. Ceddanne Rafaela to 2nd.
+[TRIVIA EVENT TYPE] walk
+[DEBUG] Generating trivia for: Rafael Devers (ID: 646240), Event: strikeout
+[DEBUG] Stats for Rafael Devers (ID: 646240): {'gamesPlayed': 44, 'groundOuts': 34, 'airOuts': 37, 'runs': 25, 'doubles': 12, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 33, 'intentionalWalks': 3, 'hits': 45, 'hitByPitch': 1, 'avg': '.274', 'atBats': 164, 'obp': '.395', 'slg': '.476', 'ops': '.871', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 870, 'plateAppearances': 200, 'totalBases': 78, 'rbi': 31, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.349', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.43'}
+
+[PLAY DESCRIPTION] Rafael Devers strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Edouard Julien (ID: 666397), Event: walk
+[DEBUG] Stats for Edouard Julien (ID: 666397): {'gamesPlayed': 29, 'groundOuts': 26, 'airOuts': 19, 'runs': 8, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 29, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 1, 'avg': '.198', 'atBats': 91, 'obp': '.288', 'slg': '.319', 'ops': '.607', 'caughtStealing': 2, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 444, 'plateAppearances': 104, 'totalBases': 29, 'rbi': 8, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.262', 'groundOutsToAirouts': '1.37', 'catchersInterference': 0, 'atBatsPerHomeRun': '45.50'}
+
+[PLAY DESCRIPTION] Edouard Julien walks.
+[TRIVIA EVENT TYPE] walk
+[DEBUG] Generating trivia for: Ryan Jeffers (ID: 680777), Event: double
+[DEBUG] Stats for Ryan Jeffers (ID: 680777): {'gamesPlayed': 31, 'groundOuts': 24, 'airOuts': 33, 'runs': 9, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 12, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 2, 'avg': '.248', 'atBats': 105, 'obp': '.336', 'slg': '.381', 'ops': '.717', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 487, 'plateAppearances': 119, 'totalBases': 40, 'rbi': 16, 'leftOnBase': 38, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.296', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '52.50'}
+
+[PLAY DESCRIPTION] Ryan Jeffers doubles (10) on a sharp line drive to left fielder Tyler O'Neill. Edouard Julien to 3rd.
+[TRIVIA EVENT TYPE] double
+[DEBUG] Generating trivia for: Jose Miranda (ID: 669304), Event: field_out
+[DEBUG] Stats for Jose Miranda (ID: 669304): {'gamesPlayed': 12, 'groundOuts': 10, 'airOuts': 7, 'runs': 2, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.167', 'atBats': 36, 'obp': '.167', 'slg': '.250', 'ops': '.417', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 127, 'plateAppearances': 36, 'totalBases': 9, 'rbi': 5, 'leftOnBase': 25, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.227', 'groundOutsToAirouts': '1.43', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Jose Miranda grounds out softly, catcher Connor Wong to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Willi Castro (ID: 650489), Event: fielders_choice_out
+[DEBUG] Stats for Willi Castro (ID: 650489): {'gamesPlayed': 24, 'groundOuts': 16, 'airOuts': 29, 'runs': 11, 'doubles': 6, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 22, 'baseOnBalls': 5, 'intentionalWalks': 1, 'hits': 19, 'hitByPitch': 3, 'avg': '.221', 'atBats': 86, 'obp': '.287', 'slg': '.326', 'ops': '.613', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 372, 'plateAppearances': 94, 'totalBases': 28, 'rbi': 5, 'leftOnBase': 33, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.286', 'groundOutsToAirouts': '0.55', 'catchersInterference': 0, 'atBatsPerHomeRun': '86.00'}
+[DEBUG] Generating trivia for: Carlos Correa (ID: 621043), Event: field_out
+[DEBUG] Stats for Carlos Correa (ID: 621043): {'gamesPlayed': 40, 'groundOuts': 49, 'airOuts': 35, 'runs': 13, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 28, 'baseOnBalls': 8, 'intentionalWalks': 0, 'hits': 33, 'hitByPitch': 0, 'avg': '.229', 'atBats': 144, 'obp': '.268', 'slg': '.326', 'ops': '.594', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 6, 'numberOfPitches': 579, 'plateAppearances': 153, 'totalBases': 47, 'rbi': 13, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.270', 'groundOutsToAirouts': '1.40', 'catchersInterference': 0, 'atBatsPerHomeRun': '72.00'}
+
+[PLAY DESCRIPTION] Carlos Correa flies out to center fielder Wilyer Abreu.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Tyler O'Neill (ID: 641933), Event: strikeout
+[DEBUG] Stats for Tyler O'Neill (ID: 641933): {'gamesPlayed': 22, 'groundOuts': 14, 'airOuts': 23, 'runs': 9, 'doubles': 3, 'triples': 1, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 8, 'intentionalWalks': 1, 'hits': 15, 'hitByPitch': 2, 'avg': '.208', 'atBats': 72, 'obp': '.298', 'slg': '.361', 'ops': '.659', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 334, 'plateAppearances': 84, 'totalBases': 26, 'rbi': 10, 'leftOnBase': 28, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.260', 'groundOutsToAirouts': '0.61', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Tyler O'Neill called out on strikes.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Wilyer Abreu (ID: 677800), Event: single
+[DEBUG] Stats for Wilyer Abreu (ID: 677800): {'gamesPlayed': 42, 'groundOuts': 18, 'airOuts': 54, 'runs': 24, 'doubles': 7, 'triples': 0, 'homeRuns': 11, 'strikeOuts': 33, 'baseOnBalls': 22, 'intentionalWalks': 4, 'hits': 41, 'hitByPitch': 0, 'avg': '.281', 'atBats': 146, 'obp': '.375', 'slg': '.555', 'ops': '.930', 'caughtStealing': 2, 'stolenBases': 4, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 2, 'numberOfPitches': 640, 'plateAppearances': 168, 'totalBases': 81, 'rbi': 27, 'leftOnBase': 70, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.294', 'groundOutsToAirouts': '0.33', 'catchersInterference': 0, 'atBatsPerHomeRun': '13.27'}
+
+[PLAY DESCRIPTION] Wilyer Abreu singles on a line drive to right fielder Max Kepler.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Connor Wong (ID: 657136), Event: strikeout
+[DEBUG] Stats for Connor Wong (ID: 657136): {'gamesPlayed': 14, 'groundOuts': 13, 'airOuts': 9, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 13, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.146', 'atBats': 41, 'obp': '.239', 'slg': '.146', 'ops': '.385', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 194, 'plateAppearances': 46, 'totalBases': 6, 'rbi': 0, 'leftOnBase': 31, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.214', 'groundOutsToAirouts': '1.44', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Connor Wong strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Dominic Smith (ID: 642086), Event: field_out
+[DEBUG] Stats for Dominic Smith (ID: 642086): {}
+
+[PLAY DESCRIPTION] Dominic Smith flies out to left fielder Manuel Margot.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Max Kepler (ID: 596146), Event: field_out
+[DEBUG] Stats for Max Kepler (ID: 596146): {'gamesPlayed': 38, 'groundOuts': 34, 'airOuts': 40, 'runs': 19, 'doubles': 8, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 28, 'baseOnBalls': 15, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 2, 'avg': '.229', 'atBats': 131, 'obp': '.315', 'slg': '.405', 'ops': '.720', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 572, 'plateAppearances': 149, 'totalBases': 53, 'rbi': 14, 'leftOnBase': 61, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.253', 'groundOutsToAirouts': '0.85', 'catchersInterference': 0, 'atBatsPerHomeRun': '26.20'}
+
+[PLAY DESCRIPTION] Max Kepler grounds out, first baseman Garrett Cooper to pitcher Chase Anderson.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Carlos Santana (ID: 467793), Event: field_out
+[DEBUG] Stats for Carlos Santana (ID: 467793): {'gamesPlayed': 40, 'groundOuts': 38, 'airOuts': 44, 'runs': 20, 'doubles': 3, 'triples': 0, 'homeRuns': 4, 'strikeOuts': 31, 'baseOnBalls': 21, 'intentionalWalks': 1, 'hits': 31, 'hitByPitch': 3, 'avg': '.220', 'atBats': 141, 'obp': '.327', 'slg': '.326', 'ops': '.653', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 698, 'plateAppearances': 168, 'totalBases': 46, 'rbi': 19, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 3, 'babip': '.248', 'groundOutsToAirouts': '0.86', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.25'}
+
+[PLAY DESCRIPTION] Carlos Santana grounds out sharply, second baseman David Hamilton to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: Christian Vázquez (ID: 543877), Event: strikeout
+[DEBUG] Stats for Christian Vázquez (ID: 543877): {'gamesPlayed': 21, 'groundOuts': 13, 'airOuts': 20, 'runs': 4, 'doubles': 4, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 9, 'hitByPitch': 0, 'avg': '.170', 'atBats': 53, 'obp': '.262', 'slg': '.245', 'ops': '.507', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 257, 'plateAppearances': 61, 'totalBases': 13, 'rbi': 2, 'leftOnBase': 27, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.214', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Christian Vázquez strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Garrett Cooper (ID: 643265), Event: field_out
+[DEBUG] Stats for Garrett Cooper (ID: 643265): {}
+
+[PLAY DESCRIPTION] Garrett Cooper grounds out softly, second baseman Edouard Julien to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] field_out
+[DEBUG] Generating trivia for: David Hamilton (ID: 666152), Event: strikeout
+[DEBUG] Stats for David Hamilton (ID: 666152): {'gamesPlayed': 21, 'groundOuts': 12, 'airOuts': 18, 'runs': 8, 'doubles': 1, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 14, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 11, 'hitByPitch': 1, 'avg': '.204', 'atBats': 54, 'obp': '.246', 'slg': '.333', 'ops': '.579', 'caughtStealing': 0, 'stolenBases': 5, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 186, 'plateAppearances': 58, 'totalBases': 18, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.237', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '27.00'}
+
+[PLAY DESCRIPTION] David Hamilton strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Reese McGuire (ID: 624512), Event: field_out
+[DEBUG] Stats for Reese McGuire (ID: 624512): {}
+
+[PLAY DESCRIPTION] Reese McGuire lines out sharply to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] field_out
+
+Q1: Jarren Duran was retired. How many outs has he made this season?
+A1: 98
+
+Q2: Rafael Devers was retired. How many outs has he made this season?
+A2: 71
+
+Q3: Tyler O'Neill hit a double. How many doubles has he hit this season?
+A3: 3
+
+Q4: Wilyer Abreu hit a single. How many singles has he hit this season?
+A4: 23
+
+Q5: Connor Wong hit a single. How many singles has he hit this season?
+A5: 6
+
+Q6: Dominic Smith was retired. How many outs has he made this season?
+A6: 0 ⚠️ (may not be updated)
+
+Q7: Ryan Jeffers was retired. How many outs has he made this season?
+A7: 57
+
+Q8: Jose Miranda was hit by a pitch. How many times has he been hit this season?
+A8: 0 ⚠️ (may not be updated)
+
+Q9: Willi Castro hit a single. How many singles has he hit this season?
+A9: 12
+
+Q10: Carlos Correa was retired. How many outs has he made this season?
+A10: 84
+
+Q11: Max Kepler struck out. How many strikeouts does he have this season?
+A11: 28
+
+Q12: Garrett Cooper struck out. How many strikeouts does he have this season?
+A12: 0 ⚠️ (may not be updated)
+
+Q13: David Hamilton was retired. How many outs has he made this season?
+A13: 30
+
+Q14: Ceddanne Rafaela was retired. How many outs has he made this season?
+A14: 78
+
+Q15: Carlos Santana was retired. How many outs has he made this season?
+A15: 82
+
+Q16: Christian Vázquez was retired. How many outs has he made this season?
+A16: 33
+
+Q17: Austin Martin struck out. How many strikeouts does he have this season?
+A17: 0 ⚠️ (may not be updated)
+
+Q18: Jarren Duran drew a walk. How many walks has he drawn this season?
+A18: 10
+
+Q19: Rafael Devers grounded into a double play. How many double plays has he grounded into this season?
+A19: 2
+
+Q20: Tyler O'Neill struck out. How many strikeouts does he have this season?
+A20: 22
+
+Q21: Edouard Julien was retired. How many outs has he made this season?
+A21: 45
+
+Q22: Ryan Jeffers struck out. How many strikeouts does he have this season?
+A22: 22
+
+Q23: Jose Miranda hit a single. How many singles has he hit this season?
+A23: 5
+
+Q24: Willi Castro struck out. How many strikeouts does he have this season?
+A24: 22
+
+Q25: Wilyer Abreu struck out. How many strikeouts does he have this season?
+A25: 33
+
+Q26: Connor Wong struck out. How many strikeouts does he have this season?
+A26: 13
+
+Q27: Dominic Smith hit a single. How many singles has he hit this season?
+A27: 0 ⚠️ (may not be updated)
+
+Q28: Garrett Cooper was retired. How many outs has he made this season?
+A28: 0 ⚠️ (may not be updated)
+
+Q29: Carlos Correa struck out. How many strikeouts does he have this season?
+A29: 28
+
+Q30: Max Kepler hit a home run. How many home runs does he have this season?
+A30: 5
+
+Q31: Carlos Santana was retired. How many outs has he made this season?
+A31: 82
+
+Q32: Christian Vázquez was retired. How many outs has he made this season?
+A32: 33
+
+Q33: David Hamilton hit a single. How many singles has he hit this season?
+A33: 8
+
+Q34: Ceddanne Rafaela struck out. How many strikeouts does he have this season?
+A34: 25
+
+Q35: Jarren Duran was retired. How many outs has he made this season?
+A35: 98
+
+Q36: Rafael Devers struck out. How many strikeouts does he have this season?
+A36: 50
+
+Q37: Austin Martin hit a single. How many singles has he hit this season?
+A37: 0 ⚠️ (may not be updated)
+
+Q38: Edouard Julien struck out. How many strikeouts does he have this season?
+A38: 29
+
+Q39: Ryan Jeffers was retired. How many outs has he made this season?
+A39: 57
+
+Q40: Jose Miranda was retired. How many outs has he made this season?
+A40: 17
+
+Q41: Tyler O'Neill struck out. How many strikeouts does he have this season?
+A41: 22
+
+Q42: Wilyer Abreu struck out. How many strikeouts does he have this season?
+A42: 33
+
+Q43: Connor Wong was retired. How many outs has he made this season?
+A43: 22
+
+Q44: Willi Castro hit a single. How many singles has he hit this season?
+A44: 12
+
+Q45: Carlos Correa hit a sacrifice fly. How many sac flies has he hit this season?
+A45: 1
+
+Q46: Max Kepler hit a single. How many singles has he hit this season?
+A46: 17
+
+Q47: Carlos Santana struck out. How many strikeouts does he have this season?
+A47: 31
+
+Q48: Christian Vázquez hit a single. How many singles has he hit this season?
+A48: 5
+
+Q49: Alex Kirilloff was retired. How many outs has he made this season?
+A49: 0 ⚠️ (may not be updated)
+
+Q50: Dominic Smith hit a single. How many singles has he hit this season?
+A50: 0 ⚠️ (may not be updated)
+
+Q51: Garrett Cooper drew a walk. How many walks has he drawn this season?
+A51: 0 ⚠️ (may not be updated)
+
+Q52: David Hamilton was retired. How many outs has he made this season?
+A52: 30
+
+Q53: Ceddanne Rafaela hit a single. How many singles has he hit this season?
+A53: 21
+
+Q54: Rob Refsnyder drew a walk. How many walks has he drawn this season?
+A54: 2
+
+Q55: Rafael Devers struck out. How many strikeouts does he have this season?
+A55: 50
+
+Q56: Edouard Julien drew a walk. How many walks has he drawn this season?
+A56: 11
+
+Q57: Ryan Jeffers hit a double. How many doubles has he hit this season?
+A57: 8
+
+Q58: Jose Miranda was retired. How many outs has he made this season?
+A58: 17
+
+Q59: Carlos Correa was retired. How many outs has he made this season?
+A59: 84
+
+Q60: Tyler O'Neill struck out. How many strikeouts does he have this season?
+A60: 22
+
+Q61: Wilyer Abreu hit a single. How many singles has he hit this season?
+A61: 23
+
+Q62: Connor Wong struck out. How many strikeouts does he have this season?
+A62: 13
+
+Q63: Dominic Smith was retired. How many outs has he made this season?
+A63: 0 ⚠️ (may not be updated)
+
+Q64: Max Kepler was retired. How many outs has he made this season?
+A64: 74
+
+Q65: Carlos Santana was retired. How many outs has he made this season?
+A65: 82
+
+Q66: Christian Vázquez struck out. How many strikeouts does he have this season?
+A66: 12
+
+Q67: Garrett Cooper was retired. How many outs has he made this season?
+A67: 0 ⚠️ (may not be updated)
+
+Q68: David Hamilton struck out. How many strikeouts does he have this season?
+A68: 14
+
+Q69: Reese McGuire was retired. How many outs has he made this season?
+A69: 0 ⚠️ (may not be updated)

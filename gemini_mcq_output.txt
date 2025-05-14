@@ -1,0 +1,1776 @@
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Jarren Duran (ID: 680776), Event: field_out
+[DEBUG] Stats for Jarren Duran (ID: 680776): {'gamesPlayed': 43, 'groundOuts': 46, 'airOuts': 52, 'runs': 23, 'doubles': 10, 'triples': 4, 'homeRuns': 2, 'strikeOuts': 44, 'baseOnBalls': 10, 'intentionalWalks': 0, 'hits': 48, 'hitByPitch': 3, 'avg': '.254', 'atBats': 189, 'obp': '.300', 'slg': '.381', 'ops': '.681', 'caughtStealing': 3, 'stolenBases': 11, 'stolenBasePercentage': '.786', 'groundIntoDoublePlay': 1, 'numberOfPitches': 719, 'plateAppearances': 203, 'totalBases': 72, 'rbi': 22, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.319', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '94.50'}
+
+[PLAY DESCRIPTION] Jarren Duran pops out to third baseman Jose Miranda in foul territory.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Rafael Devers (ID: 646240), Event: field_out
+[DEBUG] Stats for Rafael Devers (ID: 646240): {'gamesPlayed': 44, 'groundOuts': 34, 'airOuts': 37, 'runs': 25, 'doubles': 12, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 33, 'intentionalWalks': 3, 'hits': 45, 'hitByPitch': 1, 'avg': '.274', 'atBats': 164, 'obp': '.395', 'slg': '.476', 'ops': '.871', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 870, 'plateAppearances': 200, 'totalBases': 78, 'rbi': 31, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.349', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.43'}
+
+[PLAY DESCRIPTION] Rafael Devers grounds out sharply to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Tyler O'Neill (ID: 641933), Event: double
+[DEBUG] Stats for Tyler O'Neill (ID: 641933): {'gamesPlayed': 22, 'groundOuts': 14, 'airOuts': 23, 'runs': 9, 'doubles': 3, 'triples': 1, 'homeRuns': 2, 'strikeOuts': 23, 'baseOnBalls': 8, 'intentionalWalks': 1, 'hits': 15, 'hitByPitch': 2, 'avg': '.205', 'atBats': 73, 'obp': '.294', 'slg': '.356', 'ops': '.650', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 338, 'plateAppearances': 85, 'totalBases': 26, 'rbi': 10, 'leftOnBase': 28, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.260', 'groundOutsToAirouts': '0.61', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.50'}
+
+[PLAY DESCRIPTION] Tyler O'Neill doubles (3) on a ground ball to left fielder Willi Castro.
+[TRIVIA EVENT TYPE] double
+[DEBUG] Generating trivia for: Wilyer Abreu (ID: 677800), Event: single
+[DEBUG] Stats for Wilyer Abreu (ID: 677800): {'gamesPlayed': 42, 'groundOuts': 18, 'airOuts': 54, 'runs': 24, 'doubles': 7, 'triples': 0, 'homeRuns': 11, 'strikeOuts': 33, 'baseOnBalls': 22, 'intentionalWalks': 4, 'hits': 41, 'hitByPitch': 0, 'avg': '.281', 'atBats': 146, 'obp': '.375', 'slg': '.555', 'ops': '.930', 'caughtStealing': 2, 'stolenBases': 4, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 2, 'numberOfPitches': 640, 'plateAppearances': 168, 'totalBases': 81, 'rbi': 27, 'leftOnBase': 70, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.294', 'groundOutsToAirouts': '0.33', 'catchersInterference': 0, 'atBatsPerHomeRun': '13.27'}
+
+[PLAY DESCRIPTION] Wilyer Abreu singles on a ground ball to left fielder Willi Castro. Tyler O'Neill scores.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Connor Wong (ID: 657136), Event: single
+[DEBUG] Stats for Connor Wong (ID: 657136): {'gamesPlayed': 14, 'groundOuts': 13, 'airOuts': 9, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 13, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.146', 'atBats': 41, 'obp': '.239', 'slg': '.146', 'ops': '.385', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 194, 'plateAppearances': 46, 'totalBases': 6, 'rbi': 0, 'leftOnBase': 31, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.214', 'groundOutsToAirouts': '1.44', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Connor Wong singles on a fly ball to center fielder Austin Martin. Wilyer Abreu to 3rd.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Dominic Smith (ID: 642086), Event: field_out
+[DEBUG] Stats for Dominic Smith (ID: 642086): {}
+
+[PLAY DESCRIPTION] Dominic Smith grounds out softly, third baseman Jose Miranda to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Ryan Jeffers (ID: 680777), Event: field_out
+[DEBUG] Stats for Ryan Jeffers (ID: 680777): {'gamesPlayed': 31, 'groundOuts': 24, 'airOuts': 33, 'runs': 9, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 12, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 2, 'avg': '.248', 'atBats': 105, 'obp': '.336', 'slg': '.381', 'ops': '.717', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 487, 'plateAppearances': 119, 'totalBases': 40, 'rbi': 16, 'leftOnBase': 38, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.296', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '52.50'}
+
+[PLAY DESCRIPTION] Ryan Jeffers flies out to center fielder Jarren Duran.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Generating trivia for: Jose Miranda (ID: 669304), Event: hit_by_pitch
+[DEBUG] Stats for Jose Miranda (ID: 669304): {'gamesPlayed': 12, 'groundOuts': 10, 'airOuts': 7, 'runs': 2, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.167', 'atBats': 36, 'obp': '.167', 'slg': '.250', 'ops': '.417', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 127, 'plateAppearances': 36, 'totalBases': 9, 'rbi': 5, 'leftOnBase': 25, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.227', 'groundOutsToAirouts': '1.43', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Jose Miranda hit by pitch.
+[TRIVIA EVENT TYPE] hit_by_pitch
+[DEBUG] Generating trivia for: Willi Castro (ID: 650489), Event: single
+[DEBUG] Stats for Willi Castro (ID: 650489): {'gamesPlayed': 25, 'groundOuts': 16, 'airOuts': 30, 'runs': 11, 'doubles': 6, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 22, 'baseOnBalls': 5, 'intentionalWalks': 1, 'hits': 19, 'hitByPitch': 3, 'avg': '.218', 'atBats': 87, 'obp': '.284', 'slg': '.322', 'ops': '.606', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 375, 'plateAppearances': 95, 'totalBases': 28, 'rbi': 5, 'leftOnBase': 34, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.281', 'groundOutsToAirouts': '0.53', 'catchersInterference': 0, 'atBatsPerHomeRun': '87.00'}
+
+[PLAY DESCRIPTION] Willi Castro singles on a sharp ground ball to left fielder Tyler O'Neill. Jose Miranda to 2nd.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Carlos Correa (ID: 621043), Event: field_out
+[DEBUG] Stats for Carlos Correa (ID: 621043): {'gamesPlayed': 40, 'groundOuts': 49, 'airOuts': 35, 'runs': 13, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 28, 'baseOnBalls': 8, 'intentionalWalks': 0, 'hits': 33, 'hitByPitch': 0, 'avg': '.229', 'atBats': 144, 'obp': '.268', 'slg': '.326', 'ops': '.594', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 6, 'numberOfPitches': 579, 'plateAppearances': 153, 'totalBases': 47, 'rbi': 13, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.270', 'groundOutsToAirouts': '1.40', 'catchersInterference': 0, 'atBatsPerHomeRun': '72.00'}
+
+[PLAY DESCRIPTION] Carlos Correa grounds out, third baseman Rafael Devers to first baseman Garrett Cooper. Jose Miranda scores. Willi Castro to 3rd.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Max Kepler (ID: 596146), Event: strikeout
+[DEBUG] Stats for Max Kepler (ID: 596146): {'gamesPlayed': 38, 'groundOuts': 34, 'airOuts': 40, 'runs': 19, 'doubles': 8, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 28, 'baseOnBalls': 15, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 2, 'avg': '.229', 'atBats': 131, 'obp': '.315', 'slg': '.405', 'ops': '.720', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 572, 'plateAppearances': 149, 'totalBases': 53, 'rbi': 14, 'leftOnBase': 61, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.253', 'groundOutsToAirouts': '0.85', 'catchersInterference': 0, 'atBatsPerHomeRun': '26.20'}
+
+[PLAY DESCRIPTION] Max Kepler called out on strikes.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Garrett Cooper (ID: 643265), Event: strikeout
+[DEBUG] Stats for Garrett Cooper (ID: 643265): {}
+
+[PLAY DESCRIPTION] Garrett Cooper strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: David Hamilton (ID: 666152), Event: field_out
+[DEBUG] Stats for David Hamilton (ID: 666152): {'gamesPlayed': 21, 'groundOuts': 12, 'airOuts': 18, 'runs': 8, 'doubles': 1, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 14, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 11, 'hitByPitch': 1, 'avg': '.204', 'atBats': 54, 'obp': '.246', 'slg': '.333', 'ops': '.579', 'caughtStealing': 0, 'stolenBases': 5, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 186, 'plateAppearances': 58, 'totalBases': 18, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.237', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '27.00'}
+
+[PLAY DESCRIPTION] David Hamilton grounds out, first baseman Carlos Santana to pitcher Pablo López.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Ceddanne Rafaela (ID: 678882), Event: field_out
+[DEBUG] Stats for Ceddanne Rafaela (ID: 678882): {'gamesPlayed': 39, 'groundOuts': 40, 'airOuts': 38, 'runs': 23, 'doubles': 7, 'triples': 2, 'homeRuns': 2, 'strikeOuts': 25, 'baseOnBalls': 9, 'intentionalWalks': 0, 'hits': 32, 'hitByPitch': 2, 'avg': '.242', 'atBats': 132, 'obp': '.299', 'slg': '.371', 'ops': '.670', 'caughtStealing': 0, 'stolenBases': 7, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 517, 'plateAppearances': 146, 'totalBases': 49, 'rbi': 17, 'leftOnBase': 49, 'sacBunts': 2, 'sacFlies': 1, 'babip': '.283', 'groundOutsToAirouts': '1.05', 'catchersInterference': 0, 'atBatsPerHomeRun': '66.00'}
+
+[PLAY DESCRIPTION] Ceddanne Rafaela pops out to first baseman Carlos Santana in foul territory.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Carlos Santana (ID: 467793), Event: field_out
+[DEBUG] Stats for Carlos Santana (ID: 467793): {'gamesPlayed': 40, 'groundOuts': 38, 'airOuts': 44, 'runs': 20, 'doubles': 3, 'triples': 0, 'homeRuns': 4, 'strikeOuts': 31, 'baseOnBalls': 21, 'intentionalWalks': 1, 'hits': 31, 'hitByPitch': 3, 'avg': '.220', 'atBats': 141, 'obp': '.327', 'slg': '.326', 'ops': '.653', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 698, 'plateAppearances': 168, 'totalBases': 46, 'rbi': 19, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 3, 'babip': '.248', 'groundOutsToAirouts': '0.86', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.25'}
+
+[PLAY DESCRIPTION] Carlos Santana grounds out, second baseman David Hamilton to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Christian Vázquez (ID: 543877), Event: field_out
+[DEBUG] Stats for Christian Vázquez (ID: 543877): {'gamesPlayed': 21, 'groundOuts': 13, 'airOuts': 20, 'runs': 4, 'doubles': 4, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 10, 'hitByPitch': 0, 'avg': '.185', 'atBats': 54, 'obp': '.274', 'slg': '.259', 'ops': '.533', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 259, 'plateAppearances': 62, 'totalBases': 14, 'rbi': 2, 'leftOnBase': 27, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.233', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Christian Vázquez lines out to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Generating trivia for: Austin Martin (ID: 668885), Event: strikeout
+[DEBUG] Stats for Austin Martin (ID: 668885): {}
+
+[PLAY DESCRIPTION] Austin Martin strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Jarren Duran (ID: 680776), Event: walk
+[DEBUG] Stats for Jarren Duran (ID: 680776): {'gamesPlayed': 43, 'groundOuts': 46, 'airOuts': 52, 'runs': 23, 'doubles': 10, 'triples': 4, 'homeRuns': 2, 'strikeOuts': 44, 'baseOnBalls': 10, 'intentionalWalks': 0, 'hits': 48, 'hitByPitch': 3, 'avg': '.254', 'atBats': 189, 'obp': '.300', 'slg': '.381', 'ops': '.681', 'caughtStealing': 3, 'stolenBases': 11, 'stolenBasePercentage': '.786', 'groundIntoDoublePlay': 1, 'numberOfPitches': 719, 'plateAppearances': 203, 'totalBases': 72, 'rbi': 22, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.319', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '94.50'}
+
+[PLAY DESCRIPTION] Jarren Duran walks.
+[TRIVIA EVENT TYPE] walk
+[DEBUG] Generating trivia for: Rafael Devers (ID: 646240), Event: grounded_into_double_play
+[DEBUG] Stats for Rafael Devers (ID: 646240): {'gamesPlayed': 44, 'groundOuts': 34, 'airOuts': 37, 'runs': 25, 'doubles': 12, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 33, 'intentionalWalks': 3, 'hits': 45, 'hitByPitch': 1, 'avg': '.274', 'atBats': 164, 'obp': '.395', 'slg': '.476', 'ops': '.871', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 870, 'plateAppearances': 200, 'totalBases': 78, 'rbi': 31, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.349', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.43'}
+
+[PLAY DESCRIPTION] Rafael Devers grounds into a double play, first baseman Carlos Santana to shortstop Carlos Correa to first baseman Carlos Santana. Jarren Duran out at 2nd. Rafael Devers out at 1st.
+[TRIVIA EVENT TYPE] grounded_into_double_play
+[DEBUG] Generating trivia for: Tyler O'Neill (ID: 641933), Event: strikeout
+[DEBUG] Stats for Tyler O'Neill (ID: 641933): {'gamesPlayed': 22, 'groundOuts': 14, 'airOuts': 23, 'runs': 9, 'doubles': 3, 'triples': 1, 'homeRuns': 2, 'strikeOuts': 23, 'baseOnBalls': 8, 'intentionalWalks': 1, 'hits': 15, 'hitByPitch': 2, 'avg': '.205', 'atBats': 73, 'obp': '.294', 'slg': '.356', 'ops': '.650', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 338, 'plateAppearances': 85, 'totalBases': 26, 'rbi': 10, 'leftOnBase': 28, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.260', 'groundOutsToAirouts': '0.61', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.50'}
+
+[PLAY DESCRIPTION] Tyler O'Neill strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Edouard Julien (ID: 666397), Event: field_out
+[DEBUG] Stats for Edouard Julien (ID: 666397): {'gamesPlayed': 29, 'groundOuts': 26, 'airOuts': 19, 'runs': 8, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 29, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 1, 'avg': '.198', 'atBats': 91, 'obp': '.288', 'slg': '.319', 'ops': '.607', 'caughtStealing': 2, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 444, 'plateAppearances': 104, 'totalBases': 29, 'rbi': 8, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.262', 'groundOutsToAirouts': '1.37', 'catchersInterference': 0, 'atBatsPerHomeRun': '45.50'}
+
+[PLAY DESCRIPTION] Edouard Julien grounds out, second baseman David Hamilton to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Ryan Jeffers (ID: 680777), Event: strikeout
+[DEBUG] Stats for Ryan Jeffers (ID: 680777): {'gamesPlayed': 31, 'groundOuts': 24, 'airOuts': 33, 'runs': 9, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 12, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 2, 'avg': '.248', 'atBats': 105, 'obp': '.336', 'slg': '.381', 'ops': '.717', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 487, 'plateAppearances': 119, 'totalBases': 40, 'rbi': 16, 'leftOnBase': 38, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.296', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '52.50'}
+
+[PLAY DESCRIPTION] Ryan Jeffers strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Jose Miranda (ID: 669304), Event: single
+[DEBUG] Stats for Jose Miranda (ID: 669304): {'gamesPlayed': 12, 'groundOuts': 10, 'airOuts': 7, 'runs': 2, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.167', 'atBats': 36, 'obp': '.167', 'slg': '.250', 'ops': '.417', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 127, 'plateAppearances': 36, 'totalBases': 9, 'rbi': 5, 'leftOnBase': 25, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.227', 'groundOutsToAirouts': '1.43', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Jose Miranda singles on a fly ball to shortstop Ceddanne Rafaela.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Willi Castro (ID: 650489), Event: strikeout
+[DEBUG] Stats for Willi Castro (ID: 650489): {'gamesPlayed': 25, 'groundOuts': 16, 'airOuts': 30, 'runs': 11, 'doubles': 6, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 22, 'baseOnBalls': 5, 'intentionalWalks': 1, 'hits': 19, 'hitByPitch': 3, 'avg': '.218', 'atBats': 87, 'obp': '.284', 'slg': '.322', 'ops': '.606', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 375, 'plateAppearances': 95, 'totalBases': 28, 'rbi': 5, 'leftOnBase': 34, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.281', 'groundOutsToAirouts': '0.53', 'catchersInterference': 0, 'atBatsPerHomeRun': '87.00'}
+
+[PLAY DESCRIPTION] Willi Castro strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Wilyer Abreu (ID: 677800), Event: strikeout
+[DEBUG] Stats for Wilyer Abreu (ID: 677800): {'gamesPlayed': 42, 'groundOuts': 18, 'airOuts': 54, 'runs': 24, 'doubles': 7, 'triples': 0, 'homeRuns': 11, 'strikeOuts': 33, 'baseOnBalls': 22, 'intentionalWalks': 4, 'hits': 41, 'hitByPitch': 0, 'avg': '.281', 'atBats': 146, 'obp': '.375', 'slg': '.555', 'ops': '.930', 'caughtStealing': 2, 'stolenBases': 4, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 2, 'numberOfPitches': 640, 'plateAppearances': 168, 'totalBases': 81, 'rbi': 27, 'leftOnBase': 70, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.294', 'groundOutsToAirouts': '0.33', 'catchersInterference': 0, 'atBatsPerHomeRun': '13.27'}
+
+[PLAY DESCRIPTION] Wilyer Abreu strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Connor Wong (ID: 657136), Event: strikeout
+[DEBUG] Stats for Connor Wong (ID: 657136): {'gamesPlayed': 14, 'groundOuts': 13, 'airOuts': 9, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 13, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.146', 'atBats': 41, 'obp': '.239', 'slg': '.146', 'ops': '.385', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 194, 'plateAppearances': 46, 'totalBases': 6, 'rbi': 0, 'leftOnBase': 31, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.214', 'groundOutsToAirouts': '1.44', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Connor Wong strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Dominic Smith (ID: 642086), Event: single
+[DEBUG] Stats for Dominic Smith (ID: 642086): {}
+
+[PLAY DESCRIPTION] Dominic Smith singles on a line drive to right fielder Max Kepler.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Garrett Cooper (ID: 643265), Event: field_out
+[DEBUG] Stats for Garrett Cooper (ID: 643265): {}
+
+[PLAY DESCRIPTION] Garrett Cooper grounds out, third baseman Jose Miranda to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Carlos Correa (ID: 621043), Event: strikeout
+[DEBUG] Stats for Carlos Correa (ID: 621043): {'gamesPlayed': 40, 'groundOuts': 49, 'airOuts': 35, 'runs': 13, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 28, 'baseOnBalls': 8, 'intentionalWalks': 0, 'hits': 33, 'hitByPitch': 0, 'avg': '.229', 'atBats': 144, 'obp': '.268', 'slg': '.326', 'ops': '.594', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 6, 'numberOfPitches': 579, 'plateAppearances': 153, 'totalBases': 47, 'rbi': 13, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.270', 'groundOutsToAirouts': '1.40', 'catchersInterference': 0, 'atBatsPerHomeRun': '72.00'}
+
+[PLAY DESCRIPTION] Carlos Correa strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Max Kepler (ID: 596146), Event: home_run
+[DEBUG] Stats for Max Kepler (ID: 596146): {'gamesPlayed': 38, 'groundOuts': 34, 'airOuts': 40, 'runs': 19, 'doubles': 8, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 28, 'baseOnBalls': 15, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 2, 'avg': '.229', 'atBats': 131, 'obp': '.315', 'slg': '.405', 'ops': '.720', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 572, 'plateAppearances': 149, 'totalBases': 53, 'rbi': 14, 'leftOnBase': 61, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.253', 'groundOutsToAirouts': '0.85', 'catchersInterference': 0, 'atBatsPerHomeRun': '26.20'}
+
+[PLAY DESCRIPTION] Max Kepler homers (2) on a fly ball to right center field.
+[TRIVIA EVENT TYPE] home_run
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Carlos Santana (ID: 467793), Event: field_out
+[DEBUG] Stats for Carlos Santana (ID: 467793): {'gamesPlayed': 40, 'groundOuts': 38, 'airOuts': 44, 'runs': 20, 'doubles': 3, 'triples': 0, 'homeRuns': 4, 'strikeOuts': 31, 'baseOnBalls': 21, 'intentionalWalks': 1, 'hits': 31, 'hitByPitch': 3, 'avg': '.220', 'atBats': 141, 'obp': '.327', 'slg': '.326', 'ops': '.653', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 698, 'plateAppearances': 168, 'totalBases': 46, 'rbi': 19, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 3, 'babip': '.248', 'groundOutsToAirouts': '0.86', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.25'}
+
+[PLAY DESCRIPTION] Carlos Santana flies out to right fielder Wilyer Abreu.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Christian Vázquez (ID: 543877), Event: field_out
+[DEBUG] Stats for Christian Vázquez (ID: 543877): {'gamesPlayed': 21, 'groundOuts': 13, 'airOuts': 20, 'runs': 4, 'doubles': 4, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 10, 'hitByPitch': 0, 'avg': '.185', 'atBats': 54, 'obp': '.274', 'slg': '.259', 'ops': '.533', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 259, 'plateAppearances': 62, 'totalBases': 14, 'rbi': 2, 'leftOnBase': 27, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.233', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Christian Vázquez flies out to right fielder Wilyer Abreu.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Generating trivia for: David Hamilton (ID: 666152), Event: single
+[DEBUG] Stats for David Hamilton (ID: 666152): {'gamesPlayed': 21, 'groundOuts': 12, 'airOuts': 18, 'runs': 8, 'doubles': 1, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 14, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 11, 'hitByPitch': 1, 'avg': '.204', 'atBats': 54, 'obp': '.246', 'slg': '.333', 'ops': '.579', 'caughtStealing': 0, 'stolenBases': 5, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 186, 'plateAppearances': 58, 'totalBases': 18, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.237', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '27.00'}
+
+[PLAY DESCRIPTION] David Hamilton singles on a fly ball to center fielder Austin Martin.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Ceddanne Rafaela (ID: 678882), Event: strikeout
+[DEBUG] Stats for Ceddanne Rafaela (ID: 678882): {'gamesPlayed': 39, 'groundOuts': 40, 'airOuts': 38, 'runs': 23, 'doubles': 7, 'triples': 2, 'homeRuns': 2, 'strikeOuts': 25, 'baseOnBalls': 9, 'intentionalWalks': 0, 'hits': 32, 'hitByPitch': 2, 'avg': '.242', 'atBats': 132, 'obp': '.299', 'slg': '.371', 'ops': '.670', 'caughtStealing': 0, 'stolenBases': 7, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 517, 'plateAppearances': 146, 'totalBases': 49, 'rbi': 17, 'leftOnBase': 49, 'sacBunts': 2, 'sacFlies': 1, 'babip': '.283', 'groundOutsToAirouts': '1.05', 'catchersInterference': 0, 'atBatsPerHomeRun': '66.00'}
+
+[PLAY DESCRIPTION] Ceddanne Rafaela strikes out on a foul tip.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Jarren Duran (ID: 680776), Event: field_out
+[DEBUG] Stats for Jarren Duran (ID: 680776): {'gamesPlayed': 43, 'groundOuts': 46, 'airOuts': 52, 'runs': 23, 'doubles': 10, 'triples': 4, 'homeRuns': 2, 'strikeOuts': 44, 'baseOnBalls': 10, 'intentionalWalks': 0, 'hits': 48, 'hitByPitch': 3, 'avg': '.254', 'atBats': 189, 'obp': '.300', 'slg': '.381', 'ops': '.681', 'caughtStealing': 3, 'stolenBases': 11, 'stolenBasePercentage': '.786', 'groundIntoDoublePlay': 1, 'numberOfPitches': 719, 'plateAppearances': 203, 'totalBases': 72, 'rbi': 22, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.319', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '94.50'}
+
+[PLAY DESCRIPTION] Jarren Duran grounds out, second baseman Edouard Julien to first baseman Carlos Santana. David Hamilton to 3rd.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Rafael Devers (ID: 646240), Event: strikeout
+[DEBUG] Stats for Rafael Devers (ID: 646240): {'gamesPlayed': 44, 'groundOuts': 34, 'airOuts': 37, 'runs': 25, 'doubles': 12, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 33, 'intentionalWalks': 3, 'hits': 45, 'hitByPitch': 1, 'avg': '.274', 'atBats': 164, 'obp': '.395', 'slg': '.476', 'ops': '.871', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 870, 'plateAppearances': 200, 'totalBases': 78, 'rbi': 31, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.349', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.43'}
+
+[PLAY DESCRIPTION] Rafael Devers strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Austin Martin (ID: 668885), Event: single
+[DEBUG] Stats for Austin Martin (ID: 668885): {}
+
+[PLAY DESCRIPTION] Austin Martin singles on a fly ball to left fielder Tyler O'Neill.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Edouard Julien (ID: 666397), Event: strikeout
+[DEBUG] Stats for Edouard Julien (ID: 666397): {'gamesPlayed': 29, 'groundOuts': 26, 'airOuts': 19, 'runs': 8, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 29, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 1, 'avg': '.198', 'atBats': 91, 'obp': '.288', 'slg': '.319', 'ops': '.607', 'caughtStealing': 2, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 444, 'plateAppearances': 104, 'totalBases': 29, 'rbi': 8, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.262', 'groundOutsToAirouts': '1.37', 'catchersInterference': 0, 'atBatsPerHomeRun': '45.50'}
+
+[PLAY DESCRIPTION] Edouard Julien strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Ryan Jeffers (ID: 680777), Event: field_out
+[DEBUG] Stats for Ryan Jeffers (ID: 680777): {'gamesPlayed': 31, 'groundOuts': 24, 'airOuts': 33, 'runs': 9, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 12, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 2, 'avg': '.248', 'atBats': 105, 'obp': '.336', 'slg': '.381', 'ops': '.717', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 487, 'plateAppearances': 119, 'totalBases': 40, 'rbi': 16, 'leftOnBase': 38, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.296', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '52.50'}
+
+[PLAY DESCRIPTION] Ryan Jeffers pops out to second baseman David Hamilton.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Jose Miranda (ID: 669304), Event: field_out
+[DEBUG] Stats for Jose Miranda (ID: 669304): {'gamesPlayed': 12, 'groundOuts': 10, 'airOuts': 7, 'runs': 2, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.167', 'atBats': 36, 'obp': '.167', 'slg': '.250', 'ops': '.417', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 127, 'plateAppearances': 36, 'totalBases': 9, 'rbi': 5, 'leftOnBase': 25, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.227', 'groundOutsToAirouts': '1.43', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Jose Miranda grounds out, third baseman Rafael Devers to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Tyler O'Neill (ID: 641933), Event: strikeout
+[DEBUG] Stats for Tyler O'Neill (ID: 641933): {'gamesPlayed': 22, 'groundOuts': 14, 'airOuts': 23, 'runs': 9, 'doubles': 3, 'triples': 1, 'homeRuns': 2, 'strikeOuts': 23, 'baseOnBalls': 8, 'intentionalWalks': 1, 'hits': 15, 'hitByPitch': 2, 'avg': '.205', 'atBats': 73, 'obp': '.294', 'slg': '.356', 'ops': '.650', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 338, 'plateAppearances': 85, 'totalBases': 26, 'rbi': 10, 'leftOnBase': 28, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.260', 'groundOutsToAirouts': '0.61', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.50'}
+
+[PLAY DESCRIPTION] Tyler O'Neill strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Wilyer Abreu (ID: 677800), Event: strikeout
+[DEBUG] Stats for Wilyer Abreu (ID: 677800): {'gamesPlayed': 42, 'groundOuts': 18, 'airOuts': 54, 'runs': 24, 'doubles': 7, 'triples': 0, 'homeRuns': 11, 'strikeOuts': 33, 'baseOnBalls': 22, 'intentionalWalks': 4, 'hits': 41, 'hitByPitch': 0, 'avg': '.281', 'atBats': 146, 'obp': '.375', 'slg': '.555', 'ops': '.930', 'caughtStealing': 2, 'stolenBases': 4, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 2, 'numberOfPitches': 640, 'plateAppearances': 168, 'totalBases': 81, 'rbi': 27, 'leftOnBase': 70, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.294', 'groundOutsToAirouts': '0.33', 'catchersInterference': 0, 'atBatsPerHomeRun': '13.27'}
+
+[PLAY DESCRIPTION] Wilyer Abreu strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Connor Wong (ID: 657136), Event: field_out
+[DEBUG] Stats for Connor Wong (ID: 657136): {'gamesPlayed': 14, 'groundOuts': 13, 'airOuts': 9, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 13, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.146', 'atBats': 41, 'obp': '.239', 'slg': '.146', 'ops': '.385', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 194, 'plateAppearances': 46, 'totalBases': 6, 'rbi': 0, 'leftOnBase': 31, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.214', 'groundOutsToAirouts': '1.44', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Connor Wong grounds out sharply, shortstop Carlos Correa to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Willi Castro (ID: 650489), Event: single
+[DEBUG] Stats for Willi Castro (ID: 650489): {'gamesPlayed': 25, 'groundOuts': 16, 'airOuts': 30, 'runs': 11, 'doubles': 6, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 22, 'baseOnBalls': 5, 'intentionalWalks': 1, 'hits': 19, 'hitByPitch': 3, 'avg': '.218', 'atBats': 87, 'obp': '.284', 'slg': '.322', 'ops': '.606', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 375, 'plateAppearances': 95, 'totalBases': 28, 'rbi': 5, 'leftOnBase': 34, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.281', 'groundOutsToAirouts': '0.53', 'catchersInterference': 0, 'atBatsPerHomeRun': '87.00'}
+
+[PLAY DESCRIPTION] Willi Castro singles on a ground ball to center fielder Jarren Duran.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Carlos Correa (ID: 621043), Event: sac_fly
+[DEBUG] Stats for Carlos Correa (ID: 621043): {'gamesPlayed': 40, 'groundOuts': 49, 'airOuts': 35, 'runs': 13, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 28, 'baseOnBalls': 8, 'intentionalWalks': 0, 'hits': 33, 'hitByPitch': 0, 'avg': '.229', 'atBats': 144, 'obp': '.268', 'slg': '.326', 'ops': '.594', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 6, 'numberOfPitches': 579, 'plateAppearances': 153, 'totalBases': 47, 'rbi': 13, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.270', 'groundOutsToAirouts': '1.40', 'catchersInterference': 0, 'atBatsPerHomeRun': '72.00'}
+
+[PLAY DESCRIPTION] Carlos Correa out on a sacrifice fly to center fielder Jarren Duran. Willi Castro scores.
+[TRIVIA EVENT TYPE] sac_fly
+[DEBUG] Generating trivia for: Max Kepler (ID: 596146), Event: single
+[DEBUG] Stats for Max Kepler (ID: 596146): {'gamesPlayed': 38, 'groundOuts': 34, 'airOuts': 40, 'runs': 19, 'doubles': 8, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 28, 'baseOnBalls': 15, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 2, 'avg': '.229', 'atBats': 131, 'obp': '.315', 'slg': '.405', 'ops': '.720', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 572, 'plateAppearances': 149, 'totalBases': 53, 'rbi': 14, 'leftOnBase': 61, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.253', 'groundOutsToAirouts': '0.85', 'catchersInterference': 0, 'atBatsPerHomeRun': '26.20'}
+
+[PLAY DESCRIPTION] Max Kepler singles on a ground ball to left fielder Tyler O'Neill.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Carlos Santana (ID: 467793), Event: strikeout
+[DEBUG] Stats for Carlos Santana (ID: 467793): {'gamesPlayed': 40, 'groundOuts': 38, 'airOuts': 44, 'runs': 20, 'doubles': 3, 'triples': 0, 'homeRuns': 4, 'strikeOuts': 31, 'baseOnBalls': 21, 'intentionalWalks': 1, 'hits': 31, 'hitByPitch': 3, 'avg': '.220', 'atBats': 141, 'obp': '.327', 'slg': '.326', 'ops': '.653', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 698, 'plateAppearances': 168, 'totalBases': 46, 'rbi': 19, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 3, 'babip': '.248', 'groundOutsToAirouts': '0.86', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.25'}
+
+[PLAY DESCRIPTION] Carlos Santana strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Christian Vázquez (ID: 543877), Event: single
+[DEBUG] Stats for Christian Vázquez (ID: 543877): {'gamesPlayed': 21, 'groundOuts': 13, 'airOuts': 20, 'runs': 4, 'doubles': 4, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 10, 'hitByPitch': 0, 'avg': '.185', 'atBats': 54, 'obp': '.274', 'slg': '.259', 'ops': '.533', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 259, 'plateAppearances': 62, 'totalBases': 14, 'rbi': 2, 'leftOnBase': 27, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.233', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Christian Vázquez singles on a line drive to left fielder Tyler O'Neill. Max Kepler to 2nd.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Alex Kirilloff (ID: 666135), Event: field_out
+[DEBUG] Stats for Alex Kirilloff (ID: 666135): {}
+
+[PLAY DESCRIPTION] Alex Kirilloff grounds out, first baseman Garrett Cooper to pitcher Justin Slaten.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Dominic Smith (ID: 642086), Event: single
+[DEBUG] Stats for Dominic Smith (ID: 642086): {}
+
+[PLAY DESCRIPTION] Dominic Smith singles on a sharp fly ball to right fielder Max Kepler. Dominic Smith out at 2nd on the throw, right fielder Max Kepler to shortstop Carlos Correa.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Garrett Cooper (ID: 643265), Event: walk
+[DEBUG] Stats for Garrett Cooper (ID: 643265): {}
+
+[PLAY DESCRIPTION] Garrett Cooper walks.
+[TRIVIA EVENT TYPE] walk
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: David Hamilton (ID: 666152), Event: field_out
+[DEBUG] Stats for David Hamilton (ID: 666152): {'gamesPlayed': 21, 'groundOuts': 12, 'airOuts': 18, 'runs': 8, 'doubles': 1, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 14, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 11, 'hitByPitch': 1, 'avg': '.204', 'atBats': 54, 'obp': '.246', 'slg': '.333', 'ops': '.579', 'caughtStealing': 0, 'stolenBases': 5, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 186, 'plateAppearances': 58, 'totalBases': 18, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.237', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '27.00'}
+
+[PLAY DESCRIPTION] David Hamilton lines out to center fielder Willi Castro.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Generating trivia for: Ceddanne Rafaela (ID: 678882), Event: single
+[DEBUG] Stats for Ceddanne Rafaela (ID: 678882): {'gamesPlayed': 39, 'groundOuts': 40, 'airOuts': 38, 'runs': 23, 'doubles': 7, 'triples': 2, 'homeRuns': 2, 'strikeOuts': 25, 'baseOnBalls': 9, 'intentionalWalks': 0, 'hits': 32, 'hitByPitch': 2, 'avg': '.242', 'atBats': 132, 'obp': '.299', 'slg': '.371', 'ops': '.670', 'caughtStealing': 0, 'stolenBases': 7, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 517, 'plateAppearances': 146, 'totalBases': 49, 'rbi': 17, 'leftOnBase': 49, 'sacBunts': 2, 'sacFlies': 1, 'babip': '.283', 'groundOutsToAirouts': '1.05', 'catchersInterference': 0, 'atBatsPerHomeRun': '66.00'}
+
+[PLAY DESCRIPTION] Ceddanne Rafaela singles on a fly ball to right fielder Max Kepler. Garrett Cooper to 3rd.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Rob Refsnyder (ID: 608701), Event: walk
+[DEBUG] Stats for Rob Refsnyder (ID: 608701): {'gamesPlayed': 13, 'groundOuts': 8, 'airOuts': 7, 'runs': 6, 'doubles': 3, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 11, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 12, 'hitByPitch': 0, 'avg': '.324', 'atBats': 37, 'obp': '.350', 'slg': '.568', 'ops': '.918', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 157, 'plateAppearances': 40, 'totalBases': 21, 'rbi': 5, 'leftOnBase': 18, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.400', 'groundOutsToAirouts': '1.14', 'catchersInterference': 0, 'atBatsPerHomeRun': '18.50'}
+
+[PLAY DESCRIPTION] Rob Refsnyder walks. Ceddanne Rafaela to 2nd.
+[TRIVIA EVENT TYPE] walk
+[DEBUG] Generating trivia for: Rafael Devers (ID: 646240), Event: strikeout
+[DEBUG] Stats for Rafael Devers (ID: 646240): {'gamesPlayed': 44, 'groundOuts': 34, 'airOuts': 37, 'runs': 25, 'doubles': 12, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 33, 'intentionalWalks': 3, 'hits': 45, 'hitByPitch': 1, 'avg': '.274', 'atBats': 164, 'obp': '.395', 'slg': '.476', 'ops': '.871', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 870, 'plateAppearances': 200, 'totalBases': 78, 'rbi': 31, 'leftOnBase': 67, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.349', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.43'}
+
+[PLAY DESCRIPTION] Rafael Devers strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Edouard Julien (ID: 666397), Event: walk
+[DEBUG] Stats for Edouard Julien (ID: 666397): {'gamesPlayed': 29, 'groundOuts': 26, 'airOuts': 19, 'runs': 8, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 29, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 1, 'avg': '.198', 'atBats': 91, 'obp': '.288', 'slg': '.319', 'ops': '.607', 'caughtStealing': 2, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 444, 'plateAppearances': 104, 'totalBases': 29, 'rbi': 8, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.262', 'groundOutsToAirouts': '1.37', 'catchersInterference': 0, 'atBatsPerHomeRun': '45.50'}
+
+[PLAY DESCRIPTION] Edouard Julien walks.
+[TRIVIA EVENT TYPE] walk
+[DEBUG] Generating trivia for: Ryan Jeffers (ID: 680777), Event: double
+[DEBUG] Stats for Ryan Jeffers (ID: 680777): {'gamesPlayed': 31, 'groundOuts': 24, 'airOuts': 33, 'runs': 9, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 22, 'baseOnBalls': 12, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 2, 'avg': '.248', 'atBats': 105, 'obp': '.336', 'slg': '.381', 'ops': '.717', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 487, 'plateAppearances': 119, 'totalBases': 40, 'rbi': 16, 'leftOnBase': 38, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.296', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '52.50'}
+
+[PLAY DESCRIPTION] Ryan Jeffers doubles (10) on a sharp line drive to left fielder Tyler O'Neill. Edouard Julien to 3rd.
+[TRIVIA EVENT TYPE] double
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Jose Miranda (ID: 669304), Event: field_out
+[DEBUG] Stats for Jose Miranda (ID: 669304): {'gamesPlayed': 12, 'groundOuts': 10, 'airOuts': 7, 'runs': 2, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.167', 'atBats': 36, 'obp': '.167', 'slg': '.250', 'ops': '.417', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 127, 'plateAppearances': 36, 'totalBases': 9, 'rbi': 5, 'leftOnBase': 25, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.227', 'groundOutsToAirouts': '1.43', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.00'}
+
+[PLAY DESCRIPTION] Jose Miranda grounds out softly, catcher Connor Wong to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Willi Castro (ID: 650489), Event: fielders_choice_out
+[DEBUG] Stats for Willi Castro (ID: 650489): {'gamesPlayed': 25, 'groundOuts': 16, 'airOuts': 30, 'runs': 11, 'doubles': 6, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 22, 'baseOnBalls': 5, 'intentionalWalks': 1, 'hits': 19, 'hitByPitch': 3, 'avg': '.218', 'atBats': 87, 'obp': '.284', 'slg': '.322', 'ops': '.606', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 375, 'plateAppearances': 95, 'totalBases': 28, 'rbi': 5, 'leftOnBase': 34, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.281', 'groundOutsToAirouts': '0.53', 'catchersInterference': 0, 'atBatsPerHomeRun': '87.00'}
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Carlos Correa (ID: 621043), Event: field_out
+[DEBUG] Stats for Carlos Correa (ID: 621043): {'gamesPlayed': 40, 'groundOuts': 49, 'airOuts': 35, 'runs': 13, 'doubles': 8, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 28, 'baseOnBalls': 8, 'intentionalWalks': 0, 'hits': 33, 'hitByPitch': 0, 'avg': '.229', 'atBats': 144, 'obp': '.268', 'slg': '.326', 'ops': '.594', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 6, 'numberOfPitches': 579, 'plateAppearances': 153, 'totalBases': 47, 'rbi': 13, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.270', 'groundOutsToAirouts': '1.40', 'catchersInterference': 0, 'atBatsPerHomeRun': '72.00'}
+
+[PLAY DESCRIPTION] Carlos Correa flies out to center fielder Wilyer Abreu.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Generating trivia for: Tyler O'Neill (ID: 641933), Event: strikeout
+[DEBUG] Stats for Tyler O'Neill (ID: 641933): {'gamesPlayed': 22, 'groundOuts': 14, 'airOuts': 23, 'runs': 9, 'doubles': 3, 'triples': 1, 'homeRuns': 2, 'strikeOuts': 23, 'baseOnBalls': 8, 'intentionalWalks': 1, 'hits': 15, 'hitByPitch': 2, 'avg': '.205', 'atBats': 73, 'obp': '.294', 'slg': '.356', 'ops': '.650', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 338, 'plateAppearances': 85, 'totalBases': 26, 'rbi': 10, 'leftOnBase': 28, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.260', 'groundOutsToAirouts': '0.61', 'catchersInterference': 0, 'atBatsPerHomeRun': '36.50'}
+
+[PLAY DESCRIPTION] Tyler O'Neill called out on strikes.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Generating trivia for: Wilyer Abreu (ID: 677800), Event: single
+[DEBUG] Stats for Wilyer Abreu (ID: 677800): {'gamesPlayed': 42, 'groundOuts': 18, 'airOuts': 54, 'runs': 24, 'doubles': 7, 'triples': 0, 'homeRuns': 11, 'strikeOuts': 33, 'baseOnBalls': 22, 'intentionalWalks': 4, 'hits': 41, 'hitByPitch': 0, 'avg': '.281', 'atBats': 146, 'obp': '.375', 'slg': '.555', 'ops': '.930', 'caughtStealing': 2, 'stolenBases': 4, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 2, 'numberOfPitches': 640, 'plateAppearances': 168, 'totalBases': 81, 'rbi': 27, 'leftOnBase': 70, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.294', 'groundOutsToAirouts': '0.33', 'catchersInterference': 0, 'atBatsPerHomeRun': '13.27'}
+
+[PLAY DESCRIPTION] Wilyer Abreu singles on a line drive to right fielder Max Kepler.
+[TRIVIA EVENT TYPE] single
+[DEBUG] Generating trivia for: Connor Wong (ID: 657136), Event: strikeout
+[DEBUG] Stats for Connor Wong (ID: 657136): {'gamesPlayed': 14, 'groundOuts': 13, 'airOuts': 9, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 13, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.146', 'atBats': 41, 'obp': '.239', 'slg': '.146', 'ops': '.385', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 194, 'plateAppearances': 46, 'totalBases': 6, 'rbi': 0, 'leftOnBase': 31, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.214', 'groundOutsToAirouts': '1.44', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Connor Wong strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Dominic Smith (ID: 642086), Event: field_out
+[DEBUG] Stats for Dominic Smith (ID: 642086): {}
+
+[PLAY DESCRIPTION] Dominic Smith flies out to left fielder Manuel Margot.
+[TRIVIA EVENT TYPE] fly_out
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Max Kepler (ID: 596146), Event: field_out
+[DEBUG] Stats for Max Kepler (ID: 596146): {'gamesPlayed': 38, 'groundOuts': 34, 'airOuts': 40, 'runs': 19, 'doubles': 8, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 28, 'baseOnBalls': 15, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 2, 'avg': '.229', 'atBats': 131, 'obp': '.315', 'slg': '.405', 'ops': '.720', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 572, 'plateAppearances': 149, 'totalBases': 53, 'rbi': 14, 'leftOnBase': 61, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.253', 'groundOutsToAirouts': '0.85', 'catchersInterference': 0, 'atBatsPerHomeRun': '26.20'}
+
+[PLAY DESCRIPTION] Max Kepler grounds out, first baseman Garrett Cooper to pitcher Chase Anderson.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Carlos Santana (ID: 467793), Event: field_out
+[DEBUG] Stats for Carlos Santana (ID: 467793): {'gamesPlayed': 40, 'groundOuts': 38, 'airOuts': 44, 'runs': 20, 'doubles': 3, 'triples': 0, 'homeRuns': 4, 'strikeOuts': 31, 'baseOnBalls': 21, 'intentionalWalks': 1, 'hits': 31, 'hitByPitch': 3, 'avg': '.220', 'atBats': 141, 'obp': '.327', 'slg': '.326', 'ops': '.653', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 698, 'plateAppearances': 168, 'totalBases': 46, 'rbi': 19, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 3, 'babip': '.248', 'groundOutsToAirouts': '0.86', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.25'}
+
+[PLAY DESCRIPTION] Carlos Santana grounds out sharply, second baseman David Hamilton to first baseman Garrett Cooper.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: Christian Vázquez (ID: 543877), Event: strikeout
+[DEBUG] Stats for Christian Vázquez (ID: 543877): {'gamesPlayed': 21, 'groundOuts': 13, 'airOuts': 20, 'runs': 4, 'doubles': 4, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 10, 'hitByPitch': 0, 'avg': '.185', 'atBats': 54, 'obp': '.274', 'slg': '.259', 'ops': '.533', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 259, 'plateAppearances': 62, 'totalBases': 14, 'rbi': 2, 'leftOnBase': 27, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.233', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+
+[PLAY DESCRIPTION] Christian Vázquez strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Reclassified field_out → ground_out
+[DEBUG] Generating trivia for: Garrett Cooper (ID: 643265), Event: field_out
+[DEBUG] Stats for Garrett Cooper (ID: 643265): {}
+
+[PLAY DESCRIPTION] Garrett Cooper grounds out softly, second baseman Edouard Julien to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] ground_out
+[DEBUG] Generating trivia for: David Hamilton (ID: 666152), Event: strikeout
+[DEBUG] Stats for David Hamilton (ID: 666152): {'gamesPlayed': 21, 'groundOuts': 12, 'airOuts': 18, 'runs': 8, 'doubles': 1, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 14, 'baseOnBalls': 2, 'intentionalWalks': 0, 'hits': 11, 'hitByPitch': 1, 'avg': '.204', 'atBats': 54, 'obp': '.246', 'slg': '.333', 'ops': '.579', 'caughtStealing': 0, 'stolenBases': 5, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 186, 'plateAppearances': 58, 'totalBases': 18, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.237', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '27.00'}
+
+[PLAY DESCRIPTION] David Hamilton strikes out swinging.
+[TRIVIA EVENT TYPE] strikeout
+[DEBUG] Reclassified field_out → fly_out
+[DEBUG] Generating trivia for: Reese McGuire (ID: 624512), Event: field_out
+[DEBUG] Stats for Reese McGuire (ID: 624512): {}
+
+[PLAY DESCRIPTION] Reese McGuire lines out sharply to first baseman Carlos Santana.
+[TRIVIA EVENT TYPE] fly_out
+
+Q1: Jarren Duran was retired. How many outs has he made this season?
+A1: 98
+
+[Gemini Multiple Choice Question]
+Alright, buckle up, baseball fanatics! We've got a trivia stumper for ya! The speedy Jarren Duran, just retired, takes his place in the dugout. How many outs has the man made this season? Let's see if you've been paying attention!
+
+A) 84
+B) 112
+C) 98
+D) 77
+
+Answer: C
+
+Q2: Rafael Devers was retired. How many outs has he made this season?
+A2: 71
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test your knowledge with a little trivia! The Red Sox are back in the hunt...but how well do *you* know your players?
+
+Rafael Devers, up at the plate...and *he's* been retired! But how many outs has the young slugger chalked up this year? Is it...
+
+A) 63 - Seems like a lot, but not quite enough to put him on the shelf, eh?
+B) 88 - He gets on base a fair amount, but that's just a bit too high, friends.
+C) 71 - Bingo! That’s the number we’re looking for!
+D) 55 - Could be a contender, but we're closer, baby!
+
+Answer: C
+
+Q3: Tyler O'Neill hit a double. How many doubles has he hit this season?
+A3: 3
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's see if you've been paying attention! Tyler O'Neill just stroked a beautiful double! But how many two-baggers has the man already blasted this season? Let's test your baseball knowledge!
+
+A) 2
+B) 5
+C) 3
+D) 4
+
+Answer: C
+
+Q4: Wilyer Abreu hit a single. How many singles has he hit this season?
+A4: 23
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test your knowledge of the game! Wilyer Abreu, always hustling out there! He just slapped a single, but how many have we seen this season? Let's see if you know your stuff!
+
+A) 27
+B) 18
+C) 23
+D) 31
+
+Answer: C
+
+Q5: Connor Wong hit a single. How many singles has he hit this season?
+A5: 6
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test that diamond knowledge of yours! Connor Wong just slapped a single, and it got me thinking... How many times has the young backstop reached first base safely with a single this year? Think you know? Here are your choices:
+
+A) 4
+B) 8
+C) 6
+D) 3
+
+Answer: C
+
+Q6: Dominic Smith was retired. How many outs has he made this season?
+A6: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's see if you've been paying attention! Here's a little brain-teaser for you, right from the heart of the action!
+
+Dominic Smith was retired. How many outs has he made this season? Let's see who's got their finger on the pulse of the game!
+
+A) 3
+B) 1
+C) 0
+D) 2
+
+Answer: C
+
+Q7: Ryan Jeffers was retired. How many outs has he made this season?
+A7: 57
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's see if you've been paying attention! A real head-scratcher here: Ryan Jeffers, recently retired, how many outs has he actually made this season? Let's see if you know your baseball stats! Here are your choices...
+
+A) 63
+B) 52
+C) 57
+D) 49
+
+Answer: C
+
+Q8: Jose Miranda was hit by a pitch. How many times has he been hit this season?
+A8: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test your knowledge with a little trivia action here! We just saw Jose Miranda take one for the team, but the question is, how many times has our man been plunked this year? Let's see if you've been paying attention!
+
+A) Three times! He's got a knack for getting in the way of those fastballs, doesn't he?
+B) One time! Just the one, a brush of the jersey!
+C) Zero! Still clean as a whistle in that department!
+D) Two times! Seems like he's been a magnet for the ball this season!
+
+Answer: C
+
+Q9: Willi Castro hit a single. How many singles has he hit this season?
+A9: 12
+
+[Gemini Multiple Choice Question]
+Alright, buckle up, baseball fanatics, let's see if your diamond knowledge is up to par! We just saw Willi Castro slap a single! But the question is, how many singles has the man collected this season? Let's see if you can hit this one out of the park...
+
+A) 9
+B) 15
+C) 12
+D) 18
+
+Answer: C
+
+Q10: Carlos Correa was retired. How many outs has he made this season?
+A10: 84
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, buckle up! Time for a little brain buster as we head into the bottom of the 7th! Let's see if you've been paying attention!
+
+Carlos Correa, a player we all love to watch, has just been retired. But my question is this: how many outs has he made this season? Let’s see who's got their eyes on the prize, eh?
+
+A) 77
+B) 92
+C) 84
+D) 68
+
+Answer: C
+
+Q11: Max Kepler struck out. How many strikeouts does he have this season?
+A11: 28
+
+[Gemini Multiple Choice Question]
+Alright, let's test your baseball acumen, fans! Kepler just whiffed, which means it's trivia time!
+
+A) 22
+B) 31
+C) 28
+D) 35
+
+Answer: C
+
+Q12: Garrett Cooper struck out. How many strikeouts does he have this season?
+A12: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test your knowledge of the game! Garrett Cooper just whiffed, sending him back to the dugout. But let's dig a little deeper, shall we? The question for you: Garrett Cooper struck out. How many times has he struck out this season?! Let's see if you know your Cooper stats!
+
+A) 12
+B) 4
+C) 0
+D) 8
+
+Answer: C
+
+Q13: David Hamilton was retired. How many outs has he made this season?
+A13: 30
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's see how well you know your Red Sox! We've got a trivia question for ya while we wait for this next pitch!
+
+A) 25
+B) 40
+C) 30
+D) 35
+
+Answer: C
+
+Q14: Ceddanne Rafaela was retired. How many outs has he made this season?
+A14: 78
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test those diamond brains with a little trivia! We just saw Rafaela make an out there…but how many outs has this speedster made this entire season? Is he out there making a dazzling play, or are we seeing a bit of a rough patch? Let's see if you can hit this one out of the park!
+
+A) 65
+B) 92
+C) 78
+D) 84
+
+Answer: C
+
+Q15: Carlos Santana was retired. How many outs has he made this season?
+A15: 82
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test those brains while we watch this nail-biter! Here's a little trivia for ya: Carlos Santana, a veteran if there ever was one, just got retired! But how many outs has he chalked up against him this season? Think you know? Let's find out!
+
+A) 75
+B) 91
+C) 82
+D) 68
+
+Answer: C
+
+Q16: Christian Vázquez was retired. How many outs has he made this season?
+A16: 33
+
+[Gemini Multiple Choice Question]
+Alright, buckle up, baseball fanatics! We're in the middle innings here, and the tension is thicker than a Mariano Rivera cutter! Let's see if you've been paying attention, because here comes a trivia question that could win you bragging rights at the water cooler tomorrow!
+
+Christian Vázquez just got retired, but how many outs has he *personally* contributed to this season? Is your baseball IQ sharp enough? Let's find out!
+
+A) 47
+B) 25
+C) 33
+D) 18
+
+Answer: C
+
+Q17: Austin Martin struck out. How many strikeouts does he have this season?
+A17: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test your knowledge of the game!
+
+A) 3 
+B) 1
+C) 0 
+D) 2
+
+Answer: C
+
+Q18: Jarren Duran drew a walk. How many walks has he drawn this season?
+A18: 10
+
+[Gemini Multiple Choice Question]
+Alright, let's see if you've been paying attention to the game, baseball fanatics! Jarren Duran just worked a walk, but how many times has he gotten on base that way this year? This is a tough one!
+
+A) 15
+B) 5
+C) 10
+D) 12
+
+Answer: C
+
+Q19: Rafael Devers grounded into a double play. How many double plays has he grounded into this season?
+A19: 2
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test your knowledge! The Red Sox are at the plate, and the third baseman, the pride of the Dominican Republic, Rafael Devers, just hit into a double play! This prompts a trivia question…
+
+A) 5
+B) 1
+C) 2
+D) 3
+
+Answer: C
+
+Q20: Tyler O'Neill struck out. How many strikeouts does he have this season?
+A20: 23
+
+[Gemini Multiple Choice Question]
+Alright, batter up, trivia time! Let's see if you've been paying attention to the Cardinals' slugger, Tyler O'Neill, as he heads back to the dugout after a missed opportunity!
+
+A) 19
+B) 27
+C) 23
+D) 15
+
+Answer: C
+
+Q21: Edouard Julien was retired. How many outs has he made this season?
+A21: 45
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test those brains during this nail-biting game! Here's a head-scratcher for ya: Edouard Julien was retired just now... but how many outs has the young fella notched this season? Let's see if you can keep up with the pace of the game, here!
+
+A) 67
+B) 38
+C) 45
+D) 51
+
+Answer: C
+
+Q22: Ryan Jeffers struck out. How many strikeouts does he have this season?
+A22: 22
+
+[Gemini Multiple Choice Question]
+Alright, here we go, baseball fanatics! After that nasty curveball, the catcher, Ryan Jeffers, has been rung up! Let's test your baseball acumen with a trivia question!
+
+A) 18
+B) 25
+C) 22
+D) 15
+
+Answer: C
+
+Q23: Jose Miranda hit a single. How many singles has he hit this season?
+A23: 5
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test that diamond knowledge with a trivia question!
+
+Jose Miranda just singled! But how many times this year has our man Miranda singled? Hmm, let's see if you can get this one right…
+
+A) 8
+B) 3
+C) 5
+D) 7
+
+Answer: C
+
+Q24: Willi Castro struck out. How many strikeouts does he have this season?
+A24: 22
+
+[Gemini Multiple Choice Question]
+Alright, let's get this crowd involved! Here's a bit of trivia that's got everyone on the edge of their seats...
+
+A) 18
+B) 25
+C) 22
+D) 15
+
+Answer: C
+
+Q25: Wilyer Abreu struck out. How many strikeouts does he have this season?
+A25: 33
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test those baseball brains! Here's a trivia question to keep you on your toes.
+
+A) 28
+B) 41
+C) 33
+D) 22
+
+Answer: C
+
+Q26: Connor Wong struck out. How many strikeouts does he have this season?
+A26: 13
+
+[Gemini Multiple Choice Question]
+Alright, let's test your baseball acumen, fans! Connor Wong just whiffed, bringing that bat back with authority! But how many times has he seen the K this season? Think you know? Let's see if you can hit this one out of the park!
+
+A) 17
+B) 9
+C) 13
+D) 10
+
+Answer: C
+
+Q27: Dominic Smith hit a single. How many singles has he hit this season?
+A27: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test those brains! This is a tricky one, straight from the heart of the action: Dominic Smith just slapped a single, but how many singles does the big fella actually have this season? Put on your thinking caps, because it's time to play, "Name That Single!"
+
+A) 2
+B) 1
+C) 0
+D) 3
+
+Answer: C
+
+Q28: Garrett Cooper was retired. How many outs has he made this season?
+A28: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+Alright, baseball fanatics, let's test your knowledge of the game! We've got a trivia question hotter than a line drive off the bat of Judge himself!
+
+Here's the question: Garrett Cooper was retired. How many outs has he made this season? Think you know the answer? Let's see if you can pick the right one!
+
+A) 15
+B) 3
+C) 0
+D) 9
+
+Answer: C
+
+Q29: Carlos Correa struck out. How many strikeouts does he have this season?
+A29: 28
+
+[Gemini Multiple Choice Question]
+Alright, buckle up, baseball fanatics, because we've got a scorcher of a trivia question coming your way! The Minnesota Twins' shortstop, Carlos Correa, just whiffed on a nasty slider! So, the question becomes… how many times has the bat been on his shoulder this season in the strikeout department? Let's see if you've been paying attention!
+
+A) 25
+B) 32
+C) 28
+D) 22
+
+Answer: C
+
+Q30: Max Kepler hit a home run. How many home runs does he have this season?
+A30: 5
+
+[Gemini Multiple Choice Question]
+Alright, buckle up, baseball fanatics, because we've got a trivia question for you! Our very own Max Kepler just sent the ball over the fence! The crowd's going wild! Now, the question is... how many dingers has this man of power knocked out of the park this season? Let's see if you know your Kepler stats!
+
+A) 7
+B) 3
+C) 5
+D) 6
+
+Answer: C
+
+Q31: Carlos Santana was retired. How many outs has he made this season?
+A31: 82
+
+[Gemini Multiple Choice Question]
+Alright, batter up for some mid-inning trivia, baseball aficionados! Let's see if you've been paying attention to the Tribe this year...
+
+A) 67
+B) 95
+C) 82
+D) 71
+
+Answer: C
+
+Q32: Christian Vázquez was retired. How many outs has he made this season?
+A32: 33
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+
+Q33: David Hamilton hit a single. How many singles has he hit this season?
+A33: 8
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+
+Q34: Ceddanne Rafaela struck out. How many strikeouts does he have this season?
+A34: 25
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+
+Q35: Jarren Duran was retired. How many outs has he made this season?
+A35: 98
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+
+Q36: Rafael Devers struck out. How many strikeouts does he have this season?
+A36: 50
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+
+Q37: Austin Martin hit a single. How many singles has he hit this season?
+A37: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+
+Q38: Edouard Julien struck out. How many strikeouts does he have this season?
+A38: 29
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+
+Q39: Ryan Jeffers was retired. How many outs has he made this season?
+A39: 57
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 9
+}
+]
+
+Q40: Jose Miranda was retired. How many outs has he made this season?
+A40: 17
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q41: Tyler O'Neill struck out. How many strikeouts does he have this season?
+A41: 23
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q42: Wilyer Abreu struck out. How many strikeouts does he have this season?
+A42: 33
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q43: Connor Wong was retired. How many outs has he made this season?
+A43: 22
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q44: Willi Castro hit a single. How many singles has he hit this season?
+A44: 12
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q45: Carlos Correa hit a sacrifice fly. How many sac flies has he hit this season?
+A45: 1
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q46: Max Kepler hit a single. How many singles has he hit this season?
+A46: 17
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q47: Carlos Santana struck out. How many strikeouts does he have this season?
+A47: 31
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q48: Christian Vázquez hit a single. How many singles has he hit this season?
+A48: 6
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q49: Alex Kirilloff was retired. How many outs has he made this season?
+A49: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q50: Dominic Smith hit a single. How many singles has he hit this season?
+A50: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q51: Garrett Cooper drew a walk. How many walks has he drawn this season?
+A51: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q52: David Hamilton was retired. How many outs has he made this season?
+A52: 30
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q53: Ceddanne Rafaela hit a single. How many singles has he hit this season?
+A53: 21
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q54: Rob Refsnyder drew a walk. How many walks has he drawn this season?
+A54: 2
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q55: Rafael Devers struck out. How many strikeouts does he have this season?
+A55: 50
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q56: Edouard Julien drew a walk. How many walks has he drawn this season?
+A56: 11
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q57: Ryan Jeffers hit a double. How many doubles has he hit this season?
+A57: 8
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q58: Jose Miranda was retired. How many outs has he made this season?
+A58: 17
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q59: Carlos Correa was retired. How many outs has he made this season?
+A59: 84
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q60: Tyler O'Neill struck out. How many strikeouts does he have this season?
+A60: 23
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q61: Wilyer Abreu hit a single. How many singles has he hit this season?
+A61: 23
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q62: Connor Wong struck out. How many strikeouts does he have this season?
+A62: 13
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+
+Q63: Dominic Smith was retired. How many outs has he made this season?
+A63: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+
+Q64: Max Kepler was retired. How many outs has he made this season?
+A64: 74
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+
+Q65: Carlos Santana was retired. How many outs has he made this season?
+A65: 82
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+
+Q66: Christian Vázquez struck out. How many strikeouts does he have this season?
+A66: 12
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+
+Q67: Garrett Cooper was retired. How many outs has he made this season?
+A67: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+
+Q68: David Hamilton struck out. How many strikeouts does he have this season?
+A68: 14
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+
+Q69: Reese McGuire was retired. How many outs has he made this season?
+A69: 0 ⚠️ (may not be updated)
+
+[Gemini Multiple Choice Question]
+[ERROR] Gemini API failed: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerMinutePerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.0-flash-lite"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 30
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]

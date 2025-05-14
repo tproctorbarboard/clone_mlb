@@ -1,0 +1,374 @@
+[DEBUG] Number of plays in game: 72
+
+[DEBUG] Generating trivia for: Garrett Hampson (ID: 641658), Event: field_out
+[DEBUG] Stats for Garrett Hampson (ID: 641658): {'gamesPlayed': 18, 'groundOuts': 7, 'airOuts': 10, 'runs': 10, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 10, 'baseOnBalls': 9, 'intentionalWalks': 0, 'hits': 5, 'hitByPitch': 0, 'avg': '.167', 'atBats': 30, 'obp': '.359', 'slg': '.167', 'ops': '.526', 'caughtStealing': 1, 'stolenBases': 2, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 0, 'numberOfPitches': 180, 'plateAppearances': 41, 'totalBases': 5, 'rbi': 0, 'leftOnBase': 12, 'sacBunts': 2, 'sacFlies': 0, 'babip': '.250', 'groundOutsToAirouts': '0.70', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Vinnie Pasquantino (ID: 686469), Event: field_out
+[DEBUG] Stats for Vinnie Pasquantino (ID: 686469): {'gamesPlayed': 43, 'groundOuts': 37, 'airOuts': 60, 'runs': 14, 'doubles': 5, 'triples': 1, 'homeRuns': 6, 'strikeOuts': 35, 'baseOnBalls': 10, 'intentionalWalks': 2, 'hits': 38, 'hitByPitch': 1, 'avg': '.225', 'atBats': 169, 'obp': '.271', 'slg': '.373', 'ops': '.644', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 660, 'plateAppearances': 181, 'totalBases': 63, 'rbi': 25, 'leftOnBase': 89, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.248', 'groundOutsToAirouts': '0.62', 'catchersInterference': 0, 'atBatsPerHomeRun': '28.17'}
+[DEBUG] Generating trivia for: Nelson Velázquez (ID: 676369), Event: field_out
+[DEBUG] Stats for Nelson Velázquez (ID: 676369): {}
+[DEBUG] Generating trivia for: Marcus Semien (ID: 543760), Event: walk
+[DEBUG] Stats for Marcus Semien (ID: 543760): {'gamesPlayed': 42, 'groundOuts': 36, 'airOuts': 54, 'runs': 12, 'doubles': 1, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 36, 'baseOnBalls': 18, 'intentionalWalks': 0, 'hits': 27, 'hitByPitch': 0, 'avg': '.179', 'atBats': 151, 'obp': '.263', 'slg': '.245', 'ops': '.508', 'caughtStealing': 1, 'stolenBases': 1, 'stolenBasePercentage': '.500', 'groundIntoDoublePlay': 3, 'numberOfPitches': 689, 'plateAppearances': 171, 'totalBases': 37, 'rbi': 17, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.211', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '50.33'}
+[DEBUG] Generating trivia for: Evan Carter (ID: 694497), Event: force_out
+[DEBUG] Stats for Evan Carter (ID: 694497): {'gamesPlayed': 8, 'groundOuts': 7, 'airOuts': 8, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 4, 'baseOnBalls': 1, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.240', 'atBats': 25, 'obp': '.296', 'slg': '.360', 'ops': '.656', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 104, 'plateAppearances': 27, 'totalBases': 9, 'rbi': 2, 'leftOnBase': 9, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.250', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '25.00'}
+[DEBUG] Generating trivia for: Wyatt Langford (ID: 694671), Event: field_out
+[DEBUG] Stats for Wyatt Langford (ID: 694671): {'gamesPlayed': 33, 'groundOuts': 24, 'airOuts': 37, 'runs': 17, 'doubles': 6, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 31, 'baseOnBalls': 16, 'intentionalWalks': 0, 'hits': 32, 'hitByPitch': 1, 'avg': '.262', 'atBats': 122, 'obp': '.348', 'slg': '.484', 'ops': '.832', 'caughtStealing': 2, 'stolenBases': 7, 'stolenBasePercentage': '.778', 'groundIntoDoublePlay': 5, 'numberOfPitches': 530, 'plateAppearances': 141, 'totalBases': 59, 'rbi': 16, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.291', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '17.43'}
+[DEBUG] Generating trivia for: Nathaniel Lowe (ID: 663993), Event: force_out
+[DEBUG] Stats for Nathaniel Lowe (ID: 663993): {'gamesPlayed': 43, 'groundOuts': 39, 'airOuts': 35, 'runs': 15, 'doubles': 7, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 17, 'intentionalWalks': 0, 'hits': 37, 'hitByPitch': 1, 'avg': '.230', 'atBats': 161, 'obp': '.307', 'slg': '.404', 'ops': '.711', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 776, 'plateAppearances': 179, 'totalBases': 65, 'rbi': 29, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.288', 'groundOutsToAirouts': '1.11', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.00'}
+[DEBUG] Generating trivia for: Michael Massey (ID: 686681), Event: field_out
+[DEBUG] Stats for Michael Massey (ID: 686681): {'gamesPlayed': 39, 'groundOuts': 26, 'airOuts': 64, 'runs': 8, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 23, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 29, 'hitByPitch': 1, 'avg': '.212', 'atBats': 137, 'obp': '.233', 'slg': '.292', 'ops': '.525', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 544, 'plateAppearances': 147, 'totalBases': 40, 'rbi': 13, 'leftOnBase': 66, 'sacBunts': 1, 'sacFlies': 4, 'babip': '.233', 'groundOutsToAirouts': '0.41', 'catchersInterference': 0, 'atBatsPerHomeRun': '68.50'}
+[DEBUG] Generating trivia for: Nick Loftin (ID: 679845), Event: field_out
+[DEBUG] Stats for Nick Loftin (ID: 679845): {}
+[TRACE:HIT] Player: Drew Waters (ID: 671221)
+[TRACE:HIT] Event Type: home_run
+[TRACE:HIT] Description: Drew Waters homers (1) on a fly ball to left center field.
+
+[DEBUG] Generating trivia for: Drew Waters (ID: 671221), Event: home_run
+[DEBUG] Stats for Drew Waters (ID: 671221): {'gamesPlayed': 29, 'groundOuts': 28, 'airOuts': 18, 'runs': 13, 'doubles': 4, 'triples': 2, 'homeRuns': 1, 'strikeOuts': 24, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 1, 'avg': '.271', 'atBats': 96, 'obp': '.314', 'slg': '.385', 'ops': '.699', 'caughtStealing': 1, 'stolenBases': 3, 'stolenBasePercentage': '.750', 'groundIntoDoublePlay': 1, 'numberOfPitches': 355, 'plateAppearances': 102, 'totalBases': 37, 'rbi': 9, 'leftOnBase': 49, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.352', 'groundOutsToAirouts': '1.56', 'catchersInterference': 0, 'atBatsPerHomeRun': '96.00'}
+[TRACE:HIT] Player: Mike Brosseau (ID: 670712)
+[TRACE:HIT] Event Type: single
+[TRACE:HIT] Description: Mike Brosseau singles on a line drive to right fielder Evan Carter.
+
+[DEBUG] Generating trivia for: Mike Brosseau (ID: 670712), Event: single
+[DEBUG] Stats for Mike Brosseau (ID: 670712): {}
+[DEBUG] Generating trivia for: Tyler Gentry (ID: 694355), Event: field_out
+[DEBUG] Stats for Tyler Gentry (ID: 694355): {}
+[DEBUG] Generating trivia for: Leody Taveras (ID: 665750), Event: walk
+[DEBUG] Stats for Leody Taveras (ID: 665750): {'gamesPlayed': 36, 'groundOuts': 15, 'airOuts': 33, 'runs': 9, 'doubles': 4, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 32, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 22, 'hitByPitch': 0, 'avg': '.222', 'atBats': 99, 'obp': '.243', 'slg': '.313', 'ops': '.556', 'caughtStealing': 1, 'stolenBases': 7, 'stolenBasePercentage': '.875', 'groundIntoDoublePlay': 0, 'numberOfPitches': 408, 'plateAppearances': 105, 'totalBases': 31, 'rbi': 11, 'leftOnBase': 35, 'sacBunts': 2, 'sacFlies': 1, 'babip': '.313', 'groundOutsToAirouts': '0.45', 'catchersInterference': 0, 'atBatsPerHomeRun': '99.00'}
+[DEBUG] Generating trivia for: Sam Huff (ID: 669087), Event: walk
+[DEBUG] Stats for Sam Huff (ID: 669087): {'gamesPlayed': 14, 'groundOuts': 10, 'airOuts': 4, 'runs': 2, 'doubles': 1, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 17, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 7, 'hitByPitch': 0, 'avg': '.189', 'atBats': 37, 'obp': '.244', 'slg': '.297', 'ops': '.541', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 165, 'plateAppearances': 41, 'totalBases': 11, 'rbi': 3, 'leftOnBase': 21, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.300', 'groundOutsToAirouts': '2.50', 'catchersInterference': 0, 'atBatsPerHomeRun': '37.00'}
+[TRACE:HIT] Player: Matt Duffy (ID: 622110)
+[TRACE:HIT] Event Type: single
+[TRACE:HIT] Description: Matt Duffy singles on a line drive to center fielder Drew Waters. Leody Taveras scores. Sam Huff to 2nd.
+
+[DEBUG] Generating trivia for: Matt Duffy (ID: 622110), Event: single
+[DEBUG] Stats for Matt Duffy (ID: 622110): {}
+[DEBUG] Generating trivia for: Ezequiel Duran (ID: 677649), Event: walk
+[DEBUG] Stats for Ezequiel Duran (ID: 677649): {'gamesPlayed': 12, 'groundOuts': 7, 'airOuts': 8, 'runs': 2, 'doubles': 1, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 8, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 3, 'hitByPitch': 1, 'avg': '.120', 'atBats': 25, 'obp': '.148', 'slg': '.160', 'ops': '.308', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 99, 'plateAppearances': 27, 'totalBases': 4, 'rbi': 1, 'leftOnBase': 9, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.167', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Josh Smith (ID: 669701), Event: walk
+[DEBUG] Stats for Josh Smith (ID: 669701): {'gamesPlayed': 36, 'groundOuts': 32, 'airOuts': 26, 'runs': 18, 'doubles': 4, 'triples': 1, 'homeRuns': 4, 'strikeOuts': 23, 'baseOnBalls': 14, 'intentionalWalks': 1, 'hits': 36, 'hitByPitch': 1, 'avg': '.310', 'atBats': 116, 'obp': '.389', 'slg': '.466', 'ops': '.855', 'caughtStealing': 1, 'stolenBases': 4, 'stolenBasePercentage': '.800', 'groundIntoDoublePlay': 0, 'numberOfPitches': 510, 'plateAppearances': 132, 'totalBases': 54, 'rbi': 10, 'leftOnBase': 36, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.360', 'groundOutsToAirouts': '1.23', 'catchersInterference': 0, 'atBatsPerHomeRun': '29.00'}
+[DEBUG] Generating trivia for: Marcus Semien (ID: 543760), Event: strikeout
+[DEBUG] Stats for Marcus Semien (ID: 543760): {'gamesPlayed': 42, 'groundOuts': 36, 'airOuts': 54, 'runs': 12, 'doubles': 1, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 36, 'baseOnBalls': 18, 'intentionalWalks': 0, 'hits': 27, 'hitByPitch': 0, 'avg': '.179', 'atBats': 151, 'obp': '.263', 'slg': '.245', 'ops': '.508', 'caughtStealing': 1, 'stolenBases': 1, 'stolenBasePercentage': '.500', 'groundIntoDoublePlay': 3, 'numberOfPitches': 689, 'plateAppearances': 171, 'totalBases': 37, 'rbi': 17, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.211', 'groundOutsToAirouts': '0.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '50.33'}
+[DEBUG] Generating trivia for: Evan Carter (ID: 694497), Event: sac_fly
+[DEBUG] Stats for Evan Carter (ID: 694497): {'gamesPlayed': 8, 'groundOuts': 7, 'airOuts': 8, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 4, 'baseOnBalls': 1, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.240', 'atBats': 25, 'obp': '.296', 'slg': '.360', 'ops': '.656', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 104, 'plateAppearances': 27, 'totalBases': 9, 'rbi': 2, 'leftOnBase': 9, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.250', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '25.00'}
+[DEBUG] Generating trivia for: Wyatt Langford (ID: 694671), Event: field_out
+[DEBUG] Stats for Wyatt Langford (ID: 694671): {'gamesPlayed': 33, 'groundOuts': 24, 'airOuts': 37, 'runs': 17, 'doubles': 6, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 31, 'baseOnBalls': 16, 'intentionalWalks': 0, 'hits': 32, 'hitByPitch': 1, 'avg': '.262', 'atBats': 122, 'obp': '.348', 'slg': '.484', 'ops': '.832', 'caughtStealing': 2, 'stolenBases': 7, 'stolenBasePercentage': '.778', 'groundIntoDoublePlay': 5, 'numberOfPitches': 530, 'plateAppearances': 141, 'totalBases': 59, 'rbi': 16, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.291', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '17.43'}
+[DEBUG] Generating trivia for: Sandy León (ID: 506702), Event: field_out
+[DEBUG] Stats for Sandy León (ID: 506702): {}
+[DEBUG] Generating trivia for: Garrett Hampson (ID: 641658), Event: strikeout
+[DEBUG] Stats for Garrett Hampson (ID: 641658): {'gamesPlayed': 18, 'groundOuts': 7, 'airOuts': 10, 'runs': 10, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 10, 'baseOnBalls': 9, 'intentionalWalks': 0, 'hits': 5, 'hitByPitch': 0, 'avg': '.167', 'atBats': 30, 'obp': '.359', 'slg': '.167', 'ops': '.526', 'caughtStealing': 1, 'stolenBases': 2, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 0, 'numberOfPitches': 180, 'plateAppearances': 41, 'totalBases': 5, 'rbi': 0, 'leftOnBase': 12, 'sacBunts': 2, 'sacFlies': 0, 'babip': '.250', 'groundOutsToAirouts': '0.70', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Vinnie Pasquantino (ID: 686469), Event: field_out
+[DEBUG] Stats for Vinnie Pasquantino (ID: 686469): {'gamesPlayed': 43, 'groundOuts': 37, 'airOuts': 60, 'runs': 14, 'doubles': 5, 'triples': 1, 'homeRuns': 6, 'strikeOuts': 35, 'baseOnBalls': 10, 'intentionalWalks': 2, 'hits': 38, 'hitByPitch': 1, 'avg': '.225', 'atBats': 169, 'obp': '.271', 'slg': '.373', 'ops': '.644', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 660, 'plateAppearances': 181, 'totalBases': 63, 'rbi': 25, 'leftOnBase': 89, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.248', 'groundOutsToAirouts': '0.62', 'catchersInterference': 0, 'atBatsPerHomeRun': '28.17'}
+[DEBUG] Generating trivia for: Nathaniel Lowe (ID: 663993), Event: strikeout
+[DEBUG] Stats for Nathaniel Lowe (ID: 663993): {'gamesPlayed': 43, 'groundOuts': 39, 'airOuts': 35, 'runs': 15, 'doubles': 7, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 50, 'baseOnBalls': 17, 'intentionalWalks': 0, 'hits': 37, 'hitByPitch': 1, 'avg': '.230', 'atBats': 161, 'obp': '.307', 'slg': '.404', 'ops': '.711', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 776, 'plateAppearances': 179, 'totalBases': 65, 'rbi': 29, 'leftOnBase': 71, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.288', 'groundOutsToAirouts': '1.11', 'catchersInterference': 0, 'atBatsPerHomeRun': '23.00'}
+[DEBUG] Generating trivia for: Leody Taveras (ID: 665750), Event: field_out
+[DEBUG] Stats for Leody Taveras (ID: 665750): {'gamesPlayed': 36, 'groundOuts': 15, 'airOuts': 33, 'runs': 9, 'doubles': 4, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 32, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 22, 'hitByPitch': 0, 'avg': '.222', 'atBats': 99, 'obp': '.243', 'slg': '.313', 'ops': '.556', 'caughtStealing': 1, 'stolenBases': 7, 'stolenBasePercentage': '.875', 'groundIntoDoublePlay': 0, 'numberOfPitches': 408, 'plateAppearances': 105, 'totalBases': 31, 'rbi': 11, 'leftOnBase': 35, 'sacBunts': 2, 'sacFlies': 1, 'babip': '.313', 'groundOutsToAirouts': '0.45', 'catchersInterference': 0, 'atBatsPerHomeRun': '99.00'}
+[DEBUG] Generating trivia for: Sam Huff (ID: 669087), Event: field_out
+[DEBUG] Stats for Sam Huff (ID: 669087): {'gamesPlayed': 14, 'groundOuts': 10, 'airOuts': 4, 'runs': 2, 'doubles': 1, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 17, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 7, 'hitByPitch': 0, 'avg': '.189', 'atBats': 37, 'obp': '.244', 'slg': '.297', 'ops': '.541', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 2, 'numberOfPitches': 165, 'plateAppearances': 41, 'totalBases': 11, 'rbi': 3, 'leftOnBase': 21, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.300', 'groundOutsToAirouts': '2.50', 'catchersInterference': 0, 'atBatsPerHomeRun': '37.00'}
+[DEBUG] Generating trivia for: Nelson Velázquez (ID: 676369), Event: field_out
+[DEBUG] Stats for Nelson Velázquez (ID: 676369): {}
+[DEBUG] Generating trivia for: Michael Massey (ID: 686681), Event: triple
+[DEBUG] Stats for Michael Massey (ID: 686681): {'gamesPlayed': 39, 'groundOuts': 26, 'airOuts': 64, 'runs': 8, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 23, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 29, 'hitByPitch': 1, 'avg': '.212', 'atBats': 137, 'obp': '.233', 'slg': '.292', 'ops': '.525', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 3, 'numberOfPitches': 544, 'plateAppearances': 147, 'totalBases': 40, 'rbi': 13, 'leftOnBase': 66, 'sacBunts': 1, 'sacFlies': 4, 'babip': '.233', 'groundOutsToAirouts': '0.41', 'catchersInterference': 0, 'atBatsPerHomeRun': '68.50'}
+[DEBUG] Generating trivia for: Nick Loftin (ID: 679845), Event: double
+[DEBUG] Stats for Nick Loftin (ID: 679845): {}
+[DEBUG] Generating trivia for: Drew Waters (ID: 671221), Event: strikeout
+[DEBUG] Stats for Drew Waters (ID: 671221): {'gamesPlayed': 29, 'groundOuts': 28, 'airOuts': 18, 'runs': 13, 'doubles': 4, 'triples': 2, 'homeRuns': 1, 'strikeOuts': 24, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 26, 'hitByPitch': 1, 'avg': '.271', 'atBats': 96, 'obp': '.314', 'slg': '.385', 'ops': '.699', 'caughtStealing': 1, 'stolenBases': 3, 'stolenBasePercentage': '.750', 'groundIntoDoublePlay': 1, 'numberOfPitches': 355, 'plateAppearances': 102, 'totalBases': 37, 'rbi': 9, 'leftOnBase': 49, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.352', 'groundOutsToAirouts': '1.56', 'catchersInterference': 0, 'atBatsPerHomeRun': '96.00'}
+[DEBUG] Generating trivia for: Mike Brosseau (ID: 670712), Event: field_out
+[DEBUG] Stats for Mike Brosseau (ID: 670712): {}
+[DEBUG] Generating trivia for: Matt Duffy (ID: 622110), Event: field_out
+[DEBUG] Stats for Matt Duffy (ID: 622110): {}
+[DEBUG] Generating trivia for: Ezequiel Duran (ID: 677649), Event: strikeout
+[DEBUG] Stats for Ezequiel Duran (ID: 677649): {'gamesPlayed': 12, 'groundOuts': 7, 'airOuts': 8, 'runs': 2, 'doubles': 1, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 8, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 3, 'hitByPitch': 1, 'avg': '.120', 'atBats': 25, 'obp': '.148', 'slg': '.160', 'ops': '.308', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 99, 'plateAppearances': 27, 'totalBases': 4, 'rbi': 1, 'leftOnBase': 9, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.167', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Josh Smith (ID: 669701), Event: walk
+[DEBUG] Stats for Josh Smith (ID: 669701): {'gamesPlayed': 36, 'groundOuts': 32, 'airOuts': 26, 'runs': 18, 'doubles': 4, 'triples': 1, 'homeRuns': 4, 'strikeOuts': 23, 'baseOnBalls': 14, 'intentionalWalks': 1, 'hits': 36, 'hitByPitch': 1, 'avg': '.310', 'atBats': 116, 'obp': '.389', 'slg': '.466', 'ops': '.855', 'caughtStealing': 1, 'stolenBases': 4, 'stolenBasePercentage': '.800', 'groundIntoDoublePlay': 0, 'numberOfPitches': 510, 'plateAppearances': 132, 'totalBases': 54, 'rbi': 10, 'leftOnBase': 36, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.360', 'groundOutsToAirouts': '1.23', 'catchersInterference': 0, 'atBatsPerHomeRun': '29.00'}
+[DEBUG] Generating trivia for: Justin Foscue (ID: 679822), Event: strikeout
+[DEBUG] Stats for Justin Foscue (ID: 679822): {}
+[DEBUG] Generating trivia for: Tyler Gentry (ID: 694355), Event: strikeout
+[DEBUG] Stats for Tyler Gentry (ID: 694355): {}
+[DEBUG] Generating trivia for: Sandy León (ID: 506702), Event: strikeout
+[DEBUG] Stats for Sandy León (ID: 506702): {}
+[DEBUG] Generating trivia for: Garrett Hampson (ID: 641658), Event: strikeout
+[DEBUG] Stats for Garrett Hampson (ID: 641658): {'gamesPlayed': 18, 'groundOuts': 7, 'airOuts': 10, 'runs': 10, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 10, 'baseOnBalls': 9, 'intentionalWalks': 0, 'hits': 5, 'hitByPitch': 0, 'avg': '.167', 'atBats': 30, 'obp': '.359', 'slg': '.167', 'ops': '.526', 'caughtStealing': 1, 'stolenBases': 2, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 0, 'numberOfPitches': 180, 'plateAppearances': 41, 'totalBases': 5, 'rbi': 0, 'leftOnBase': 12, 'sacBunts': 2, 'sacFlies': 0, 'babip': '.250', 'groundOutsToAirouts': '0.70', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Evan Carter (ID: 694497), Event: field_error
+[DEBUG] Stats for Evan Carter (ID: 694497): {'gamesPlayed': 8, 'groundOuts': 7, 'airOuts': 8, 'runs': 3, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 4, 'baseOnBalls': 1, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 1, 'avg': '.240', 'atBats': 25, 'obp': '.296', 'slg': '.360', 'ops': '.656', 'caughtStealing': 0, 'stolenBases': 2, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 104, 'plateAppearances': 27, 'totalBases': 9, 'rbi': 2, 'leftOnBase': 9, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.250', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '25.00'}
+[DEBUG] Generating trivia for: Wyatt Langford (ID: 694671), Event: walk
+[DEBUG] Stats for Wyatt Langford (ID: 694671): {'gamesPlayed': 33, 'groundOuts': 24, 'airOuts': 37, 'runs': 17, 'doubles': 6, 'triples': 0, 'homeRuns': 7, 'strikeOuts': 31, 'baseOnBalls': 16, 'intentionalWalks': 0, 'hits': 32, 'hitByPitch': 1, 'avg': '.262', 'atBats': 122, 'obp': '.348', 'slg': '.484', 'ops': '.832', 'caughtStealing': 2, 'stolenBases': 7, 'stolenBasePercentage': '.778', 'groundIntoDoublePlay': 5, 'numberOfPitches': 530, 'plateAppearances': 141, 'totalBases': 59, 'rbi': 16, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.291', 'groundOutsToAirouts': '0.65', 'catchersInterference': 0, 'atBatsPerHomeRun': '17.43'}
+[DEBUG] Generating trivia for: Blaine Crim (ID: 688760), Event: strikeout
+[DEBUG] Stats for Blaine Crim (ID: 688760): {'gamesPlayed': 5, 'groundOuts': 3, 'airOuts': 2, 'runs': 1, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 6, 'baseOnBalls': 1, 'intentionalWalks': 0, 'hits': 0, 'hitByPitch': 1, 'avg': '.000', 'atBats': 11, 'obp': '.154', 'slg': '.000', 'ops': '.154', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 50, 'plateAppearances': 13, 'totalBases': 0, 'rbi': 0, 'leftOnBase': 6, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.000', 'groundOutsToAirouts': '1.50', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Derek Hill (ID: 656537), Event: double
+[DEBUG] Stats for Derek Hill (ID: 656537): {'gamesPlayed': 13, 'groundOuts': 16, 'airOuts': 6, 'runs': 9, 'doubles': 2, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 21, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 9, 'hitByPitch': 1, 'avg': '.180', 'atBats': 50, 'obp': '.241', 'slg': '.340', 'ops': '.581', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 229, 'plateAppearances': 56, 'totalBases': 17, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 2, 'sacFlies': 0, 'babip': '.259', 'groundOutsToAirouts': '2.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '25.00'}
+[DEBUG] Generating trivia for: Andrew Knapp (ID: 595284), Event: strikeout
+[DEBUG] Stats for Andrew Knapp (ID: 595284): {}
+[DEBUG] Generating trivia for: Davis Wendzel (ID: 673995), Event: strikeout
+[DEBUG] Stats for Davis Wendzel (ID: 673995): {}
+[DEBUG] Generating trivia for: Vinnie Pasquantino (ID: 686469), Event: field_out
+[DEBUG] Stats for Vinnie Pasquantino (ID: 686469): {'gamesPlayed': 43, 'groundOuts': 37, 'airOuts': 60, 'runs': 14, 'doubles': 5, 'triples': 1, 'homeRuns': 6, 'strikeOuts': 35, 'baseOnBalls': 10, 'intentionalWalks': 2, 'hits': 38, 'hitByPitch': 1, 'avg': '.225', 'atBats': 169, 'obp': '.271', 'slg': '.373', 'ops': '.644', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 1, 'numberOfPitches': 660, 'plateAppearances': 181, 'totalBases': 63, 'rbi': 25, 'leftOnBase': 89, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.248', 'groundOutsToAirouts': '0.62', 'catchersInterference': 0, 'atBatsPerHomeRun': '28.17'}
+[DEBUG] Generating trivia for: Nelson Velázquez (ID: 676369), Event: field_out
+[DEBUG] Stats for Nelson Velázquez (ID: 676369): {}
+[DEBUG] Generating trivia for: Devin Mann (ID: 669471), Event: field_out
+[DEBUG] Stats for Devin Mann (ID: 669471): {}
+[DEBUG] Generating trivia for: Ezequiel Duran (ID: 677649), Event: strikeout
+[DEBUG] Stats for Ezequiel Duran (ID: 677649): {'gamesPlayed': 12, 'groundOuts': 7, 'airOuts': 8, 'runs': 2, 'doubles': 1, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 8, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 3, 'hitByPitch': 1, 'avg': '.120', 'atBats': 25, 'obp': '.148', 'slg': '.160', 'ops': '.308', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 99, 'plateAppearances': 27, 'totalBases': 4, 'rbi': 1, 'leftOnBase': 9, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.167', 'groundOutsToAirouts': '0.88', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Jonathan Ornelas (ID: 680716), Event: strikeout
+[DEBUG] Stats for Jonathan Ornelas (ID: 680716): {'gamesPlayed': 4, 'groundOuts': 2, 'airOuts': 0, 'runs': 0, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 3, 'baseOnBalls': 1, 'intentionalWalks': 0, 'hits': 0, 'hitByPitch': 0, 'avg': '.000', 'atBats': 5, 'obp': '.167', 'slg': '.000', 'ops': '.167', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 21, 'plateAppearances': 6, 'totalBases': 0, 'rbi': 0, 'leftOnBase': 3, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.000', 'groundOutsToAirouts': '2.00', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Justin Foscue (ID: 679822), Event: strikeout
+[DEBUG] Stats for Justin Foscue (ID: 679822): {}
+[DEBUG] Generating trivia for: Carter Jensen (ID: 695600), Event: walk
+[DEBUG] Stats for Carter Jensen (ID: 695600): {}
+[DEBUG] Generating trivia for: Diego Hernandez (ID: 678746), Event: strikeout
+[DEBUG] Stats for Diego Hernandez (ID: 678746): {}
+[DEBUG] Generating trivia for: Ryan Fitzgerald (ID: 680837), Event: fielders_choice
+[DEBUG] Stats for Ryan Fitzgerald (ID: 680837): {}
+[TRACE:HIT] Player: Joe Gray Jr. (ID: 669336)
+[TRACE:HIT] Event Type: single
+[TRACE:HIT] Description: Joe Gray Jr. singles on a fly ball to left fielder Dustin Harris. Carter Jensen scores. Ryan Fitzgerald to 3rd. Joe Gray Jr. to 2nd. Fielding error by left fielder Dustin Harris.
+
+[DEBUG] Generating trivia for: Joe Gray Jr. (ID: 669336), Event: single
+[DEBUG] Stats for Joe Gray Jr. (ID: 669336): {}
+[DEBUG] Generating trivia for: Luca Tresh (ID: 681123), Event: sac_fly
+[DEBUG] Stats for Luca Tresh (ID: 681123): {}
+[DEBUG] Generating trivia for: Cam Devanney (ID: 687478), Event: field_out
+[DEBUG] Stats for Cam Devanney (ID: 687478): {}
+[DEBUG] Generating trivia for: Elier Hernandez (ID: 609274), Event: triple
+[DEBUG] Stats for Elier Hernandez (ID: 609274): {}
+[TRACE:HIT] Player: Dustin Harris (ID: 687957)
+[TRACE:HIT] Event Type: single
+[TRACE:HIT] Description: Dustin Harris singles on a line drive to right fielder Joe Gray Jr. Elier Hernandez scores.
+
+[DEBUG] Generating trivia for: Dustin Harris (ID: 687957), Event: single
+[DEBUG] Stats for Dustin Harris (ID: 687957): {'gamesPlayed': 16, 'groundOuts': 7, 'airOuts': 10, 'runs': 4, 'doubles': 2, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 11, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 7, 'hitByPitch': 0, 'avg': '.200', 'atBats': 35, 'obp': '.263', 'slg': '.343', 'ops': '.606', 'caughtStealing': 1, 'stolenBases': 1, 'stolenBasePercentage': '.500', 'groundIntoDoublePlay': 1, 'numberOfPitches': 158, 'plateAppearances': 38, 'totalBases': 12, 'rbi': 1, 'leftOnBase': 13, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.261', 'groundOutsToAirouts': '0.70', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.00'}
+[DEBUG] Generating trivia for: Blaine Crim (ID: 688760), Event: field_out
+[DEBUG] Stats for Blaine Crim (ID: 688760): {'gamesPlayed': 5, 'groundOuts': 3, 'airOuts': 2, 'runs': 1, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 6, 'baseOnBalls': 1, 'intentionalWalks': 0, 'hits': 0, 'hitByPitch': 1, 'avg': '.000', 'atBats': 11, 'obp': '.154', 'slg': '.000', 'ops': '.154', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 50, 'plateAppearances': 13, 'totalBases': 0, 'rbi': 0, 'leftOnBase': 6, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.000', 'groundOutsToAirouts': '1.50', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Derek Hill (ID: 656537), Event: grounded_into_double_play
+[DEBUG] Stats for Derek Hill (ID: 656537): {'gamesPlayed': 13, 'groundOuts': 16, 'airOuts': 6, 'runs': 9, 'doubles': 2, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 21, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 9, 'hitByPitch': 1, 'avg': '.180', 'atBats': 50, 'obp': '.241', 'slg': '.340', 'ops': '.581', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 229, 'plateAppearances': 56, 'totalBases': 17, 'rbi': 5, 'leftOnBase': 30, 'sacBunts': 2, 'sacFlies': 0, 'babip': '.259', 'groundOutsToAirouts': '2.67', 'catchersInterference': 0, 'atBatsPerHomeRun': '25.00'}
+[DEBUG] Generating trivia for: CJ Alexander (ID: 680769), Event: field_out
+[DEBUG] Stats for CJ Alexander (ID: 680769): {}
+[DEBUG] Generating trivia for: Tucker Bradley (ID: 674646), Event: field_out
+[DEBUG] Stats for Tucker Bradley (ID: 674646): {}
+[TRACE:HIT] Player: Devin Mann (ID: 669471)
+[TRACE:HIT] Event Type: single
+[TRACE:HIT] Description: Devin Mann singles on a fly ball to shortstop Jonathan Ornelas, deflected by center fielder Derek Hill.
+
+[DEBUG] Generating trivia for: Devin Mann (ID: 669471), Event: single
+[DEBUG] Stats for Devin Mann (ID: 669471): {}
+[DEBUG] Generating trivia for: Carter Jensen (ID: 695600), Event: strikeout
+[DEBUG] Stats for Carter Jensen (ID: 695600): {}
+[DEBUG] Generating trivia for: Andrew Knapp (ID: 595284), Event: field_out
+[DEBUG] Stats for Andrew Knapp (ID: 595284): {}
+[DEBUG] Generating trivia for: Davis Wendzel (ID: 673995), Event: strikeout
+[DEBUG] Stats for Davis Wendzel (ID: 673995): {}
+[DEBUG] Generating trivia for: Sandro Fabian (ID: 660758), Event: catcher_interf
+[DEBUG] Stats for Sandro Fabian (ID: 660758): {}
+[DEBUG] Generating trivia for: Jonathan Ornelas (ID: 680716), Event: strikeout
+[DEBUG] Stats for Jonathan Ornelas (ID: 680716): {'gamesPlayed': 4, 'groundOuts': 2, 'airOuts': 0, 'runs': 0, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 3, 'baseOnBalls': 1, 'intentionalWalks': 0, 'hits': 0, 'hitByPitch': 0, 'avg': '.000', 'atBats': 5, 'obp': '.167', 'slg': '.000', 'ops': '.167', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 21, 'plateAppearances': 6, 'totalBases': 0, 'rbi': 0, 'leftOnBase': 3, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.000', 'groundOutsToAirouts': '2.00', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Diego Hernandez (ID: 678746), Event: field_out
+[DEBUG] Stats for Diego Hernandez (ID: 678746): {}
+[DEBUG] Generating trivia for: Ryan Fitzgerald (ID: 680837), Event: strikeout
+[DEBUG] Stats for Ryan Fitzgerald (ID: 680837): {}
+[DEBUG] Generating trivia for: Joe Gray Jr. (ID: 669336), Event: walk
+[DEBUG] Stats for Joe Gray Jr. (ID: 669336): {}
+[DEBUG] Generating trivia for: Luca Tresh (ID: 681123), Event: field_out
+[DEBUG] Stats for Luca Tresh (ID: 681123): {}
+
+Q1: Garrett Hampson was retired. How many outs has he made this season?
+A1: 17
+
+Q2: Vinnie Pasquantino was retired. How many outs has he made this season?
+A2: 97
+
+Q3: Nelson Velázquez was retired. How many outs has he made this season?
+A3: 0 ⚠️ (may not be updated)
+
+Q4: Marcus Semien drew a walk. How many walks has he drawn this season?
+A4: 18
+
+Q5: Evan Carter was forced out. How many plate appearances does he have this season?
+A5: 27
+
+Q6: Wyatt Langford was retired. How many outs has he made this season?
+A6: 61
+
+Q7: Nathaniel Lowe was forced out. How many plate appearances does he have this season?
+A7: 179
+
+Q8: Michael Massey was retired. How many outs has he made this season?
+A8: 90
+
+Q9: Nick Loftin was retired. How many outs has he made this season?
+A9: 0 ⚠️ (may not be updated)
+
+Q10: Drew Waters hit a home run. How many home runs does he have this season?
+A10: 1
+
+Q11: Mike Brosseau hit a single. How many singles has he hit this season?
+A11: 0 ⚠️ (may not be updated)
+
+Q12: Tyler Gentry was retired. How many outs has he made this season?
+A12: 0 ⚠️ (may not be updated)
+
+Q13: Leody Taveras drew a walk. How many walks has he drawn this season?
+A13: 3
+
+Q14: Sam Huff drew a walk. How many walks has he drawn this season?
+A14: 3
+
+Q15: Matt Duffy hit a single. How many singles has he hit this season?
+A15: 0 ⚠️ (may not be updated)
+
+Q16: Ezequiel Duran drew a walk. How many walks has he drawn this season?
+A16: 0 ⚠️ (may not be updated)
+
+Q17: Josh Smith drew a walk. How many walks has he drawn this season?
+A17: 14
+
+Q18: Marcus Semien struck out. How many strikeouts does he have this season?
+A18: 36
+
+Q19: Evan Carter hit a sacrifice fly. How many sac flies has he hit this season?
+A19: 0 ⚠️ (may not be updated)
+
+Q20: Wyatt Langford was retired. How many outs has he made this season?
+A20: 61
+
+Q21: Sandy León was retired. How many outs has he made this season?
+A21: 0 ⚠️ (may not be updated)
+
+Q22: Garrett Hampson struck out. How many strikeouts does he have this season?
+A22: 10
+
+Q23: Vinnie Pasquantino was retired. How many outs has he made this season?
+A23: 97
+
+Q24: Nathaniel Lowe struck out. How many strikeouts does he have this season?
+A24: 50
+
+Q25: Leody Taveras was retired. How many outs has he made this season?
+A25: 48
+
+Q26: Sam Huff was retired. How many outs has he made this season?
+A26: 14
+
+Q27: Nelson Velázquez was retired. How many outs has he made this season?
+A27: 0 ⚠️ (may not be updated)
+
+Q28: Nick Loftin hit a double. How many doubles has he hit this season?
+A28: 0 ⚠️ (may not be updated)
+
+Q29: Drew Waters struck out. How many strikeouts does he have this season?
+A29: 24
+
+Q30: Mike Brosseau was retired. How many outs has he made this season?
+A30: 0 ⚠️ (may not be updated)
+
+Q31: Matt Duffy was retired. How many outs has he made this season?
+A31: 0 ⚠️ (may not be updated)
+
+Q32: Ezequiel Duran struck out. How many strikeouts does he have this season?
+A32: 8
+
+Q33: Josh Smith drew a walk. How many walks has he drawn this season?
+A33: 14
+
+Q34: Justin Foscue struck out. How many strikeouts does he have this season?
+A34: 0 ⚠️ (may not be updated)
+
+Q35: Tyler Gentry struck out. How many strikeouts does he have this season?
+A35: 0 ⚠️ (may not be updated)
+
+Q36: Sandy León struck out. How many strikeouts does he have this season?
+A36: 0 ⚠️ (may not be updated)
+
+Q37: Garrett Hampson struck out. How many strikeouts does he have this season?
+A37: 10
+
+Q38: Wyatt Langford drew a walk. How many walks has he drawn this season?
+A38: 16
+
+Q39: Blaine Crim struck out. How many strikeouts does he have this season?
+A39: 6
+
+Q40: Derek Hill hit a double. How many doubles has he hit this season?
+A40: 2
+
+Q41: Andrew Knapp struck out. How many strikeouts does he have this season?
+A41: 0 ⚠️ (may not be updated)
+
+Q42: Davis Wendzel struck out. How many strikeouts does he have this season?
+A42: 0 ⚠️ (may not be updated)
+
+Q43: Vinnie Pasquantino was retired. How many outs has he made this season?
+A43: 97
+
+Q44: Nelson Velázquez was retired. How many outs has he made this season?
+A44: 0 ⚠️ (may not be updated)
+
+Q45: Devin Mann was retired. How many outs has he made this season?
+A45: 0 ⚠️ (may not be updated)
+
+Q46: Ezequiel Duran struck out. How many strikeouts does he have this season?
+A46: 8
+
+Q47: Jonathan Ornelas struck out. How many strikeouts does he have this season?
+A47: 3
+
+Q48: Justin Foscue struck out. How many strikeouts does he have this season?
+A48: 0 ⚠️ (may not be updated)
+
+Q49: Carter Jensen drew a walk. How many walks has he drawn this season?
+A49: 0 ⚠️ (may not be updated)
+
+Q50: Diego Hernandez struck out. How many strikeouts does he have this season?
+A50: 0 ⚠️ (may not be updated)
+
+Q51: Ryan Fitzgerald reached on a fielder's choice. How many runs has he scored this season?
+A51: 0 ⚠️ (may not be updated)
+
+Q52: Joe Gray Jr. hit a single. How many singles has he hit this season?
+A52: 0 ⚠️ (may not be updated)
+
+Q53: Luca Tresh hit a sacrifice fly. How many sac flies has he hit this season?
+A53: 0 ⚠️ (may not be updated)
+
+Q54: Cam Devanney was retired. How many outs has he made this season?
+A54: 0 ⚠️ (may not be updated)
+
+Q55: Dustin Harris hit a single. How many singles has he hit this season?
+A55: 4
+
+Q56: Blaine Crim was retired. How many outs has he made this season?
+A56: 5
+
+Q57: Derek Hill grounded into a double play. How many double plays has he grounded into this season?
+A57: 0 ⚠️ (may not be updated)
+
+Q58: CJ Alexander was retired. How many outs has he made this season?
+A58: 0 ⚠️ (may not be updated)
+
+Q59: Tucker Bradley was retired. How many outs has he made this season?
+A59: 0 ⚠️ (may not be updated)
+
+Q60: Devin Mann hit a single. How many singles has he hit this season?
+A60: 0 ⚠️ (may not be updated)
+
+Q61: Carter Jensen struck out. How many strikeouts does he have this season?
+A61: 0 ⚠️ (may not be updated)
+
+Q62: Andrew Knapp was retired. How many outs has he made this season?
+A62: 0 ⚠️ (may not be updated)
+
+Q63: Davis Wendzel struck out. How many strikeouts does he have this season?
+A63: 0 ⚠️ (may not be updated)
+
+Q64: Jonathan Ornelas struck out. How many strikeouts does he have this season?
+A64: 3
+
+Q65: Diego Hernandez was retired. How many outs has he made this season?
+A65: 0 ⚠️ (may not be updated)
+
+Q66: Ryan Fitzgerald struck out. How many strikeouts does he have this season?
+A66: 0 ⚠️ (may not be updated)
+
+Q67: Joe Gray Jr. drew a walk. How many walks has he drawn this season?
+A67: 0 ⚠️ (may not be updated)
+
+Q68: Luca Tresh was retired. How many outs has he made this season?
+A68: 0 ⚠️ (may not be updated)

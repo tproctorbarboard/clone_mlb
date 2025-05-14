@@ -1,36 +1,56 @@
-import time
-from data_ingestion.significant_event_watcher import get_significant_events
+import statsapi
+from datetime import datetime, timedelta
+import requests
 from trivia_generation.generate_questions import generate_trivia_question
 
-def main(poll_interval=120):
+def main():
     print("MLB Trivia Generator started...")
-    seen_events = set()  # avoid repeating questions
+    print("Checking yesterday's games for highlights...\n")
 
-    while True:
+    # Get yesterday's date
+    yesterday = datetime.now() - timedelta(days=1)
+    date_str = yesterday.strftime("%m/%d/%Y")
+
+    # Get list of games
+    games = statsapi.schedule(start_date=date_str, end_date=date_str)
+    print(f"🔍 Found {len(games)} games on {date_str}\n")
+
+    if not games:
+        print("❌ No games found.")
+        return
+
+    for game in games:
+        game_id = game.get("game_id")
+        if not game_id:
+            continue
+
+        print(f"🔍 Processing game ID: {game_id}")
+        content_url = f"https://statsapi.mlb.com/api/v1/game/{game_id}/content"
+
         try:
-            print("Checking for new events...")
-            events = get_significant_events()
+            response = requests.get(content_url)
+            response.raise_for_status()
+            content = response.json()
 
-            for event in events:
-                event_id = event.get("id")  # must be unique (e.g. game_id + player_id + event_type)
-                if event_id not in seen_events:
-                    seen_events.add(event_id)
-                    description = event["description"]
-                    print("Detected: {description}")
+            highlights = content.get("highlights", {}).get("highlights", {}).get("items", [])
+            print(f"📹 Found {len(highlights)} highlight items for game {game_id}")
 
-                    question = generate_trivia_question(description)
-                    print("Trivia Question:")
-                    print(question)
-                    print("-" * 60)
+            for clip in highlights:
+                desc = clip.get("blurb", "")
+                if not desc or "home run" not in desc.lower():
+                    continue
 
-                    # Optional: save to database here
-                    # db.save_question(event_id, question)
+                media_url = clip.get("playbacks", [{}])[-1].get("url", "")
+                print(f"⚾ {desc}\n🎥 {media_url}")
+
+                # Generate trivia
+                question = generate_trivia_question(desc)
+                print("🧠 Trivia Question:")
+                print(question)
+                print("-" * 60 + "\n")
 
         except Exception as e:
-            print(f"Error: {e}")
-
-        print(f"Waiting {poll_interval} seconds...\n")
-        time.sleep(poll_interval)
+            print(f"⚠️ Could not fetch content for game {game_id}: {e}")
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,385 @@
+[DEBUG] Generating trivia for: Javier Sanoja (ID: 691594), Event: field_out
+[DEBUG] Stats for Javier Sanoja (ID: 691594): {'gamesPlayed': 30, 'groundOuts': 23, 'airOuts': 25, 'runs': 10, 'doubles': 4, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 17, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 0, 'avg': '.250', 'atBats': 84, 'obp': '.289', 'slg': '.333', 'ops': '.622', 'caughtStealing': 2, 'stolenBases': 2, 'stolenBasePercentage': '.500', 'groundIntoDoublePlay': 0, 'numberOfPitches': 348, 'plateAppearances': 91, 'totalBases': 28, 'rbi': 9, 'leftOnBase': 39, 'sacBunts': 1, 'sacFlies': 1, 'babip': '.299', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '84.00'}
+[DEBUG] Generating trivia for: Jesús Sánchez (ID: 660821), Event: field_out
+[DEBUG] Stats for Jesús Sánchez (ID: 660821): {'gamesPlayed': 23, 'groundOuts': 20, 'airOuts': 22, 'runs': 4, 'doubles': 2, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 19, 'hitByPitch': 1, 'avg': '.235', 'atBats': 81, 'obp': '.330', 'slg': '.296', 'ops': '.626', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 1, 'numberOfPitches': 368, 'plateAppearances': 94, 'totalBases': 24, 'rbi': 8, 'leftOnBase': 34, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.300', 'groundOutsToAirouts': '0.91', 'catchersInterference': 0, 'atBatsPerHomeRun': '81.00'}
+[DEBUG] Generating trivia for: Jake Burger (ID: 669394), Event: strikeout
+[DEBUG] Stats for Jake Burger (ID: 669394): {'gamesPlayed': 32, 'groundOuts': 22, 'airOuts': 30, 'runs': 13, 'doubles': 5, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 35, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 3, 'avg': '.198', 'atBats': 106, 'obp': '.243', 'slg': '.330', 'ops': '.573', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 404, 'plateAppearances': 115, 'totalBases': 35, 'rbi': 12, 'leftOnBase': 36, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.257', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.33'}
+[DEBUG] Generating trivia for: Isiah Kiner-Falefa (ID: 643396), Event: single
+[DEBUG] Stats for Isiah Kiner-Falefa (ID: 643396): {'gamesPlayed': 32, 'groundOuts': 33, 'airOuts': 26, 'runs': 12, 'doubles': 3, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 30, 'hitByPitch': 1, 'avg': '.275', 'atBats': 109, 'obp': '.325', 'slg': '.349', 'ops': '.674', 'caughtStealing': 2, 'stolenBases': 7, 'stolenBasePercentage': '.778', 'groundIntoDoublePlay': 2, 'numberOfPitches': 438, 'plateAppearances': 118, 'totalBases': 38, 'rbi': 8, 'leftOnBase': 37, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.333', 'groundOutsToAirouts': '1.27', 'catchersInterference': 0, 'atBatsPerHomeRun': '109.00'}
+[DEBUG] Generating trivia for: Bryan Reynolds (ID: 668804), Event: single
+[DEBUG] Stats for Bryan Reynolds (ID: 668804): {'gamesPlayed': 42, 'groundOuts': 50, 'airOuts': 36, 'runs': 16, 'doubles': 5, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 54, 'baseOnBalls': 14, 'intentionalWalks': 1, 'hits': 34, 'hitByPitch': 1, 'avg': '.198', 'atBats': 172, 'obp': '.259', 'slg': '.314', 'ops': '.573', 'caughtStealing': 2, 'stolenBases': 3, 'stolenBasePercentage': '.600', 'groundIntoDoublePlay': 6, 'numberOfPitches': 738, 'plateAppearances': 189, 'totalBases': 54, 'rbi': 20, 'leftOnBase': 82, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.252', 'groundOutsToAirouts': '1.39', 'catchersInterference': 0, 'atBatsPerHomeRun': '34.40'}
+[DEBUG] Generating trivia for: Oneil Cruz (ID: 665833), Event: field_out
+[DEBUG] Stats for Oneil Cruz (ID: 665833): {'gamesPlayed': 37, 'groundOuts': 26, 'airOuts': 28, 'runs': 23, 'doubles': 5, 'triples': 0, 'homeRuns': 8, 'strikeOuts': 47, 'baseOnBalls': 26, 'intentionalWalks': 2, 'hits': 31, 'hitByPitch': 2, 'avg': '.238', 'atBats': 130, 'obp': '.369', 'slg': '.462', 'ops': '.831', 'caughtStealing': 1, 'stolenBases': 16, 'stolenBasePercentage': '.941', 'groundIntoDoublePlay': 2, 'numberOfPitches': 636, 'plateAppearances': 160, 'totalBases': 60, 'rbi': 18, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.299', 'groundOutsToAirouts': '0.93', 'catchersInterference': 0, 'atBatsPerHomeRun': '16.25'}
+[DEBUG] Generating trivia for: Andrew McCutchen (ID: 457705), Event: walk
+[DEBUG] Stats for Andrew McCutchen (ID: 457705): {'gamesPlayed': 37, 'groundOuts': 36, 'airOuts': 33, 'runs': 10, 'doubles': 7, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 21, 'baseOnBalls': 17, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 1, 'avg': '.252', 'atBats': 119, 'obp': '.348', 'slg': '.387', 'ops': '.735', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 589, 'plateAppearances': 139, 'totalBases': 46, 'rbi': 14, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.281', 'groundOutsToAirouts': '1.09', 'catchersInterference': 1, 'atBatsPerHomeRun': '39.67'}
+[DEBUG] Generating trivia for: Joey Bart (ID: 663698), Event: fielders_choice
+[DEBUG] Stats for Joey Bart (ID: 663698): {'gamesPlayed': 34, 'groundOuts': 23, 'airOuts': 24, 'runs': 7, 'doubles': 4, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 33, 'baseOnBalls': 20, 'intentionalWalks': 0, 'hits': 30, 'hitByPitch': 3, 'avg': '.273', 'atBats': 110, 'obp': '.398', 'slg': '.355', 'ops': '.753', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 534, 'plateAppearances': 133, 'totalBases': 39, 'rbi': 10, 'leftOnBase': 43, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.382', 'groundOutsToAirouts': '0.96', 'catchersInterference': 0, 'atBatsPerHomeRun': '110.00'}
+[DEBUG] Generating trivia for: Rowdy Tellez (ID: 642133), Event: grounded_into_double_play
+[DEBUG] Stats for Rowdy Tellez (ID: 642133): {'gamesPlayed': 34, 'groundOuts': 20, 'airOuts': 27, 'runs': 12, 'doubles': 3, 'triples': 0, 'homeRuns': 6, 'strikeOuts': 26, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 17, 'hitByPitch': 2, 'avg': '.191', 'atBats': 89, 'obp': '.247', 'slg': '.427', 'ops': '.674', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 4, 'numberOfPitches': 385, 'plateAppearances': 97, 'totalBases': 38, 'rbi': 19, 'leftOnBase': 50, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.190', 'groundOutsToAirouts': '0.74', 'catchersInterference': 0, 'atBatsPerHomeRun': '14.83'}
+[DEBUG] Generating trivia for: Otto Lopez (ID: 672640), Event: field_out
+[DEBUG] Stats for Otto Lopez (ID: 672640): {'gamesPlayed': 30, 'groundOuts': 40, 'airOuts': 27, 'runs': 15, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 17, 'baseOnBalls': 10, 'intentionalWalks': 1, 'hits': 25, 'hitByPitch': 0, 'avg': '.229', 'atBats': 109, 'obp': '.294', 'slg': '.330', 'ops': '.624', 'caughtStealing': 1, 'stolenBases': 3, 'stolenBasePercentage': '.750', 'groundIntoDoublePlay': 3, 'numberOfPitches': 408, 'plateAppearances': 119, 'totalBases': 36, 'rbi': 11, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.256', 'groundOutsToAirouts': '1.48', 'catchersInterference': 0, 'atBatsPerHomeRun': '54.50'}
+[DEBUG] Generating trivia for: Griffin Conine (ID: 665052), Event: field_out
+[DEBUG] Stats for Griffin Conine (ID: 665052): {'gamesPlayed': 20, 'groundOuts': 17, 'airOuts': 10, 'runs': 10, 'doubles': 7, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 19, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 0, 'avg': '.281', 'atBats': 64, 'obp': '.352', 'slg': '.438', 'ops': '.790', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 280, 'plateAppearances': 71, 'totalBases': 28, 'rbi': 7, 'leftOnBase': 29, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.386', 'groundOutsToAirouts': '1.70', 'catchersInterference': 0, 'atBatsPerHomeRun': '64.00'}
+[DEBUG] Generating trivia for: Jonah Bride (ID: 681146), Event: field_out
+[DEBUG] Stats for Jonah Bride (ID: 681146): {'gamesPlayed': 24, 'groundOuts': 18, 'airOuts': 18, 'runs': 5, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 21, 'baseOnBalls': 6, 'intentionalWalks': 1, 'hits': 12, 'hitByPitch': 0, 'avg': '.176', 'atBats': 68, 'obp': '.240', 'slg': '.176', 'ops': '.416', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 340, 'plateAppearances': 75, 'totalBases': 12, 'rbi': 5, 'leftOnBase': 33, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.250', 'groundOutsToAirouts': '1.00', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Nick Gonzales (ID: 693304), Event: walk
+[DEBUG] Stats for Nick Gonzales (ID: 693304): {'gamesPlayed': 1, 'groundOuts': 0, 'airOuts': 0, 'runs': 1, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 2, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 1, 'hitByPitch': 0, 'avg': '.333', 'atBats': 3, 'obp': '.333', 'slg': '1.333', 'ops': '1.666', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 11, 'plateAppearances': 3, 'totalBases': 4, 'rbi': 2, 'leftOnBase': 0, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.---', 'groundOutsToAirouts': '-.--', 'catchersInterference': 0, 'atBatsPerHomeRun': '3.00'}
+[DEBUG] Generating trivia for: Billy Cook (ID: 695257), Event: field_out
+[DEBUG] Stats for Billy Cook (ID: 695257): {}
+[DEBUG] Generating trivia for: Jared Triolo (ID: 669707), Event: strikeout
+[DEBUG] Stats for Jared Triolo (ID: 669707): {'gamesPlayed': 29, 'groundOuts': 22, 'airOuts': 29, 'runs': 4, 'doubles': 5, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 6, 'intentionalWalks': 0, 'hits': 12, 'hitByPitch': 1, 'avg': '.162', 'atBats': 74, 'obp': '.232', 'slg': '.270', 'ops': '.502', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 298, 'plateAppearances': 83, 'totalBases': 20, 'rbi': 2, 'leftOnBase': 37, 'sacBunts': 1, 'sacFlies': 1, 'babip': '.180', 'groundOutsToAirouts': '0.76', 'catchersInterference': 0, 'atBatsPerHomeRun': '74.00'}
+[DEBUG] Generating trivia for: Isiah Kiner-Falefa (ID: 643396), Event: caught_stealing_2b
+[DEBUG] Stats for Isiah Kiner-Falefa (ID: 643396): {'gamesPlayed': 32, 'groundOuts': 33, 'airOuts': 26, 'runs': 12, 'doubles': 3, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 30, 'hitByPitch': 1, 'avg': '.275', 'atBats': 109, 'obp': '.325', 'slg': '.349', 'ops': '.674', 'caughtStealing': 2, 'stolenBases': 7, 'stolenBasePercentage': '.778', 'groundIntoDoublePlay': 2, 'numberOfPitches': 438, 'plateAppearances': 118, 'totalBases': 38, 'rbi': 8, 'leftOnBase': 37, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.333', 'groundOutsToAirouts': '1.27', 'catchersInterference': 0, 'atBatsPerHomeRun': '109.00'}
+[DEBUG] Generating trivia for: Kyle Stowers (ID: 669065), Event: field_out
+[DEBUG] Stats for Kyle Stowers (ID: 669065): {'gamesPlayed': 39, 'groundOuts': 27, 'airOuts': 26, 'runs': 20, 'doubles': 4, 'triples': 1, 'homeRuns': 8, 'strikeOuts': 47, 'baseOnBalls': 17, 'intentionalWalks': 1, 'hits': 39, 'hitByPitch': 1, 'avg': '.287', 'atBats': 136, 'obp': '.365', 'slg': '.507', 'ops': '.872', 'caughtStealing': 1, 'stolenBases': 2, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 3, 'numberOfPitches': 589, 'plateAppearances': 157, 'totalBases': 69, 'rbi': 27, 'leftOnBase': 57, 'sacBunts': 1, 'sacFlies': 2, 'babip': '.373', 'groundOutsToAirouts': '1.04', 'catchersInterference': 0, 'atBatsPerHomeRun': '17.00'}
+[DEBUG] Generating trivia for: David Hensley (ID: 682073), Event: field_out
+[DEBUG] Stats for David Hensley (ID: 682073): {}
+[DEBUG] Generating trivia for: Jhonny Pereda (ID: 640902), Event: single
+[DEBUG] Stats for Jhonny Pereda (ID: 640902): {'gamesPlayed': 14, 'groundOuts': 7, 'airOuts': 6, 'runs': 2, 'doubles': 1, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.194', 'atBats': 31, 'obp': '.265', 'slg': '.226', 'ops': '.491', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 149, 'plateAppearances': 34, 'totalBases': 7, 'rbi': 1, 'leftOnBase': 11, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.316', 'groundOutsToAirouts': '1.17', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Javier Sanoja (ID: 691594), Event: strikeout
+[DEBUG] Stats for Javier Sanoja (ID: 691594): {'gamesPlayed': 30, 'groundOuts': 23, 'airOuts': 25, 'runs': 10, 'doubles': 4, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 17, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 0, 'avg': '.250', 'atBats': 84, 'obp': '.289', 'slg': '.333', 'ops': '.622', 'caughtStealing': 2, 'stolenBases': 2, 'stolenBasePercentage': '.500', 'groundIntoDoublePlay': 0, 'numberOfPitches': 348, 'plateAppearances': 91, 'totalBases': 28, 'rbi': 9, 'leftOnBase': 39, 'sacBunts': 1, 'sacFlies': 1, 'babip': '.299', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '84.00'}
+[DEBUG] Generating trivia for: Isiah Kiner-Falefa (ID: 643396), Event: single
+[DEBUG] Stats for Isiah Kiner-Falefa (ID: 643396): {'gamesPlayed': 32, 'groundOuts': 33, 'airOuts': 26, 'runs': 12, 'doubles': 3, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 30, 'hitByPitch': 1, 'avg': '.275', 'atBats': 109, 'obp': '.325', 'slg': '.349', 'ops': '.674', 'caughtStealing': 2, 'stolenBases': 7, 'stolenBasePercentage': '.778', 'groundIntoDoublePlay': 2, 'numberOfPitches': 438, 'plateAppearances': 118, 'totalBases': 38, 'rbi': 8, 'leftOnBase': 37, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.333', 'groundOutsToAirouts': '1.27', 'catchersInterference': 0, 'atBatsPerHomeRun': '109.00'}
+[DEBUG] Generating trivia for: Bryan Reynolds (ID: 668804), Event: fielders_choice
+[DEBUG] Stats for Bryan Reynolds (ID: 668804): {'gamesPlayed': 42, 'groundOuts': 50, 'airOuts': 36, 'runs': 16, 'doubles': 5, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 54, 'baseOnBalls': 14, 'intentionalWalks': 1, 'hits': 34, 'hitByPitch': 1, 'avg': '.198', 'atBats': 172, 'obp': '.259', 'slg': '.314', 'ops': '.573', 'caughtStealing': 2, 'stolenBases': 3, 'stolenBasePercentage': '.600', 'groundIntoDoublePlay': 6, 'numberOfPitches': 738, 'plateAppearances': 189, 'totalBases': 54, 'rbi': 20, 'leftOnBase': 82, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.252', 'groundOutsToAirouts': '1.39', 'catchersInterference': 0, 'atBatsPerHomeRun': '34.40'}
+[DEBUG] Generating trivia for: Oneil Cruz (ID: 665833), Event: strikeout
+[DEBUG] Stats for Oneil Cruz (ID: 665833): {'gamesPlayed': 37, 'groundOuts': 26, 'airOuts': 28, 'runs': 23, 'doubles': 5, 'triples': 0, 'homeRuns': 8, 'strikeOuts': 47, 'baseOnBalls': 26, 'intentionalWalks': 2, 'hits': 31, 'hitByPitch': 2, 'avg': '.238', 'atBats': 130, 'obp': '.369', 'slg': '.462', 'ops': '.831', 'caughtStealing': 1, 'stolenBases': 16, 'stolenBasePercentage': '.941', 'groundIntoDoublePlay': 2, 'numberOfPitches': 636, 'plateAppearances': 160, 'totalBases': 60, 'rbi': 18, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.299', 'groundOutsToAirouts': '0.93', 'catchersInterference': 0, 'atBatsPerHomeRun': '16.25'}
+[DEBUG] Generating trivia for: Andrew McCutchen (ID: 457705), Event: grounded_into_double_play
+[DEBUG] Stats for Andrew McCutchen (ID: 457705): {'gamesPlayed': 37, 'groundOuts': 36, 'airOuts': 33, 'runs': 10, 'doubles': 7, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 21, 'baseOnBalls': 17, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 1, 'avg': '.252', 'atBats': 119, 'obp': '.348', 'slg': '.387', 'ops': '.735', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 589, 'plateAppearances': 139, 'totalBases': 46, 'rbi': 14, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.281', 'groundOutsToAirouts': '1.09', 'catchersInterference': 1, 'atBatsPerHomeRun': '39.67'}
+[DEBUG] Generating trivia for: Jesús Sánchez (ID: 660821), Event: field_out
+[DEBUG] Stats for Jesús Sánchez (ID: 660821): {'gamesPlayed': 23, 'groundOuts': 20, 'airOuts': 22, 'runs': 4, 'doubles': 2, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 19, 'hitByPitch': 1, 'avg': '.235', 'atBats': 81, 'obp': '.330', 'slg': '.296', 'ops': '.626', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 1, 'numberOfPitches': 368, 'plateAppearances': 94, 'totalBases': 24, 'rbi': 8, 'leftOnBase': 34, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.300', 'groundOutsToAirouts': '0.91', 'catchersInterference': 0, 'atBatsPerHomeRun': '81.00'}
+[DEBUG] Generating trivia for: Jake Burger (ID: 669394), Event: strikeout
+[DEBUG] Stats for Jake Burger (ID: 669394): {'gamesPlayed': 32, 'groundOuts': 22, 'airOuts': 30, 'runs': 13, 'doubles': 5, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 35, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 3, 'avg': '.198', 'atBats': 106, 'obp': '.243', 'slg': '.330', 'ops': '.573', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 404, 'plateAppearances': 115, 'totalBases': 35, 'rbi': 12, 'leftOnBase': 36, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.257', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.33'}
+[DEBUG] Generating trivia for: Otto Lopez (ID: 672640), Event: field_out
+[DEBUG] Stats for Otto Lopez (ID: 672640): {'gamesPlayed': 30, 'groundOuts': 40, 'airOuts': 27, 'runs': 15, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 17, 'baseOnBalls': 10, 'intentionalWalks': 1, 'hits': 25, 'hitByPitch': 0, 'avg': '.229', 'atBats': 109, 'obp': '.294', 'slg': '.330', 'ops': '.624', 'caughtStealing': 1, 'stolenBases': 3, 'stolenBasePercentage': '.750', 'groundIntoDoublePlay': 3, 'numberOfPitches': 408, 'plateAppearances': 119, 'totalBases': 36, 'rbi': 11, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.256', 'groundOutsToAirouts': '1.48', 'catchersInterference': 0, 'atBatsPerHomeRun': '54.50'}
+[DEBUG] Generating trivia for: Joey Bart (ID: 663698), Event: double
+[DEBUG] Stats for Joey Bart (ID: 663698): {'gamesPlayed': 34, 'groundOuts': 23, 'airOuts': 24, 'runs': 7, 'doubles': 4, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 33, 'baseOnBalls': 20, 'intentionalWalks': 0, 'hits': 30, 'hitByPitch': 3, 'avg': '.273', 'atBats': 110, 'obp': '.398', 'slg': '.355', 'ops': '.753', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 534, 'plateAppearances': 133, 'totalBases': 39, 'rbi': 10, 'leftOnBase': 43, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.382', 'groundOutsToAirouts': '0.96', 'catchersInterference': 0, 'atBatsPerHomeRun': '110.00'}
+[DEBUG] Generating trivia for: Rowdy Tellez (ID: 642133), Event: field_out
+[DEBUG] Stats for Rowdy Tellez (ID: 642133): {'gamesPlayed': 34, 'groundOuts': 20, 'airOuts': 27, 'runs': 12, 'doubles': 3, 'triples': 0, 'homeRuns': 6, 'strikeOuts': 26, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 17, 'hitByPitch': 2, 'avg': '.191', 'atBats': 89, 'obp': '.247', 'slg': '.427', 'ops': '.674', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 4, 'numberOfPitches': 385, 'plateAppearances': 97, 'totalBases': 38, 'rbi': 19, 'leftOnBase': 50, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.190', 'groundOutsToAirouts': '0.74', 'catchersInterference': 0, 'atBatsPerHomeRun': '14.83'}
+[DEBUG] Generating trivia for: Nick Gonzales (ID: 693304), Event: field_out
+[DEBUG] Stats for Nick Gonzales (ID: 693304): {'gamesPlayed': 1, 'groundOuts': 0, 'airOuts': 0, 'runs': 1, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 2, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 1, 'hitByPitch': 0, 'avg': '.333', 'atBats': 3, 'obp': '.333', 'slg': '1.333', 'ops': '1.666', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 11, 'plateAppearances': 3, 'totalBases': 4, 'rbi': 2, 'leftOnBase': 0, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.---', 'groundOutsToAirouts': '-.--', 'catchersInterference': 0, 'atBatsPerHomeRun': '3.00'}
+[DEBUG] Generating trivia for: Billy Cook (ID: 695257), Event: field_out
+[DEBUG] Stats for Billy Cook (ID: 695257): {}
+[DEBUG] Generating trivia for: Griffin Conine (ID: 665052), Event: strikeout
+[DEBUG] Stats for Griffin Conine (ID: 665052): {'gamesPlayed': 20, 'groundOuts': 17, 'airOuts': 10, 'runs': 10, 'doubles': 7, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 19, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 0, 'avg': '.281', 'atBats': 64, 'obp': '.352', 'slg': '.438', 'ops': '.790', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 280, 'plateAppearances': 71, 'totalBases': 28, 'rbi': 7, 'leftOnBase': 29, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.386', 'groundOutsToAirouts': '1.70', 'catchersInterference': 0, 'atBatsPerHomeRun': '64.00'}
+[DEBUG] Generating trivia for: Jonah Bride (ID: 681146), Event: field_out
+[DEBUG] Stats for Jonah Bride (ID: 681146): {'gamesPlayed': 24, 'groundOuts': 18, 'airOuts': 18, 'runs': 5, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 21, 'baseOnBalls': 6, 'intentionalWalks': 1, 'hits': 12, 'hitByPitch': 0, 'avg': '.176', 'atBats': 68, 'obp': '.240', 'slg': '.176', 'ops': '.416', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 340, 'plateAppearances': 75, 'totalBases': 12, 'rbi': 5, 'leftOnBase': 33, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.250', 'groundOutsToAirouts': '1.00', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Kyle Stowers (ID: 669065), Event: double
+[DEBUG] Stats for Kyle Stowers (ID: 669065): {'gamesPlayed': 39, 'groundOuts': 27, 'airOuts': 26, 'runs': 20, 'doubles': 4, 'triples': 1, 'homeRuns': 8, 'strikeOuts': 47, 'baseOnBalls': 17, 'intentionalWalks': 1, 'hits': 39, 'hitByPitch': 1, 'avg': '.287', 'atBats': 136, 'obp': '.365', 'slg': '.507', 'ops': '.872', 'caughtStealing': 1, 'stolenBases': 2, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 3, 'numberOfPitches': 589, 'plateAppearances': 157, 'totalBases': 69, 'rbi': 27, 'leftOnBase': 57, 'sacBunts': 1, 'sacFlies': 2, 'babip': '.373', 'groundOutsToAirouts': '1.04', 'catchersInterference': 0, 'atBatsPerHomeRun': '17.00'}
+[DEBUG] Generating trivia for: David Hensley (ID: 682073), Event: walk
+[DEBUG] Stats for David Hensley (ID: 682073): {}
+[DEBUG] Generating trivia for: Jhonny Pereda (ID: 640902), Event: single
+[DEBUG] Stats for Jhonny Pereda (ID: 640902): {'gamesPlayed': 14, 'groundOuts': 7, 'airOuts': 6, 'runs': 2, 'doubles': 1, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.194', 'atBats': 31, 'obp': '.265', 'slg': '.226', 'ops': '.491', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 149, 'plateAppearances': 34, 'totalBases': 7, 'rbi': 1, 'leftOnBase': 11, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.316', 'groundOutsToAirouts': '1.17', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Javier Sanoja (ID: 691594), Event: field_out
+[DEBUG] Stats for Javier Sanoja (ID: 691594): {'gamesPlayed': 30, 'groundOuts': 23, 'airOuts': 25, 'runs': 10, 'doubles': 4, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 17, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 0, 'avg': '.250', 'atBats': 84, 'obp': '.289', 'slg': '.333', 'ops': '.622', 'caughtStealing': 2, 'stolenBases': 2, 'stolenBasePercentage': '.500', 'groundIntoDoublePlay': 0, 'numberOfPitches': 348, 'plateAppearances': 91, 'totalBases': 28, 'rbi': 9, 'leftOnBase': 39, 'sacBunts': 1, 'sacFlies': 1, 'babip': '.299', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '84.00'}
+[DEBUG] Generating trivia for: Jared Triolo (ID: 669707), Event: double
+[DEBUG] Stats for Jared Triolo (ID: 669707): {'gamesPlayed': 29, 'groundOuts': 22, 'airOuts': 29, 'runs': 4, 'doubles': 5, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 6, 'intentionalWalks': 0, 'hits': 12, 'hitByPitch': 1, 'avg': '.162', 'atBats': 74, 'obp': '.232', 'slg': '.270', 'ops': '.502', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 298, 'plateAppearances': 83, 'totalBases': 20, 'rbi': 2, 'leftOnBase': 37, 'sacBunts': 1, 'sacFlies': 1, 'babip': '.180', 'groundOutsToAirouts': '0.76', 'catchersInterference': 0, 'atBatsPerHomeRun': '74.00'}
+[DEBUG] Generating trivia for: Isiah Kiner-Falefa (ID: 643396), Event: field_out
+[DEBUG] Stats for Isiah Kiner-Falefa (ID: 643396): {'gamesPlayed': 32, 'groundOuts': 33, 'airOuts': 26, 'runs': 12, 'doubles': 3, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 30, 'hitByPitch': 1, 'avg': '.275', 'atBats': 109, 'obp': '.325', 'slg': '.349', 'ops': '.674', 'caughtStealing': 2, 'stolenBases': 7, 'stolenBasePercentage': '.778', 'groundIntoDoublePlay': 2, 'numberOfPitches': 438, 'plateAppearances': 118, 'totalBases': 38, 'rbi': 8, 'leftOnBase': 37, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.333', 'groundOutsToAirouts': '1.27', 'catchersInterference': 0, 'atBatsPerHomeRun': '109.00'}
+[DEBUG] Generating trivia for: Bryan Reynolds (ID: 668804), Event: single
+[DEBUG] Stats for Bryan Reynolds (ID: 668804): {'gamesPlayed': 42, 'groundOuts': 50, 'airOuts': 36, 'runs': 16, 'doubles': 5, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 54, 'baseOnBalls': 14, 'intentionalWalks': 1, 'hits': 34, 'hitByPitch': 1, 'avg': '.198', 'atBats': 172, 'obp': '.259', 'slg': '.314', 'ops': '.573', 'caughtStealing': 2, 'stolenBases': 3, 'stolenBasePercentage': '.600', 'groundIntoDoublePlay': 6, 'numberOfPitches': 738, 'plateAppearances': 189, 'totalBases': 54, 'rbi': 20, 'leftOnBase': 82, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.252', 'groundOutsToAirouts': '1.39', 'catchersInterference': 0, 'atBatsPerHomeRun': '34.40'}
+[DEBUG] Generating trivia for: Oneil Cruz (ID: 665833), Event: walk
+[DEBUG] Stats for Oneil Cruz (ID: 665833): {'gamesPlayed': 37, 'groundOuts': 26, 'airOuts': 28, 'runs': 23, 'doubles': 5, 'triples': 0, 'homeRuns': 8, 'strikeOuts': 47, 'baseOnBalls': 26, 'intentionalWalks': 2, 'hits': 31, 'hitByPitch': 2, 'avg': '.238', 'atBats': 130, 'obp': '.369', 'slg': '.462', 'ops': '.831', 'caughtStealing': 1, 'stolenBases': 16, 'stolenBasePercentage': '.941', 'groundIntoDoublePlay': 2, 'numberOfPitches': 636, 'plateAppearances': 160, 'totalBases': 60, 'rbi': 18, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.299', 'groundOutsToAirouts': '0.93', 'catchersInterference': 0, 'atBatsPerHomeRun': '16.25'}
+[DEBUG] Generating trivia for: Andrew McCutchen (ID: 457705), Event: home_run
+[DEBUG] Stats for Andrew McCutchen (ID: 457705): {'gamesPlayed': 37, 'groundOuts': 36, 'airOuts': 33, 'runs': 10, 'doubles': 7, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 21, 'baseOnBalls': 17, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 1, 'avg': '.252', 'atBats': 119, 'obp': '.348', 'slg': '.387', 'ops': '.735', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 589, 'plateAppearances': 139, 'totalBases': 46, 'rbi': 14, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.281', 'groundOutsToAirouts': '1.09', 'catchersInterference': 1, 'atBatsPerHomeRun': '39.67'}
+[DEBUG] Generating trivia for: Joey Bart (ID: 663698), Event: field_out
+[DEBUG] Stats for Joey Bart (ID: 663698): {'gamesPlayed': 34, 'groundOuts': 23, 'airOuts': 24, 'runs': 7, 'doubles': 4, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 33, 'baseOnBalls': 20, 'intentionalWalks': 0, 'hits': 30, 'hitByPitch': 3, 'avg': '.273', 'atBats': 110, 'obp': '.398', 'slg': '.355', 'ops': '.753', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 534, 'plateAppearances': 133, 'totalBases': 39, 'rbi': 10, 'leftOnBase': 43, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.382', 'groundOutsToAirouts': '0.96', 'catchersInterference': 0, 'atBatsPerHomeRun': '110.00'}
+[DEBUG] Generating trivia for: Rowdy Tellez (ID: 642133), Event: field_out
+[DEBUG] Stats for Rowdy Tellez (ID: 642133): {'gamesPlayed': 34, 'groundOuts': 20, 'airOuts': 27, 'runs': 12, 'doubles': 3, 'triples': 0, 'homeRuns': 6, 'strikeOuts': 26, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 17, 'hitByPitch': 2, 'avg': '.191', 'atBats': 89, 'obp': '.247', 'slg': '.427', 'ops': '.674', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 4, 'numberOfPitches': 385, 'plateAppearances': 97, 'totalBases': 38, 'rbi': 19, 'leftOnBase': 50, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.190', 'groundOutsToAirouts': '0.74', 'catchersInterference': 0, 'atBatsPerHomeRun': '14.83'}
+[DEBUG] Generating trivia for: Jesús Sánchez (ID: 660821), Event: walk
+[DEBUG] Stats for Jesús Sánchez (ID: 660821): {'gamesPlayed': 23, 'groundOuts': 20, 'airOuts': 22, 'runs': 4, 'doubles': 2, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 19, 'hitByPitch': 1, 'avg': '.235', 'atBats': 81, 'obp': '.330', 'slg': '.296', 'ops': '.626', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 1, 'numberOfPitches': 368, 'plateAppearances': 94, 'totalBases': 24, 'rbi': 8, 'leftOnBase': 34, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.300', 'groundOutsToAirouts': '0.91', 'catchersInterference': 0, 'atBatsPerHomeRun': '81.00'}
+[DEBUG] Generating trivia for: Jake Burger (ID: 669394), Event: force_out
+[DEBUG] Stats for Jake Burger (ID: 669394): {'gamesPlayed': 32, 'groundOuts': 22, 'airOuts': 30, 'runs': 13, 'doubles': 5, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 35, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 3, 'avg': '.198', 'atBats': 106, 'obp': '.243', 'slg': '.330', 'ops': '.573', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 404, 'plateAppearances': 115, 'totalBases': 35, 'rbi': 12, 'leftOnBase': 36, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.257', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.33'}
+[DEBUG] Generating trivia for: Otto Lopez (ID: 672640), Event: single
+[DEBUG] Stats for Otto Lopez (ID: 672640): {'gamesPlayed': 30, 'groundOuts': 40, 'airOuts': 27, 'runs': 15, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 17, 'baseOnBalls': 10, 'intentionalWalks': 1, 'hits': 25, 'hitByPitch': 0, 'avg': '.229', 'atBats': 109, 'obp': '.294', 'slg': '.330', 'ops': '.624', 'caughtStealing': 1, 'stolenBases': 3, 'stolenBasePercentage': '.750', 'groundIntoDoublePlay': 3, 'numberOfPitches': 408, 'plateAppearances': 119, 'totalBases': 36, 'rbi': 11, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.256', 'groundOutsToAirouts': '1.48', 'catchersInterference': 0, 'atBatsPerHomeRun': '54.50'}
+[DEBUG] Generating trivia for: Griffin Conine (ID: 665052), Event: walk
+[DEBUG] Stats for Griffin Conine (ID: 665052): {'gamesPlayed': 20, 'groundOuts': 17, 'airOuts': 10, 'runs': 10, 'doubles': 7, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 19, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 0, 'avg': '.281', 'atBats': 64, 'obp': '.352', 'slg': '.438', 'ops': '.790', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 280, 'plateAppearances': 71, 'totalBases': 28, 'rbi': 7, 'leftOnBase': 29, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.386', 'groundOutsToAirouts': '1.70', 'catchersInterference': 0, 'atBatsPerHomeRun': '64.00'}
+[DEBUG] Generating trivia for: Jonah Bride (ID: 681146), Event: sac_fly
+[DEBUG] Stats for Jonah Bride (ID: 681146): {'gamesPlayed': 24, 'groundOuts': 18, 'airOuts': 18, 'runs': 5, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 21, 'baseOnBalls': 6, 'intentionalWalks': 1, 'hits': 12, 'hitByPitch': 0, 'avg': '.176', 'atBats': 68, 'obp': '.240', 'slg': '.176', 'ops': '.416', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 340, 'plateAppearances': 75, 'totalBases': 12, 'rbi': 5, 'leftOnBase': 33, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.250', 'groundOutsToAirouts': '1.00', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Kyle Stowers (ID: 669065), Event: double
+[DEBUG] Stats for Kyle Stowers (ID: 669065): {'gamesPlayed': 39, 'groundOuts': 27, 'airOuts': 26, 'runs': 20, 'doubles': 4, 'triples': 1, 'homeRuns': 8, 'strikeOuts': 47, 'baseOnBalls': 17, 'intentionalWalks': 1, 'hits': 39, 'hitByPitch': 1, 'avg': '.287', 'atBats': 136, 'obp': '.365', 'slg': '.507', 'ops': '.872', 'caughtStealing': 1, 'stolenBases': 2, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 3, 'numberOfPitches': 589, 'plateAppearances': 157, 'totalBases': 69, 'rbi': 27, 'leftOnBase': 57, 'sacBunts': 1, 'sacFlies': 2, 'babip': '.373', 'groundOutsToAirouts': '1.04', 'catchersInterference': 0, 'atBatsPerHomeRun': '17.00'}
+[DEBUG] Generating trivia for: David Hensley (ID: 682073), Event: strikeout
+[DEBUG] Stats for David Hensley (ID: 682073): {}
+[DEBUG] Generating trivia for: Nick Gonzales (ID: 693304), Event: hit_by_pitch
+[DEBUG] Stats for Nick Gonzales (ID: 693304): {'gamesPlayed': 1, 'groundOuts': 0, 'airOuts': 0, 'runs': 1, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 2, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 1, 'hitByPitch': 0, 'avg': '.333', 'atBats': 3, 'obp': '.333', 'slg': '1.333', 'ops': '1.666', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 11, 'plateAppearances': 3, 'totalBases': 4, 'rbi': 2, 'leftOnBase': 0, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.---', 'groundOutsToAirouts': '-.--', 'catchersInterference': 0, 'atBatsPerHomeRun': '3.00'}
+[DEBUG] Generating trivia for: Billy Cook (ID: 695257), Event: field_out
+[DEBUG] Stats for Billy Cook (ID: 695257): {}
+[DEBUG] Generating trivia for: Jared Triolo (ID: 669707), Event: strikeout
+[DEBUG] Stats for Jared Triolo (ID: 669707): {'gamesPlayed': 29, 'groundOuts': 22, 'airOuts': 29, 'runs': 4, 'doubles': 5, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 6, 'intentionalWalks': 0, 'hits': 12, 'hitByPitch': 1, 'avg': '.162', 'atBats': 74, 'obp': '.232', 'slg': '.270', 'ops': '.502', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 298, 'plateAppearances': 83, 'totalBases': 20, 'rbi': 2, 'leftOnBase': 37, 'sacBunts': 1, 'sacFlies': 1, 'babip': '.180', 'groundOutsToAirouts': '0.76', 'catchersInterference': 0, 'atBatsPerHomeRun': '74.00'}
+[DEBUG] Generating trivia for: Isiah Kiner-Falefa (ID: 643396), Event: strikeout
+[DEBUG] Stats for Isiah Kiner-Falefa (ID: 643396): {'gamesPlayed': 32, 'groundOuts': 33, 'airOuts': 26, 'runs': 12, 'doubles': 3, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 30, 'hitByPitch': 1, 'avg': '.275', 'atBats': 109, 'obp': '.325', 'slg': '.349', 'ops': '.674', 'caughtStealing': 2, 'stolenBases': 7, 'stolenBasePercentage': '.778', 'groundIntoDoublePlay': 2, 'numberOfPitches': 438, 'plateAppearances': 118, 'totalBases': 38, 'rbi': 8, 'leftOnBase': 37, 'sacBunts': 1, 'sacFlies': 0, 'babip': '.333', 'groundOutsToAirouts': '1.27', 'catchersInterference': 0, 'atBatsPerHomeRun': '109.00'}
+[DEBUG] Generating trivia for: Jhonny Pereda (ID: 640902), Event: field_out
+[DEBUG] Stats for Jhonny Pereda (ID: 640902): {'gamesPlayed': 14, 'groundOuts': 7, 'airOuts': 6, 'runs': 2, 'doubles': 1, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.194', 'atBats': 31, 'obp': '.265', 'slg': '.226', 'ops': '.491', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 149, 'plateAppearances': 34, 'totalBases': 7, 'rbi': 1, 'leftOnBase': 11, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.316', 'groundOutsToAirouts': '1.17', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Javier Sanoja (ID: 691594), Event: field_out
+[DEBUG] Stats for Javier Sanoja (ID: 691594): {'gamesPlayed': 30, 'groundOuts': 23, 'airOuts': 25, 'runs': 10, 'doubles': 4, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 17, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 0, 'avg': '.250', 'atBats': 84, 'obp': '.289', 'slg': '.333', 'ops': '.622', 'caughtStealing': 2, 'stolenBases': 2, 'stolenBasePercentage': '.500', 'groundIntoDoublePlay': 0, 'numberOfPitches': 348, 'plateAppearances': 91, 'totalBases': 28, 'rbi': 9, 'leftOnBase': 39, 'sacBunts': 1, 'sacFlies': 1, 'babip': '.299', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '84.00'}
+[DEBUG] Generating trivia for: Jesús Sánchez (ID: 660821), Event: strikeout
+[DEBUG] Stats for Jesús Sánchez (ID: 660821): {'gamesPlayed': 23, 'groundOuts': 20, 'airOuts': 22, 'runs': 4, 'doubles': 2, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 19, 'hitByPitch': 1, 'avg': '.235', 'atBats': 81, 'obp': '.330', 'slg': '.296', 'ops': '.626', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 1, 'numberOfPitches': 368, 'plateAppearances': 94, 'totalBases': 24, 'rbi': 8, 'leftOnBase': 34, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.300', 'groundOutsToAirouts': '0.91', 'catchersInterference': 0, 'atBatsPerHomeRun': '81.00'}
+[DEBUG] Generating trivia for: Bryan Reynolds (ID: 668804), Event: field_out
+[DEBUG] Stats for Bryan Reynolds (ID: 668804): {'gamesPlayed': 42, 'groundOuts': 50, 'airOuts': 36, 'runs': 16, 'doubles': 5, 'triples': 0, 'homeRuns': 5, 'strikeOuts': 54, 'baseOnBalls': 14, 'intentionalWalks': 1, 'hits': 34, 'hitByPitch': 1, 'avg': '.198', 'atBats': 172, 'obp': '.259', 'slg': '.314', 'ops': '.573', 'caughtStealing': 2, 'stolenBases': 3, 'stolenBasePercentage': '.600', 'groundIntoDoublePlay': 6, 'numberOfPitches': 738, 'plateAppearances': 189, 'totalBases': 54, 'rbi': 20, 'leftOnBase': 82, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.252', 'groundOutsToAirouts': '1.39', 'catchersInterference': 0, 'atBatsPerHomeRun': '34.40'}
+[DEBUG] Generating trivia for: Oneil Cruz (ID: 665833), Event: strikeout
+[DEBUG] Stats for Oneil Cruz (ID: 665833): {'gamesPlayed': 37, 'groundOuts': 26, 'airOuts': 28, 'runs': 23, 'doubles': 5, 'triples': 0, 'homeRuns': 8, 'strikeOuts': 47, 'baseOnBalls': 26, 'intentionalWalks': 2, 'hits': 31, 'hitByPitch': 2, 'avg': '.238', 'atBats': 130, 'obp': '.369', 'slg': '.462', 'ops': '.831', 'caughtStealing': 1, 'stolenBases': 16, 'stolenBasePercentage': '.941', 'groundIntoDoublePlay': 2, 'numberOfPitches': 636, 'plateAppearances': 160, 'totalBases': 60, 'rbi': 18, 'leftOnBase': 47, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.299', 'groundOutsToAirouts': '0.93', 'catchersInterference': 0, 'atBatsPerHomeRun': '16.25'}
+[DEBUG] Generating trivia for: Andrew McCutchen (ID: 457705), Event: walk
+[DEBUG] Stats for Andrew McCutchen (ID: 457705): {'gamesPlayed': 37, 'groundOuts': 36, 'airOuts': 33, 'runs': 10, 'doubles': 7, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 21, 'baseOnBalls': 17, 'intentionalWalks': 1, 'hits': 30, 'hitByPitch': 1, 'avg': '.252', 'atBats': 119, 'obp': '.348', 'slg': '.387', 'ops': '.735', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 589, 'plateAppearances': 139, 'totalBases': 46, 'rbi': 14, 'leftOnBase': 62, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.281', 'groundOutsToAirouts': '1.09', 'catchersInterference': 1, 'atBatsPerHomeRun': '39.67'}
+[DEBUG] Generating trivia for: Joey Bart (ID: 663698), Event: strikeout
+[DEBUG] Stats for Joey Bart (ID: 663698): {'gamesPlayed': 34, 'groundOuts': 23, 'airOuts': 24, 'runs': 7, 'doubles': 4, 'triples': 1, 'homeRuns': 1, 'strikeOuts': 33, 'baseOnBalls': 20, 'intentionalWalks': 0, 'hits': 30, 'hitByPitch': 3, 'avg': '.273', 'atBats': 110, 'obp': '.398', 'slg': '.355', 'ops': '.753', 'caughtStealing': 0, 'stolenBases': 1, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 4, 'numberOfPitches': 534, 'plateAppearances': 133, 'totalBases': 39, 'rbi': 10, 'leftOnBase': 43, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.382', 'groundOutsToAirouts': '0.96', 'catchersInterference': 0, 'atBatsPerHomeRun': '110.00'}
+[DEBUG] Generating trivia for: Jake Burger (ID: 669394), Event: field_out
+[DEBUG] Stats for Jake Burger (ID: 669394): {'gamesPlayed': 32, 'groundOuts': 22, 'airOuts': 30, 'runs': 13, 'doubles': 5, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 35, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 3, 'avg': '.198', 'atBats': 106, 'obp': '.243', 'slg': '.330', 'ops': '.573', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 404, 'plateAppearances': 115, 'totalBases': 35, 'rbi': 12, 'leftOnBase': 36, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.257', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.33'}
+[DEBUG] Generating trivia for: Otto Lopez (ID: 672640), Event: walk
+[DEBUG] Stats for Otto Lopez (ID: 672640): {'gamesPlayed': 30, 'groundOuts': 40, 'airOuts': 27, 'runs': 15, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 17, 'baseOnBalls': 10, 'intentionalWalks': 1, 'hits': 25, 'hitByPitch': 0, 'avg': '.229', 'atBats': 109, 'obp': '.294', 'slg': '.330', 'ops': '.624', 'caughtStealing': 1, 'stolenBases': 3, 'stolenBasePercentage': '.750', 'groundIntoDoublePlay': 3, 'numberOfPitches': 408, 'plateAppearances': 119, 'totalBases': 36, 'rbi': 11, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.256', 'groundOutsToAirouts': '1.48', 'catchersInterference': 0, 'atBatsPerHomeRun': '54.50'}
+[DEBUG] Generating trivia for: Griffin Conine (ID: 665052), Event: strikeout
+[DEBUG] Stats for Griffin Conine (ID: 665052): {'gamesPlayed': 20, 'groundOuts': 17, 'airOuts': 10, 'runs': 10, 'doubles': 7, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 19, 'baseOnBalls': 7, 'intentionalWalks': 0, 'hits': 18, 'hitByPitch': 0, 'avg': '.281', 'atBats': 64, 'obp': '.352', 'slg': '.438', 'ops': '.790', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 280, 'plateAppearances': 71, 'totalBases': 28, 'rbi': 7, 'leftOnBase': 29, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.386', 'groundOutsToAirouts': '1.70', 'catchersInterference': 0, 'atBatsPerHomeRun': '64.00'}
+[DEBUG] Generating trivia for: Jonah Bride (ID: 681146), Event: single
+[DEBUG] Stats for Jonah Bride (ID: 681146): {'gamesPlayed': 24, 'groundOuts': 18, 'airOuts': 18, 'runs': 5, 'doubles': 0, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 21, 'baseOnBalls': 6, 'intentionalWalks': 1, 'hits': 12, 'hitByPitch': 0, 'avg': '.176', 'atBats': 68, 'obp': '.240', 'slg': '.176', 'ops': '.416', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 340, 'plateAppearances': 75, 'totalBases': 12, 'rbi': 5, 'leftOnBase': 33, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.250', 'groundOutsToAirouts': '1.00', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Kyle Stowers (ID: 669065), Event: field_out
+[DEBUG] Stats for Kyle Stowers (ID: 669065): {'gamesPlayed': 39, 'groundOuts': 27, 'airOuts': 26, 'runs': 20, 'doubles': 4, 'triples': 1, 'homeRuns': 8, 'strikeOuts': 47, 'baseOnBalls': 17, 'intentionalWalks': 1, 'hits': 39, 'hitByPitch': 1, 'avg': '.287', 'atBats': 136, 'obp': '.365', 'slg': '.507', 'ops': '.872', 'caughtStealing': 1, 'stolenBases': 2, 'stolenBasePercentage': '.667', 'groundIntoDoublePlay': 3, 'numberOfPitches': 589, 'plateAppearances': 157, 'totalBases': 69, 'rbi': 27, 'leftOnBase': 57, 'sacBunts': 1, 'sacFlies': 2, 'babip': '.373', 'groundOutsToAirouts': '1.04', 'catchersInterference': 0, 'atBatsPerHomeRun': '17.00'}
+[DEBUG] Generating trivia for: Rowdy Tellez (ID: 642133), Event: field_out
+[DEBUG] Stats for Rowdy Tellez (ID: 642133): {'gamesPlayed': 34, 'groundOuts': 20, 'airOuts': 27, 'runs': 12, 'doubles': 3, 'triples': 0, 'homeRuns': 6, 'strikeOuts': 26, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 17, 'hitByPitch': 2, 'avg': '.191', 'atBats': 89, 'obp': '.247', 'slg': '.427', 'ops': '.674', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 4, 'numberOfPitches': 385, 'plateAppearances': 97, 'totalBases': 38, 'rbi': 19, 'leftOnBase': 50, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.190', 'groundOutsToAirouts': '0.74', 'catchersInterference': 0, 'atBatsPerHomeRun': '14.83'}
+[DEBUG] Generating trivia for: Nick Gonzales (ID: 693304), Event: single
+[DEBUG] Stats for Nick Gonzales (ID: 693304): {'gamesPlayed': 1, 'groundOuts': 0, 'airOuts': 0, 'runs': 1, 'doubles': 0, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 2, 'baseOnBalls': 0, 'intentionalWalks': 0, 'hits': 1, 'hitByPitch': 0, 'avg': '.333', 'atBats': 3, 'obp': '.333', 'slg': '1.333', 'ops': '1.666', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 11, 'plateAppearances': 3, 'totalBases': 4, 'rbi': 2, 'leftOnBase': 0, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.---', 'groundOutsToAirouts': '-.--', 'catchersInterference': 0, 'atBatsPerHomeRun': '3.00'}
+[DEBUG] Generating trivia for: Billy Cook (ID: 695257), Event: field_out
+[DEBUG] Stats for Billy Cook (ID: 695257): {}
+[DEBUG] Generating trivia for: Jared Triolo (ID: 669707), Event: field_out
+[DEBUG] Stats for Jared Triolo (ID: 669707): {'gamesPlayed': 29, 'groundOuts': 22, 'airOuts': 29, 'runs': 4, 'doubles': 5, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 13, 'baseOnBalls': 6, 'intentionalWalks': 0, 'hits': 12, 'hitByPitch': 1, 'avg': '.162', 'atBats': 74, 'obp': '.232', 'slg': '.270', 'ops': '.502', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 2, 'numberOfPitches': 298, 'plateAppearances': 83, 'totalBases': 20, 'rbi': 2, 'leftOnBase': 37, 'sacBunts': 1, 'sacFlies': 1, 'babip': '.180', 'groundOutsToAirouts': '0.76', 'catchersInterference': 0, 'atBatsPerHomeRun': '74.00'}
+[DEBUG] Generating trivia for: David Hensley (ID: 682073), Event: strikeout
+[DEBUG] Stats for David Hensley (ID: 682073): {}
+[DEBUG] Generating trivia for: Jhonny Pereda (ID: 640902), Event: single
+[DEBUG] Stats for Jhonny Pereda (ID: 640902): {'gamesPlayed': 14, 'groundOuts': 7, 'airOuts': 6, 'runs': 2, 'doubles': 1, 'triples': 0, 'homeRuns': 0, 'strikeOuts': 12, 'baseOnBalls': 3, 'intentionalWalks': 0, 'hits': 6, 'hitByPitch': 0, 'avg': '.194', 'atBats': 31, 'obp': '.265', 'slg': '.226', 'ops': '.491', 'caughtStealing': 0, 'stolenBases': 0, 'stolenBasePercentage': '.---', 'groundIntoDoublePlay': 0, 'numberOfPitches': 149, 'plateAppearances': 34, 'totalBases': 7, 'rbi': 1, 'leftOnBase': 11, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.316', 'groundOutsToAirouts': '1.17', 'catchersInterference': 0, 'atBatsPerHomeRun': '-.--'}
+[DEBUG] Generating trivia for: Javier Sanoja (ID: 691594), Event: single
+[DEBUG] Stats for Javier Sanoja (ID: 691594): {'gamesPlayed': 30, 'groundOuts': 23, 'airOuts': 25, 'runs': 10, 'doubles': 4, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 17, 'baseOnBalls': 5, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 0, 'avg': '.250', 'atBats': 84, 'obp': '.289', 'slg': '.333', 'ops': '.622', 'caughtStealing': 2, 'stolenBases': 2, 'stolenBasePercentage': '.500', 'groundIntoDoublePlay': 0, 'numberOfPitches': 348, 'plateAppearances': 91, 'totalBases': 28, 'rbi': 9, 'leftOnBase': 39, 'sacBunts': 1, 'sacFlies': 1, 'babip': '.299', 'groundOutsToAirouts': '0.92', 'catchersInterference': 0, 'atBatsPerHomeRun': '84.00'}
+[DEBUG] Generating trivia for: Jesús Sánchez (ID: 660821), Event: field_out
+[DEBUG] Stats for Jesús Sánchez (ID: 660821): {'gamesPlayed': 23, 'groundOuts': 20, 'airOuts': 22, 'runs': 4, 'doubles': 2, 'triples': 0, 'homeRuns': 1, 'strikeOuts': 21, 'baseOnBalls': 11, 'intentionalWalks': 0, 'hits': 19, 'hitByPitch': 1, 'avg': '.235', 'atBats': 81, 'obp': '.330', 'slg': '.296', 'ops': '.626', 'caughtStealing': 0, 'stolenBases': 4, 'stolenBasePercentage': '1.000', 'groundIntoDoublePlay': 1, 'numberOfPitches': 368, 'plateAppearances': 94, 'totalBases': 24, 'rbi': 8, 'leftOnBase': 34, 'sacBunts': 0, 'sacFlies': 1, 'babip': '.300', 'groundOutsToAirouts': '0.91', 'catchersInterference': 0, 'atBatsPerHomeRun': '81.00'}
+[DEBUG] Generating trivia for: Jake Burger (ID: 669394), Event: single
+[DEBUG] Stats for Jake Burger (ID: 669394): {'gamesPlayed': 32, 'groundOuts': 22, 'airOuts': 30, 'runs': 13, 'doubles': 5, 'triples': 0, 'homeRuns': 3, 'strikeOuts': 35, 'baseOnBalls': 4, 'intentionalWalks': 0, 'hits': 21, 'hitByPitch': 3, 'avg': '.198', 'atBats': 106, 'obp': '.243', 'slg': '.330', 'ops': '.573', 'caughtStealing': 1, 'stolenBases': 0, 'stolenBasePercentage': '.000', 'groundIntoDoublePlay': 0, 'numberOfPitches': 404, 'plateAppearances': 115, 'totalBases': 35, 'rbi': 12, 'leftOnBase': 36, 'sacBunts': 0, 'sacFlies': 2, 'babip': '.257', 'groundOutsToAirouts': '0.73', 'catchersInterference': 0, 'atBatsPerHomeRun': '35.33'}
+[DEBUG] Generating trivia for: Otto Lopez (ID: 672640), Event: strikeout
+[DEBUG] Stats for Otto Lopez (ID: 672640): {'gamesPlayed': 30, 'groundOuts': 40, 'airOuts': 27, 'runs': 15, 'doubles': 5, 'triples': 0, 'homeRuns': 2, 'strikeOuts': 17, 'baseOnBalls': 10, 'intentionalWalks': 1, 'hits': 25, 'hitByPitch': 0, 'avg': '.229', 'atBats': 109, 'obp': '.294', 'slg': '.330', 'ops': '.624', 'caughtStealing': 1, 'stolenBases': 3, 'stolenBasePercentage': '.750', 'groundIntoDoublePlay': 3, 'numberOfPitches': 408, 'plateAppearances': 119, 'totalBases': 36, 'rbi': 11, 'leftOnBase': 54, 'sacBunts': 0, 'sacFlies': 0, 'babip': '.256', 'groundOutsToAirouts': '1.48', 'catchersInterference': 0, 'atBatsPerHomeRun': '54.50'}
+
+Q1: Javier Sanoja was retired. How many outs has he made this season?
+A1: 48
+
+Q2: Jesús Sánchez was retired. How many outs has he made this season?
+A2: 42
+
+Q3: Jake Burger struck out. How many strikeouts does he have this season?
+A3: 35
+
+Q4: Isiah Kiner-Falefa hit a single. How many singles has he hit this season?
+A4: 25
+
+Q5: Bryan Reynolds hit a single. How many singles has he hit this season?
+A5: 24
+
+Q6: Oneil Cruz was retired. How many outs has he made this season?
+A6: 54
+
+Q7: Andrew McCutchen drew a walk. How many walks has he drawn this season?
+A7: 17
+
+Q8: Joey Bart reached on a fielder's choice. How many runs has he scored this season?
+A8: 7
+
+Q9: Rowdy Tellez grounded into a double play. How many double plays has he grounded into this season?
+A9: 4
+
+Q10: Otto Lopez was retired. How many outs has he made this season?
+A10: 67
+
+Q11: Griffin Conine was retired. How many outs has he made this season?
+A11: 27
+
+Q12: Jonah Bride was retired. How many outs has he made this season?
+A12: 36
+
+Q13: Nick Gonzales drew a walk. How many walks has he drawn this season?
+A13: 0
+
+Q14: Billy Cook was retired. How many outs has he made this season?
+A14: 0
+
+Q15: Jared Triolo struck out. How many strikeouts does he have this season?
+A15: 13
+
+Q16: Isiah Kiner-Falefa was caught stealing. How many times has he been caught stealing this season?
+A16: 2
+
+Q17: Kyle Stowers was retired. How many outs has he made this season?
+A17: 53
+
+Q18: David Hensley was retired. How many outs has he made this season?
+A18: 0
+
+Q19: Jhonny Pereda hit a single. How many singles has he hit this season?
+A19: 5
+
+Q20: Javier Sanoja struck out. How many strikeouts does he have this season?
+A20: 17
+
+Q21: Isiah Kiner-Falefa hit a single. How many singles has he hit this season?
+A21: 25
+
+Q22: Bryan Reynolds reached on a fielder's choice. How many runs has he scored this season?
+A22: 16
+
+Q23: Oneil Cruz struck out. How many strikeouts does he have this season?
+A23: 47
+
+Q24: Andrew McCutchen grounded into a double play. How many double plays has he grounded into this season?
+A24: 4
+
+Q25: Jesús Sánchez was retired. How many outs has he made this season?
+A25: 42
+
+Q26: Jake Burger struck out. How many strikeouts does he have this season?
+A26: 35
+
+Q27: Otto Lopez was retired. How many outs has he made this season?
+A27: 67
+
+Q28: Joey Bart hit a double. How many doubles has he hit this season?
+A28: 4
+
+Q29: Rowdy Tellez was retired. How many outs has he made this season?
+A29: 47
+
+Q30: Nick Gonzales was retired. How many outs has he made this season?
+A30: 0
+
+Q31: Billy Cook was retired. How many outs has he made this season?
+A31: 0
+
+Q32: Griffin Conine struck out. How many strikeouts does he have this season?
+A32: 19
+
+Q33: Jonah Bride was retired. How many outs has he made this season?
+A33: 36
+
+Q34: Kyle Stowers hit a double. How many doubles has he hit this season?
+A34: 4
+
+Q35: David Hensley drew a walk. How many walks has he drawn this season?
+A35: 0
+
+Q36: Jhonny Pereda hit a single. How many singles has he hit this season?
+A36: 5
+
+Q37: Javier Sanoja was retired. How many outs has he made this season?
+A37: 48
+
+Q38: Jared Triolo hit a double. How many doubles has he hit this season?
+A38: 5
+
+Q39: Isiah Kiner-Falefa was retired. How many outs has he made this season?
+A39: 59
+
+Q40: Bryan Reynolds hit a single. How many singles has he hit this season?
+A40: 24
+
+Q41: Oneil Cruz drew a walk. How many walks has he drawn this season?
+A41: 26
+
+Q42: Andrew McCutchen hit a home run. How many home runs does he have this season?
+A42: 3
+
+Q43: Joey Bart was retired. How many outs has he made this season?
+A43: 47
+
+Q44: Rowdy Tellez was retired. How many outs has he made this season?
+A44: 47
+
+Q45: Jesús Sánchez drew a walk. How many walks has he drawn this season?
+A45: 11
+
+Q46: Jake Burger was forced out. How many plate appearances does he have this season?
+A46: 115
+
+Q47: Otto Lopez hit a single. How many singles has he hit this season?
+A47: 18
+
+Q48: Griffin Conine drew a walk. How many walks has he drawn this season?
+A48: 7
+
+Q49: Jonah Bride hit a sacrifice fly. How many sac flies has he hit this season?
+A49: 1
+
+Q50: Kyle Stowers hit a double. How many doubles has he hit this season?
+A50: 4
+
+Q51: David Hensley struck out. How many strikeouts does he have this season?
+A51: 0
+
+Q52: Nick Gonzales was hit by a pitch. How many times has he been hit this season?
+A52: 0
+
+Q53: Billy Cook was retired. How many outs has he made this season?
+A53: 0
+
+Q54: Jared Triolo struck out. How many strikeouts does he have this season?
+A54: 13
+
+Q55: Isiah Kiner-Falefa struck out. How many strikeouts does he have this season?
+A55: 21
+
+Q56: Jhonny Pereda was retired. How many outs has he made this season?
+A56: 13
+
+Q57: Javier Sanoja was retired. How many outs has he made this season?
+A57: 48
+
+Q58: Jesús Sánchez struck out. How many strikeouts does he have this season?
+A58: 21
+
+Q59: Bryan Reynolds was retired. How many outs has he made this season?
+A59: 86
+
+Q60: Oneil Cruz struck out. How many strikeouts does he have this season?
+A60: 47
+
+Q61: Andrew McCutchen drew a walk. How many walks has he drawn this season?
+A61: 17
+
+Q62: Joey Bart struck out. How many strikeouts does he have this season?
+A62: 33
+
+Q63: Jake Burger was retired. How many outs has he made this season?
+A63: 52
+
+Q64: Otto Lopez drew a walk. How many walks has he drawn this season?
+A64: 10
+
+Q65: Griffin Conine struck out. How many strikeouts does he have this season?
+A65: 19
+
+Q66: Jonah Bride hit a single. How many singles has he hit this season?
+A66: 12
+
+Q67: Kyle Stowers was retired. How many outs has he made this season?
+A67: 53
+
+Q68: Rowdy Tellez was retired. How many outs has he made this season?
+A68: 47
+
+Q69: Nick Gonzales hit a single. How many singles has he hit this season?
+A69: 0
+
+Q70: Billy Cook was retired. How many outs has he made this season?
+A70: 0
+
+Q71: Jared Triolo was retired. How many outs has he made this season?
+A71: 51
+
+Q72: David Hensley struck out. How many strikeouts does he have this season?
+A72: 0
+
+Q73: Jhonny Pereda hit a single. How many singles has he hit this season?
+A73: 5
+
+Q74: Javier Sanoja hit a single. How many singles has he hit this season?
+A74: 16
+
+Q75: Jesús Sánchez was retired. How many outs has he made this season?
+A75: 42
+
+Q76: Jake Burger hit a single. How many singles has he hit this season?
+A76: 13
+
+Q77: Otto Lopez struck out. How many strikeouts does he have this season?
+A77: 17
